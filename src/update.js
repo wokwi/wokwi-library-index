@@ -8,9 +8,10 @@ async function main() {
   const req = await fetch('http://downloads.arduino.cc/libraries/library_index.json');
   const { libraries } = await req.json();
   const result = {
-    libraries: Array.from(new Set(libraries.map((lib) => lib.name))),
+    libraries: Array.from(new Set(libraries.map((lib) => lib.name))).sort(),
   };
   writeFileSync('docs/arduino.json', JSON.stringify(result));
+  console.log(`Total of ${result.libraries.length} arduino libraries.`);
 }
 
 main().catch(console.error);
