@@ -1,0 +1,16 @@
+{
+  "name": "wokwi-library-index",
+  "version": "1.0.0",
+  "main": "src/update.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/update.js"
+  },
+  "keywords": [],
+  "author": "Uri Shaked",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
