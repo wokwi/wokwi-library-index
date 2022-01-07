@@ -34,7 +34,7 @@ async function main() {
   const result = {
     libraries: Array.from(new Set(libraries.map((lib) => lib.name))).sort(),
   };
-  writeFileSync('docs/arduino.json', JSON.stringify(result));
+  writeFileSync('docs/arduino.json', JSON.stringify(result, null, ' '));
   console.log(`Total of ${result.libraries.length} arduino libraries.`);
 }
 
