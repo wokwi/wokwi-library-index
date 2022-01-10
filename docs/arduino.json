@@ -971,6 +971,7 @@
   "DFRobot_EnvironmentalSensor",
   "DFRobot_GM60",
   "DFRobot_ICG20660L",
+  "DFRobot_IICSerial",
   "DFRobot_LoRa",
   "DFRobot_MGC3130",
   "DFRobot_MLX90614",
