@@ -1846,6 +1846,7 @@
   "J1850 Arduino Transceiver Library",
   "J1850 VPW Arduino Transceiver Library",
   "JC_Button",
+  "JC_EEPROM",
   "JC_Sunrise",
   "JDI_MIP_Display",
   "JLed",
