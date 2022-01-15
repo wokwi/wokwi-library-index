@@ -3200,6 +3200,7 @@
   "Serde",
   "Serial Controlled Motor Driver",
   "Serial Data Exporter",
+  "SerialCmd",
   "SerialCom",
   "SerialCommand",
   "SerialCommands",
