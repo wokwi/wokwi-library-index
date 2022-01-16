@@ -717,6 +717,7 @@
   "Blynk_Teensy",
   "Blynk_WiFiManager",
   "Blynk_WiFiNINA_WM",
+  "Bme280",
   "Board Identify",
   "BobaBlox",
   "BohleBots_BNO055",
