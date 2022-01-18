@@ -1093,6 +1093,7 @@
   "Dimmer class for SAMD21",
   "DimmerControl",
   "DisplayMenu",
+  "DisplayUtils",
   "DistanceTable",
   "DmtrPots",
   "DmxSimple",
