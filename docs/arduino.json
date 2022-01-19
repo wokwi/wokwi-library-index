@@ -4194,6 +4194,7 @@
   "bitHelpers",
   "bitluni ESP32Lib",
   "ble_definitions",
+  "bluemicro_hid",
   "buildTime",
   "button_asukiaaa",
   "cI2C",
