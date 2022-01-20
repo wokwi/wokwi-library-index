@@ -783,6 +783,7 @@
   "CBUSLED",
   "CBUSSwitch",
   "CBUSconfig",
+  "CBeeper",
   "CC3000 MDNS",
   "CD4511B Seven Segment Display Driver",
   "CD74HC4067",
