@@ -3837,6 +3837,7 @@
   "TinyDebug",
   "TinyFontRenderer",
   "TinyGPS",
+  "TinyGPSPlus",
   "TinyGPSPlus-ESP32",
   "TinyGSM",
   "TinyLiquidCrystal",
