@@ -991,6 +991,8 @@
   "DFRobot_MCP23017",
   "DFRobot_MGC3130",
   "DFRobot_MLX90614",
+  "DFRobot_MPX5700",
+  "DFRobot_MaqueenPlus",
   "DFRobot_PAJ7620U2",
   "DFRobot_PN532",
   "DFRobot_RGBLCD1602",
