@@ -101,6 +101,7 @@
   "ATCommands",
   "ATM90E26 Arduino",
   "ATMlib",
+  "ATOM_DTU_CAT1",
   "ATOM_DTU_LoRaWAN",
   "ATOM_DTU_NB",
   "ATmega32U4 Grove Air quality sensor",
