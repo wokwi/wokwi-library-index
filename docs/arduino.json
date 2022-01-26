@@ -4292,6 +4292,7 @@
   "ezAnalogKeypad",
   "ezButton",
   "ezBuzzer",
+  "ezLED",
   "ezOutput",
   "ezTime",
   "fDigitsSegtPin",
