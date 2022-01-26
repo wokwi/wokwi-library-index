@@ -1504,6 +1504,7 @@
   "FlashStorage_STM32",
   "FlashStorage_STM32F1",
   "FlashStringTable",
+  "Fletcher",
   "FlexLibrary",
   "FlexiPlot Arduino Library",
   "FlexyStepper",
