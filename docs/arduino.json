@@ -1,5 +1,6 @@
 {
  "libraries": [
+  "107-Arduino-AS504x",
   "107-Arduino-BMP388",
   "107-Arduino-BoostUnits",
   "107-Arduino-Debug",
