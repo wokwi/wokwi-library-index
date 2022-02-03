@@ -4380,6 +4380,7 @@
   "lv_arduino",
   "lv_examples",
   "lvgl",
+  "lwIOLink",
   "lx16a-servo",
   "mDNSResolver",
   "mDash",
