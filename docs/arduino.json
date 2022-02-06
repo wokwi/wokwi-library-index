@@ -1394,6 +1394,7 @@
   "Ethernet_Manager_Portenta_H7",
   "Ethernet_Manager_STM32",
   "Ethernet_Shield_W5200",
+  "EventButton",
   "Eventually",
   "Every",
   "EveryTimer",
