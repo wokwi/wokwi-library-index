@@ -1014,6 +1014,7 @@
   "DFRobot_URM13",
   "DFRobot_VEML6075",
   "DFRobot_VEML7700",
+  "DFRobot_VL53L0X",
   "DFRobot_VL6180X",
   "DFRobot_VisualRotaryEncoder",
   "DFRobot_VoiceRecorder",
