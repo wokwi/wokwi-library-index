@@ -1398,6 +1398,7 @@
   "Ethernet_Shield_W5200",
   "EventAnalog",
   "EventButton",
+  "EventJoystick",
   "Eventually",
   "Every",
   "EveryTimer",
