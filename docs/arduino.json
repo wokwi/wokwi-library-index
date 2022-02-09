@@ -4454,6 +4454,7 @@
   "mupplet-display",
   "mwc_stepper",
   "my92xx",
+  "nRF52_MBED_PWM",
   "nRF52_MBED_Slow_PWM",
   "nRF52_OLED",
   "nRF52_Slow_PWM",
