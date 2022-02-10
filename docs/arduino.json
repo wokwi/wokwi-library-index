@@ -1712,6 +1712,7 @@
   "GyverUART",
   "GyverWDT",
   "HAMqttDevice",
+  "HAMqttDiscoveryHandler",
   "HC-SR04",
   "HCSR04",
   "HCSR04 ultrasonic sensor",
