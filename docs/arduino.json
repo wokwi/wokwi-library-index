@@ -2169,6 +2169,7 @@
   "MAX7XX-7-Segment",
   "MB85_FRAM",
   "MBEDSpeech",
+  "MBED_RP2040_PWM",
   "MBED_RP2040_Slow_PWM",
   "MBED_RPI_PICO_TimerInterrupt",
   "MBUSPayload",
