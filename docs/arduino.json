@@ -4116,6 +4116,7 @@
   "WiFiManager_Generic_Lite",
   "WiFiManager_NINA_Lite",
   "WiFiManager_Portenta_H7_Lite",
+  "WiFiMulti_Generic",
   "WiFiNINA",
   "WiFiNINA_Generic",
   "WiFiSpi",
