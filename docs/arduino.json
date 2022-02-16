@@ -4570,6 +4570,7 @@
   "timestamp32bits",
   "timing",
   "tinyECC",
+  "tinyESPNow",
   "tinyI2S",
   "tinySHT2x",
   "tinySPI",
