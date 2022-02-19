@@ -2710,6 +2710,7 @@
   "PWFusion_VL53L3C",
   "PWMFreak",
   "PWMMotorControl",
+  "PWMOutESP32",
   "PWMServo",
   "PWMrelay",
   "PZEM004Tv30",
