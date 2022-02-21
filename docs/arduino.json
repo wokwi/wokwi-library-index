@@ -1814,6 +1814,7 @@
   "I2C_DMAC",
   "I2C_EEPROM",
   "I2C_LCD12864",
+  "I2C_Scanner",
   "I2Commands",
   "I2cControlPanel_asukiaaa",
   "I2cDiscreteIoExpander",
