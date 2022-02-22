@@ -3374,6 +3374,7 @@
   "SimpleFTPServer",
   "SimpleFusion",
   "SimpleHOTP",
+  "SimpleJ1939",
   "SimpleKalmanFilter",
   "SimpleKeypad",
   "SimpleMeteoCalc",
