@@ -3143,6 +3143,7 @@
   "STM32duino FreeRTOS",
   "STM32duino HTS221",
   "STM32duino I-NUCLEO-LRWAN1",
+  "STM32duino IIS2DLPC",
   "STM32duino IIS2MDC",
   "STM32duino ISM330DHCX",
   "STM32duino ISM330DLC",
