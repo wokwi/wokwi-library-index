@@ -2426,6 +2426,7 @@
   "MkrGsm1400IoT",
   "MobaLedLib",
   "MobaTools",
+  "ModBusSlave",
   "ModbusConfig",
   "ModbusMaster",
   "ModbusRTUSlave",
