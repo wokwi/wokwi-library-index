@@ -562,6 +562,7 @@
   "AsyncHTTPRequest_Generic",
   "AsyncHTTPSRequest_Generic",
   "AsyncLiquidCrystal",
+  "AsyncSMS",
   "AsyncSerial",
   "AsyncServoLib",
   "AsyncSonar",
