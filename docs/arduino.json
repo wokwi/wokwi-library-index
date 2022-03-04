@@ -4304,6 +4304,8 @@
   "arduinoFFT",
   "arduinoVNC",
   "ardyno",
+  "artemis-arduino",
+  "artemis-teensy",
   "asip",
   "asip-services",
   "astra_esp8266",
