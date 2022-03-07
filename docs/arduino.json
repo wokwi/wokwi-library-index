@@ -556,6 +556,7 @@
   "Aspen SIM800",
   "AstroMech",
   "AsyncAnalog",
+  "AsyncBMP180Wrapper",
   "AsyncDNSServer_STM32",
   "AsyncDelay",
   "AsyncElegantOTA",
