@@ -2219,6 +2219,7 @@
   "MCCI FRAM I2C",
   "MCCI LoRaWAN LMIC library",
   "MCP23008",
+  "MCP23008_I2C",
   "MCP23017",
   "MCP23017_Attiny85",
   "MCP23017_I2C",
