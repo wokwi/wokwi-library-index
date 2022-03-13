@@ -3169,6 +3169,7 @@
   "STM32_PWM",
   "STM32_Slow_PWM",
   "STM32_TimerInterrupt",
+  "STM32ad9833",
   "STM32duino ASM330LHH",
   "STM32duino Examples",
   "STM32duino FP_Examples",
