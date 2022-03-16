@@ -3834,6 +3834,7 @@
   "TTN_esp32",
   "TTP229",
   "TVout",
+  "TXOnlySerial",
   "Tachometer",
   "TactNecklace",
   "TactileSwitch",
