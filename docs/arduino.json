@@ -2898,6 +2898,7 @@
   "QList",
   "QMC5883LCompass",
   "QNEthernet",
+  "QPESP32",
   "QRCode",
   "QTRSensors",
   "QZQSM",
