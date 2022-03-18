@@ -1190,6 +1190,7 @@
   "EEPROM_24LC64F",
   "EEPROM_CAT25",
   "EEPROM_Rotate",
+  "EEPROM_SPI_WE",
   "EEPROMextent",
   "EEPROMsimple",
   "EEWL",
