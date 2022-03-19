@@ -120,6 +120,7 @@
   "AWS-SDK-ESP8266",
   "AccelMotor",
   "AccelStepper",
+  "AccelStepperI2C",
   "AccelStepperWithDistances",
   "Accelerometer ADXL335",
   "Accelerometer ADXL345",
