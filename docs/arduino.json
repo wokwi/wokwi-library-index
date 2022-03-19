@@ -579,6 +579,7 @@
   "AsyncTimer",
   "AsyncTimerLib",
   "AsyncUDP_STM32",
+  "AsyncUDP_Teensy41",
   "AsyncUDP_WT32_ETH01",
   "AsyncWebConfig",
   "AsyncWebServer_STM32",
