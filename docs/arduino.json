@@ -563,6 +563,7 @@
   "AsyncDelay",
   "AsyncElegantOTA",
   "AsyncHTTPRequest_Generic",
+  "AsyncHTTPRequest_Teensy41",
   "AsyncHTTPSRequest_Generic",
   "AsyncLiquidCrystal",
   "AsyncMQTT_Generic",
