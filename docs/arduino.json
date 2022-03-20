@@ -3270,6 +3270,7 @@
   "STM32duino-Semihosting",
   "STM32duinoBLE",
   "STM32encoder",
+  "STM32mcp4151",
   "STUSB4500",
   "ST_HW_HC_SR04",
   "STools",
