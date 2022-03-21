@@ -561,6 +561,7 @@
   "AsyncAnalog",
   "AsyncBMP180Wrapper",
   "AsyncDNSServer_STM32",
+  "AsyncDNSServer_Teensy41",
   "AsyncDelay",
   "AsyncElegantOTA",
   "AsyncHTTPRequest_Generic",
