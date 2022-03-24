@@ -4504,6 +4504,7 @@
   "libasm",
   "libcli",
   "libedge",
+  "libnapc-nightly",
   "light_CD74HC4067",
   "log4Esp",
   "log4arduino",
