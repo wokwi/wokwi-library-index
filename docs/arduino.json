@@ -2350,6 +2350,7 @@
   "MQTT",
   "MQTT Client",
   "MQTTPubSubClient",
+  "MQTTPubSubClient_Generic",
   "MQUnifiedsensor",
   "MS5611",
   "MS5611_SPI",
