@@ -1150,6 +1150,7 @@
   "Dimmer class for ATmega32U4",
   "Dimmer class for SAMD21",
   "DimmerControl",
+  "Discord_WebHook",
   "DisplayMenu",
   "DisplayUtils",
   "DistanceTable",
