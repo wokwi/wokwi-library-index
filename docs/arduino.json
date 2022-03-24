@@ -1517,6 +1517,7 @@
   "FastLED",
   "FastLED NeoMatrix",
   "FastLED NeoPixel",
+  "FastLEDHub",
   "FastLEDManager",
   "FastLED_RPIRGBPanel_GFX",
   "FastLED_SPITFT_GFX",
