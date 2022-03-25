@@ -1024,6 +1024,7 @@
   "DFRobot_ICP10111",
   "DFRobot_ID809_I2C",
   "DFRobot_IICSerial",
+  "DFRobot_INA219",
   "DFRobot_LIS",
   "DFRobot_LWLP",
   "DFRobot_LoRa",
