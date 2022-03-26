@@ -1146,6 +1146,7 @@
   "Digital Rain Animation for TFT_eSPI",
   "DigitalIO",
   "DigitalPressureSensor",
+  "DigitalSignalsArduino",
   "DimSwitch",
   "Dimmable Light for Arduino",
   "Dimmer class for ATmega32U4",
