@@ -2490,6 +2490,7 @@
   "MotorVID28",
   "Motor_PID",
   "Motor_RS",
+  "Motoron",
   "Mouse",
   "Moving Average Plus",
   "MovingAverage",
