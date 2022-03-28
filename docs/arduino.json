@@ -2592,6 +2592,7 @@
   "NexgenAHRS",
   "NexgenFilter",
   "NexgenMotorShield",
+  "NexgenSBUS",
   "NexgenTimer",
   "Nextion",
   "Nextion Serial String",
