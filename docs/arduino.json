@@ -1240,6 +1240,7 @@
   "ESP32 AnalogWrite",
   "ESP32 BLE ANCS Notifications",
   "ESP32 BLE Arduino",
+  "ESP32 Control",
   "ESP32 Digital RGB LED Drivers",
   "ESP32 ESP32S2 AnalogWrite",
   "ESP32 HUB75 LED MATRIX PANEL DMA Display",
