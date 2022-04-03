@@ -1445,6 +1445,7 @@
   "EthernetWebServer_SSL",
   "EthernetWebServer_SSL_STM32",
   "EthernetWebServer_STM32",
+  "Ethernet_Generic",
   "Ethernet_Manager",
   "Ethernet_Manager_Portenta_H7",
   "Ethernet_Manager_STM32",
