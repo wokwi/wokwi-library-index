@@ -2123,6 +2123,7 @@
   "LiquidCrystal I2C",
   "LiquidCrystal NKC",
   "LiquidCrystalIO",
+  "LiquidCrystalSerial",
   "LiquidCrystalWired",
   "LiquidCrystal_74HC595",
   "LiquidCrystal_AIP31068",
