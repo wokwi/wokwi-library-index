@@ -543,6 +543,7 @@
   "Ark-Cpp-Client",
   "Ark-Cpp-Crypto",
   "Array",
+  "ArrayExt",
   "ArrbotMonitor",
   "ArsaLearn",
   "ArtNet",
