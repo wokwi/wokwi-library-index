@@ -1772,6 +1772,7 @@
   "HC-SR04",
   "HCSR04",
   "HCSR04 ultrasonic sensor",
+  "HD44780_LCD_PCF8574",
   "HDC1000",
   "HID Buttons",
   "HID-Project",
