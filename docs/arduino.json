@@ -3401,6 +3401,7 @@
   "SerialMP3Player",
   "SerialMenuCmd",
   "SerialRFID",
+  "SerialRecord",
   "SerialTerminal",
   "SerialTerminalPRO",
   "SerialToWifi",
