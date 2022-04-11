@@ -530,6 +530,7 @@
   "Arduino_MKRRGB",
   "Arduino_MKRTHERM",
   "Arduino_MachineControl",
+  "Arduino_MultiWiFi",
   "Arduino_NineAxesMotion",
   "Arduino_OAuth",
   "Arduino_OV767X",
