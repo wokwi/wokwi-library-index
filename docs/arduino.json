@@ -432,6 +432,7 @@
   "ArcPID",
   "ArdBitmap",
   "ArdOSC",
+  "ArdRTOS",
   "ArdTap",
   "ArdUAV",
   "ArdVoice",
