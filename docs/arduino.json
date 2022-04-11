@@ -2196,6 +2196,8 @@
   "M2M Solutions TLV Library",
   "M5 Stack 4Relay Library",
   "M5-CoreInk",
+  "M5-Depends",
+  "M5-Outdepends",
   "M5Atom",
   "M5Core2",
   "M5EPD",
