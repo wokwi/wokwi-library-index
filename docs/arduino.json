@@ -588,6 +588,7 @@
   "AsyncUDP_Teensy41",
   "AsyncUDP_WT32_ETH01",
   "AsyncWebConfig",
+  "AsyncWebServer_Ethernet",
   "AsyncWebServer_STM32",
   "AsyncWebServer_Teensy41",
   "AsyncWebServer_WT32_ETH01",
