@@ -584,6 +584,7 @@
   "AsyncTelegram2",
   "AsyncTimer",
   "AsyncTimerLib",
+  "AsyncUDP_Ethernet",
   "AsyncUDP_STM32",
   "AsyncUDP_Teensy41",
   "AsyncUDP_WT32_ETH01",
