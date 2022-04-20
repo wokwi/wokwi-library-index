@@ -925,6 +925,7 @@
   "Computherm RF Library",
   "ConductivityLib",
   "ConfigManager",
+  "ConfigStorage",
   "ConfigTool",
   "ConfigurableFirmata",
   "ConnectThings_ESP8266",
