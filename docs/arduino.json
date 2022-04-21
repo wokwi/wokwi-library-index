@@ -4493,6 +4493,7 @@
   "ezLED",
   "ezOutput",
   "ezTime",
+  "ez_SIPO8_lib",
   "ez_switch_lib",
   "fDigitsSegtPin",
   "fastIO",
