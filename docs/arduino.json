@@ -919,6 +919,7 @@
   "ComDriverSpi",
   "CommandParser",
   "Commander",
+  "Commander-API",
   "Commanders",
   "Comp6DOF_n0m1",
   "Complex",
