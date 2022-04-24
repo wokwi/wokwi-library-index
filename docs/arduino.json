@@ -4747,6 +4747,7 @@
   "tinyI2S",
   "tinySHT2x",
   "tinySPI",
+  "tinyTimeR",
   "tinyUDP",
   "tinyhal",
   "tinyproto",
