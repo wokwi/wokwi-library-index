@@ -932,6 +932,7 @@
   "ConnectThings_ESP8266",
   "Console",
   "Constellation",
+  "ContinuousStepper",
   "ControleForno",
   "Controlino",
   "ControlledServo",
