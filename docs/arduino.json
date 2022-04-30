@@ -4591,6 +4591,7 @@
   "lv_examples",
   "lvgl",
   "lwIOLink",
+  "lwIP",
   "lx16a-servo",
   "mDNSResolver",
   "mDash",
