@@ -643,6 +643,7 @@
   "BLE SDK for Arduino",
   "BLE-MIDI",
   "BLEPeripheral",
+  "BLESensorGateway",
   "BLESerial",
   "BLVD20KM_asukiaaa",
   "BM64 Library",
