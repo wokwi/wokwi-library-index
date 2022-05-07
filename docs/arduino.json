@@ -3516,6 +3516,7 @@
   "SimpleEspNowConnection",
   "SimpleExpressions",
   "SimpleFOCDrivers",
+  "SimpleFSM",
   "SimpleFTPServer",
   "SimpleFusion",
   "SimpleHOTP",
