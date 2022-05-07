@@ -3214,6 +3214,7 @@
   "SIKTEC_AVR_Controller",
   "SIKTEC_MDSwitch",
   "SIKTEC_Rotary",
+  "SIKTEC_SPI",
   "SIKTEC_SdExplore",
   "SIM800L HTTP connector",
   "SIM808",
