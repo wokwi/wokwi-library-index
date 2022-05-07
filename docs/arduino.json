@@ -3216,6 +3216,7 @@
   "SIKTEC_MDSwitch",
   "SIKTEC_Rotary",
   "SIKTEC_SPI",
+  "SIKTEC_SRAM",
   "SIKTEC_SdExplore",
   "SIM800L HTTP connector",
   "SIM808",
