@@ -1516,6 +1516,7 @@
   "FT81x Arduino Driver",
   "FTDebouncer",
   "FTOLED",
+  "FTPClient_Generic",
   "FTP_Server_Teensy41",
   "FTRGBLED",
   "FTTech Aqualabo Sensors",
