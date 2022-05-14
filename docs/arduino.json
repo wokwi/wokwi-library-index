@@ -835,6 +835,8 @@
   "CMMC_NB-IoT",
   "CONTROLLINO",
   "CPPTasks",
+  "CPUTemp",
+  "CPUVolt",
   "CRC",
   "CRC Simula Arduino IDE Library",
   "CRC VCNL4200 Library",
