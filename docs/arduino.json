@@ -118,6 +118,7 @@
   "AVR_Slow_PWM",
   "AVision_ESP8266",
   "AWS-SDK-ESP8266",
+  "AXP202X_Library",
   "AccelMotor",
   "AccelStepper",
   "AccelStepperI2C",
