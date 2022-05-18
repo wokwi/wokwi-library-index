@@ -2092,6 +2092,7 @@
   "LED744511",
   "LEDDriver",
   "LEDMatrixDriver",
+  "LED_Controls",
   "LGFXMeter",
   "LG_Matrix_Print",
   "LIDAR-Lite",
