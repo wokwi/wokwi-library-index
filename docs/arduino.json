@@ -3113,6 +3113,7 @@
   "RTL8720_RTC",
   "RTL8720_TimerInterrupt",
   "RTT QRCode",
+  "RTT Stream",
   "RTT-CMSIS-OS",
   "RTT-Ethernet",
   "RTT-GUI",
