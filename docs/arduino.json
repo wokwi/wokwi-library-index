@@ -3105,6 +3105,7 @@
   "RP2040_Slow_PWM",
   "RPI_PICO_TimerInterrupt",
   "RRE Font Library",
+  "RS485",
   "RS485HwSerial",
   "RSbus",
   "RT-Thread",
