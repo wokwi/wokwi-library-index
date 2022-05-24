@@ -1082,6 +1082,7 @@
   "DFRobot_PN532",
   "DFRobot_QMC5883",
   "DFRobot_RGBLCD1602",
+  "DFRobot_RGBMatrix",
   "DFRobot_RS01",
   "DFRobot_RTU",
   "DFRobot_SGP40",
