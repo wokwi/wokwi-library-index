@@ -1581,6 +1581,7 @@
   "FastCRC",
   "FastCapacitiveSensor",
   "FastGPIO",
+  "FastInterruptEncoder",
   "FastLED",
   "FastLED NeoMatrix",
   "FastLED NeoPixel",
