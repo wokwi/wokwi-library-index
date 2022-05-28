@@ -3861,6 +3861,7 @@
   "Sqlite3 for ESP8266",
   "Sqlite3Esp32",
   "StackString",
+  "StackmatTimer",
   "StarterRemote",
   "StateMachine",
   "StateMachineLib",
