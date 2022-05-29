@@ -2157,6 +2157,7 @@
   "LedControl",
   "LedController",
   "LedDisplay",
+  "LedMatrix8X8",
   "LedRGBlib",
   "LedSync",
   "LedUtil",
