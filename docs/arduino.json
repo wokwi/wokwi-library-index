@@ -2641,6 +2641,7 @@
   "NFuncs",
   "NHB_AD7124",
   "NHB_AD7794",
+  "NHCSR04",
   "NMEAParser",
   "NOKIA5110_TEXT",
   "NPush",
