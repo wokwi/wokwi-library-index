@@ -3718,6 +3718,7 @@
   "SparkFun Angular Displacement Sensor Arduino Library",
   "SparkFun BH1749NUC Arduino Library",
   "SparkFun BME280",
+  "SparkFun BMP384 Arduino Library",
   "SparkFun BNO080 Cortex Based IMU",
   "SparkFun BQ27441 LiPo Fuel Gauge Arduino Library",
   "SparkFun Bar Graph Library",
