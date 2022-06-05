@@ -42,6 +42,7 @@
   "AD7390 DAC library",
   "AD9850SPI",
   "AD985X",
+  "ADCButtons",
   "ADCDRP",
   "ADCTouch",
   "ADCTouchSensor",
