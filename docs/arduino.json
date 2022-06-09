@@ -1291,6 +1291,7 @@
   "ESP-Google-Sheet-Client",
   "ESP-StepperMotor-Server",
   "ESP-WiFiSettings",
+  "ESP2SOTA",
   "ESP32 AnalogWrite",
   "ESP32 BLE ANCS Notifications",
   "ESP32 BLE Arduino",
