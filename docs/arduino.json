@@ -4537,6 +4537,7 @@
   "bitHelpers",
   "bitluni ESP32Lib",
   "ble_definitions",
+  "bluemicro_engine",
   "bluemicro_hid",
   "btnapi",
   "buildTime",
