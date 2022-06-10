@@ -2669,6 +2669,7 @@
   "NTP",
   "NTPClient",
   "NTPClient_Generic",
+  "NTPtime",
   "NTimer",
   "NVSRAM",
   "NX2003 library",
