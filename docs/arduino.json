@@ -2239,6 +2239,7 @@
   "LoRandom",
   "LocoNet",
   "Log",
+  "LogToQueue",
   "LogansGreatButton",
   "Logger",
   "LongFi",
