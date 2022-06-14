@@ -1866,6 +1866,7 @@
   "HT1632",
   "HT16K33",
   "HTTP",
+  "HTTPed",
   "HTU21D Sensor Library",
   "HUSB238Driver",
   "HV518",
@@ -4261,6 +4262,7 @@
   "USBStatus",
   "USIWire",
   "UTFT_SdRaw",
+  "UUID",
   "Ubidots Arduino YUN",
   "Ubidots FONA Library",
   "Ubidots GPRS Library",
@@ -4930,6 +4932,7 @@
   "wiring-timer",
   "wm8978-esp32",
   "wolfssl",
+  "wordwrap",
   "wpi-32u4-library",
   "xbee_serial_array",
   "zForce Air Library"
