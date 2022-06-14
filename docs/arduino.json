@@ -4552,6 +4552,7 @@
   "ble_definitions",
   "bluemicro_engine",
   "bluemicro_hid",
+  "bluemicro_nrf52",
   "btnapi",
   "buildTime",
   "button_asukiaaa",
