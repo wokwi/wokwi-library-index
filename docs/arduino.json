@@ -3460,6 +3460,7 @@
   "SchooMyUtilities",
   "ScreenUi",
   "ScrollingText8x8Display",
+  "SdCardServer",
   "SdFat",
   "SdFat - Adafruit Fork",
   "SdTerminal",
