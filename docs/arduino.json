@@ -1320,6 +1320,7 @@
   "ESP32DMASPI",
   "ESP32Encoder",
   "ESP32Logger",
+  "ESP32MX1508",
   "ESP32MotorControl",
   "ESP32SPISlave",
   "ESP32Servo",
