@@ -3629,6 +3629,7 @@
   "SimpleUDPController",
   "SimpleWiFiClient",
   "Simple_HCSR04",
+  "Simple_Robot_Motor_Control",
   "Simpletimer",
   "SimplyAtomic",
   "Sindormir SevenSegments",
