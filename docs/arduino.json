@@ -3631,6 +3631,7 @@
   "SimpleTimer",
   "SimpleUDPController",
   "SimpleWiFiClient",
+  "Simple_HC-SR04_Control",
   "Simple_HCSR04",
   "Simple_Robot_Motor_Control",
   "Simpletimer",
