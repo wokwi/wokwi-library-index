@@ -2486,6 +2486,7 @@
   "MQ7Sensor",
   "MQTT",
   "MQTT Client",
+  "MQTT and Serial Printer",
   "MQTTPubSubClient",
   "MQTTPubSubClient_Generic",
   "MQUnifiedsensor",
