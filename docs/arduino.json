@@ -2682,6 +2682,7 @@
   "N64Pad",
   "NB_Generic",
   "NColor",
+  "NDEF_MFRC522",
   "NDNOverUDP",
   "NDefs",
   "NEO-6M_GPS",
