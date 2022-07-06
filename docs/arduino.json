@@ -2314,6 +2314,7 @@
   "M5Core2",
   "M5EPD",
   "M5FacesEncoder",
+  "M5Family",
   "M5GFX",
   "M5Stack",
   "M5Stack-SD-Updater",
