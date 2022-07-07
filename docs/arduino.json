@@ -2327,6 +2327,7 @@
   "M5Unified",
   "M5Unit-ENV",
   "M5Unit-KMeter",
+  "M5Unit-MQTT",
   "M5_AD9833",
   "M5_ADS1100",
   "M5_ADS1115",
