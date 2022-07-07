@@ -2878,6 +2878,7 @@
   "PCM51xx DAC",
   "PDLS_EXT3_Basic",
   "PDLS_EXT3_Basic_Fast",
+  "PDLS_EXT3_Basic_Touch",
   "PE43xx",
   "PF",
   "PGMWrap",
