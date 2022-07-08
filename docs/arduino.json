@@ -2832,6 +2832,7 @@
   "OpenBCI_Radios",
   "OpenBCI_Wifi",
   "OpenBCI_Wifi_Master",
+  "OpenBehavior",
   "OpenDevice",
   "OpenLCB_Single_Thread",
   "OpenMRNLite",
