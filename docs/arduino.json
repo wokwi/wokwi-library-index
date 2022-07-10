@@ -1972,6 +1972,7 @@
   "I2C_LCD12864",
   "I2C_Scanner",
   "I2Commands",
+  "I2Cwrapper",
   "I2cControlPanel_asukiaaa",
   "I2cDiscreteIoExpander",
   "I2cMotors_asukiaaa",
