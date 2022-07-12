@@ -1349,6 +1349,7 @@
   "ESP32-imgur-uploader",
   "ESP32-targz",
   "ESP32AnalogRead",
+  "ESP32Console",
   "ESP32DMASPI",
   "ESP32Encoder",
   "ESP32Logger",
