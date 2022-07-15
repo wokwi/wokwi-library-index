@@ -2347,6 +2347,7 @@
   "M5Unit-KMeter",
   "M5Unit-MQTT",
   "M5Unit-PoESP32",
+  "M5Unit-RTC",
   "M5_AD9833",
   "M5_ADS1100",
   "M5_ADS1115",
