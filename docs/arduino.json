@@ -1419,6 +1419,7 @@
   "ESPVGAX",
   "ESPVGAX2",
   "ESPWebDAV",
+  "ESPWiFiMqttWrapper",
   "ESP_8_BIT Color Composite Video Library",
   "ESP_AT_Lib",
   "ESP_AT_WM_Lite",
