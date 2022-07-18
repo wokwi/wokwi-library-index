@@ -552,6 +552,7 @@
   "Arduino_ScienceJournal",
   "Arduino_Sensorkit",
   "Arduino_TensorFlowLite",
+  "Arduino_Threads",
   "ArduinosInSpace",
   "Ark-Cpp-Client",
   "Ark-Cpp-Crypto",
