@@ -4875,6 +4875,7 @@
   "pca9633",
   "pcf8574",
   "pdulib",
+  "pfodParser",
   "phyphox BLE",
   "pimoroniTrackball",
   "ping-arduino",
