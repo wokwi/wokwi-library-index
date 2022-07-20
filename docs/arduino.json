@@ -3562,6 +3562,7 @@
   "Sensirion Core",
   "Sensirion Gadget BLE Arduino Lib",
   "Sensirion Gas Index Algorithm",
+  "Sensirion I2C SCD30",
   "Sensirion I2C SCD4x",
   "Sensirion I2C SDP",
   "Sensirion I2C SEN44",
