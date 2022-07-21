@@ -2355,6 +2355,7 @@
   "M5Unit-PoESP32",
   "M5Unit-RTC",
   "M5Unit-Sonic",
+  "M5Unit-UHF-RFID",
   "M5_AD9833",
   "M5_ADS1100",
   "M5_ADS1115",
