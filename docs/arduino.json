@@ -1160,6 +1160,7 @@
   "DS1307RTC",
   "DS1307newAlarms",
   "DS1624",
+  "DS1624_Library",
   "DS1631",
   "DS1821",
   "DS1881",
