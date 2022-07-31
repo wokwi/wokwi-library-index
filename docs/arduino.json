@@ -1438,6 +1438,7 @@
   "ESP_MultiResetDetector",
   "ESP_WiFiManager",
   "ESP_WiFiManager_Lite",
+  "ESPboy",
   "ESPectro",
   "ESPectro32",
   "ESPert",
