@@ -1688,6 +1688,7 @@
   "FirstBuild - Relay",
   "FixedPoint_LUT",
   "FixedPoints",
+  "FixedString",
   "Flash",
   "FlashLightLED",
   "FlashStorage",
