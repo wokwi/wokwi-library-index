@@ -588,6 +588,7 @@
   "AsyncDelay",
   "AsyncElegantOTA",
   "AsyncHTTPRequest_Generic",
+  "AsyncHTTPRequest_RP2040W",
   "AsyncHTTPRequest_Teensy41",
   "AsyncHTTPSRequest_Generic",
   "AsyncLiquidCrystal",
