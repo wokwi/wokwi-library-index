@@ -598,6 +598,7 @@
   "AsyncSonar",
   "AsyncStepperLib",
   "AsyncStream",
+  "AsyncTCP_RP2040W",
   "AsyncTCP_SSL",
   "AsyncTaskLib",
   "AsyncTelegram2",
