@@ -610,6 +610,7 @@
   "AsyncUDP_WT32_ETH01",
   "AsyncWebConfig",
   "AsyncWebServer_Ethernet",
+  "AsyncWebServer_RP2040W",
   "AsyncWebServer_STM32",
   "AsyncWebServer_Teensy41",
   "AsyncWebServer_WT32_ETH01",
