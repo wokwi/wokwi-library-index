@@ -606,6 +606,7 @@
   "AsyncTimer",
   "AsyncTimerLib",
   "AsyncUDP_Ethernet",
+  "AsyncUDP_RP2040W",
   "AsyncUDP_STM32",
   "AsyncUDP_Teensy41",
   "AsyncUDP_WT32_ETH01",
