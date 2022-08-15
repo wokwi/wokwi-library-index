@@ -2108,6 +2108,7 @@
   "JPEGDecoder",
   "JPEGENC",
   "JTAG",
+  "JTAG_Interface",
   "JWA BME280",
   "JeVe_EasyOTA",
   "Joba Tsl2561 Library",
