@@ -2381,6 +2381,7 @@
   "M5Unit-KMeter",
   "M5Unit-MQTT",
   "M5Unit-PoESP32",
+  "M5Unit-RELAY",
   "M5Unit-RTC",
   "M5Unit-Sonic",
   "M5Unit-UHF-RFID",
