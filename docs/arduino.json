@@ -2741,6 +2741,7 @@
   "MyBlinker",
   "MyButton",
   "MyDelay",
+  "MyMacros",
   "MyOwnBricks",
   "MySQL Connector Arduino",
   "MySQL_MariaDB_Generic",
