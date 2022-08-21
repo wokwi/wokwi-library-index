@@ -1588,6 +1588,7 @@
   "EventButton",
   "EventEthernet",
   "EventJoystick",
+  "EventSystem",
   "Eventually",
   "Every",
   "EveryTimer",
