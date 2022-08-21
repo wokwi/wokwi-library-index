@@ -4535,6 +4535,7 @@
   "WiFiManager_Generic_Lite",
   "WiFiManager_NINA_Lite",
   "WiFiManager_Portenta_H7_Lite",
+  "WiFiManager_RP2040W",
   "WiFiManager_RP2040W_Lite",
   "WiFiManager_RTL8720",
   "WiFiMulti_Generic",
