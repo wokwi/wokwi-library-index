@@ -119,6 +119,7 @@
   "ATOM_DTU_LoRaWAN",
   "ATOM_DTU_NB",
   "ATmega32U4 Grove Air quality sensor",
+  "ATmega_TimerInterrupt",
   "ATtinySerialOut",
   "AUnit",
   "AVR Standard C Time Library",
