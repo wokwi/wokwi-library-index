@@ -1297,6 +1297,7 @@
   "DueTimer",
   "Dump",
   "Dusk2Dawn",
+  "Dx_TimerInterrupt",
   "Dynamixel",
   "Dynamixel2Arduino",
   "DynamixelShield",
