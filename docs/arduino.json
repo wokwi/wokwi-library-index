@@ -2776,6 +2776,7 @@
   "NHB_AD7124",
   "NHB_AD7794",
   "NHCSR04",
+  "NHD_Character_LCD",
   "NMEAParser",
   "NOKIA5110_TEXT",
   "NPush",
