@@ -4524,6 +4524,7 @@
   "WeatherStationDataRx",
   "WebConfig",
   "WebSerial",
+  "WebSerialLite",
   "WebServer_WT32_ETH01",
   "WebSocketStreamClient",
   "WebSockets",
