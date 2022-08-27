@@ -122,6 +122,7 @@
   "ATmega_Slow_PWM",
   "ATmega_TimerInterrupt",
   "ATtinySerialOut",
+  "ATtiny_TimerInterrupt",
   "AUnit",
   "AVR Standard C Time Library",
   "AVR-IoT MCP9808",
