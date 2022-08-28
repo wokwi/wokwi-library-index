@@ -4313,6 +4313,7 @@
   "TinyGPSPlus-ESP32",
   "TinyGSM",
   "TinyLiquidCrystal",
+  "TinyLiquidCrystal_I2C",
   "TinyLoRa",
   "TinyMPU6050",
   "TinyMegaI2C",
