@@ -3748,6 +3748,7 @@
   "SimpleFOCDrivers",
   "SimpleFSM",
   "SimpleFTPServer",
+  "SimpleFilter",
   "SimpleFusion",
   "SimpleHOTP",
   "SimpleIOT",
