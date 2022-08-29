@@ -1,5 +1,6 @@
 {
  "libraries": [
+  "107-Arduino-APDS-9950",
   "107-Arduino-AS504x",
   "107-Arduino-BMP388",
   "107-Arduino-BoostUnits",
@@ -2020,6 +2021,7 @@
   "I2C_EEPROM",
   "I2C_Functions",
   "I2C_LCD12864",
+  "I2C_SCANNER",
   "I2C_Scanner",
   "I2Commands",
   "I2Cwrapper",
