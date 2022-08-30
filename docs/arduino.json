@@ -1301,6 +1301,7 @@
   "DueTimer",
   "Dump",
   "Dusk2Dawn",
+  "DvG_StreamCommand",
   "Dx_Slow_PWM",
   "Dx_TimerInterrupt",
   "Dynamixel",
