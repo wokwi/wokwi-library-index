@@ -4868,6 +4868,7 @@
   "libasm",
   "libcli",
   "libedge",
+  "libnapc",
   "light_CD74HC4067",
   "linaGFX",
   "log4Esp",
