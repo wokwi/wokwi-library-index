@@ -2098,6 +2098,7 @@
   "InterpolationLib",
   "Interval",
   "IntervalCallback",
+  "IntervalTimerEx",
   "IoAbstraction",
   "IoT Pipe",
   "IoTController",
