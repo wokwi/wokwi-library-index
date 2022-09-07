@@ -631,6 +631,7 @@
   "Atmega8_IO",
   "Atmega8_IO_basic",
   "Atmel TSS463C VAN bus Datalink Controller library",
+  "AttachInterruptEx",
   "Attiny84_IO",
   "Attiny84_IO_basic",
   "Attiny85_IO",
