@@ -4697,6 +4697,7 @@
   "advancedSerial",
   "analogComp",
   "anto-esp8266-arduino",
+  "arduFPGA-app-common-arduino",
   "ardubson",
   "arduino-NVM",
   "arduino-async-duplex",
