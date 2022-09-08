@@ -433,6 +433,7 @@
   "AnalogKeypad by Makuna",
   "AnalogMultiButton",
   "AnalogPin",
+  "AnalogRTCLib",
   "AnalogReadAsync",
   "AnalogTouch",
   "AnalogUVSensor",
