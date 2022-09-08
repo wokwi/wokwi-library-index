@@ -2603,6 +2603,7 @@
   "MTCParser",
   "MTP40C",
   "MX1508",
+  "MacroDebugger",
   "MacroLogger",
   "Madgwick",
   "MaerklinMotorola",
