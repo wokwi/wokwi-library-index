@@ -2714,6 +2714,7 @@
   "MobaLedLib",
   "MobaTools",
   "Mock",
+  "MockEEPROM",
   "ModBusSlave",
   "ModbusConfig",
   "ModbusMaster",
