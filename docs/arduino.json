@@ -4893,6 +4893,7 @@
   "leOS2",
   "ledflasher",
   "libCBOR",
+  "libTrial",
   "libasm",
   "libcli",
   "libedge",
