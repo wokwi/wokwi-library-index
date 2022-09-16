@@ -3030,7 +3030,7 @@
   "PRDC_RS485HD_STM32",
   "PRDC_ServoHT",
   "PRDC_TMAESC",
-  "PROGMEM Assert",
+  "PROGMEMAssert",
   "PS-33D I2C",
   "PS2KeyAdvanced",
   "PS2KeyMap",
