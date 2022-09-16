@@ -1110,6 +1110,7 @@
   "DFRobot_MAX17043",
   "DFRobot_MAX31855",
   "DFRobot_MCP23017",
+  "DFRobot_MCP2515",
   "DFRobot_MCP4725",
   "DFRobot_MCP9808",
   "DFRobot_MGC3130",
