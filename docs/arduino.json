@@ -2924,6 +2924,7 @@
   "ObjectButton",
   "ObloqAdafruit",
   "OctoPrintAPI",
+  "OctoPrinter",
   "OctoSonar",
   "OctoWS2811",
   "Octofet",
