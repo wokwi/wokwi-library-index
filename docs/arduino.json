@@ -937,6 +937,7 @@
   "CircularBufferLib",
   "CircularQueue",
   "Clap",
+  "CleanRTOS",
   "CliTerminal",
   "ClimaStick",
   "ClimateGuard CG Anem",
