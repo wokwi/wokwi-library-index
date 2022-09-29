@@ -2042,6 +2042,7 @@
   "I2CExtension",
   "I2CHelper",
   "I2CKeyPad",
+  "I2CKeyPad8x8",
   "I2CScanner",
   "I2CSoilMoistureSensor",
   "I2C_24LC1025",
