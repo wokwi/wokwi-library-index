@@ -2159,6 +2159,7 @@
   "JC_Sunrise",
   "JDI_MIP_Display",
   "JLed",
+  "JLedPCA9685-HAL",
   "JMAFoundation",
   "JMA_SPComm",
   "JMotor",
