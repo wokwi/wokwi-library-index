@@ -3211,6 +3211,7 @@
   "ProtoCentral AFE4490 PPG and SpO2 boards library",
   "ProtoCentral FDC1004 Capacitive Sensor Library",
   "ProtoCentral HealthyPi v4 Library",
+  "ProtoCentral MAX30001",
   "ProtoCentral MAX30003 ECG AFE Sensor Library",
   "ProtoCentral MAX30205 Body Temperature Sensor Library",
   "ProtoCentral MAX86150 PPG and ECG IC library",
