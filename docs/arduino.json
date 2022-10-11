@@ -1562,6 +1562,7 @@
   "EmbedUI",
   "Embedded Template Library ETL",
   "Embedded Type-C PID",
+  "EmbeddedMqttBroker",
   "EmbeddedUtils",
   "Embedis",
   "EmonLib",
