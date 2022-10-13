@@ -1,5 +1,6 @@
 {
  "libraries": [
+  "1. Makerlabvn_I2C_Motor_Driver",
   "107-Arduino-APDS-9950",
   "107-Arduino-AS504x",
   "107-Arduino-BMP388",
