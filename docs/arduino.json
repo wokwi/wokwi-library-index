@@ -1,6 +1,5 @@
 {
  "libraries": [
-  "1. Makerlabvn_I2C_Motor_Driver",
   "107-Arduino-APDS-9950",
   "107-Arduino-AS504x",
   "107-Arduino-BMP388",
@@ -2144,9 +2143,9 @@
   "IntervalTimerEx",
   "IoAbstraction",
   "IoT Pipe",
+  "IoT Suite",
   "IoTController",
   "IoTGuru",
-  "IoTSuite",
   "IoTWay",
   "IoTWebConf_for_Visuino_modified_by_IoT_Jedi",
   "IoT_Modules-Buttons",
@@ -2657,6 +2656,7 @@
   "Mahony",
   "Maidenhead",
   "MakerVision",
+  "Makerlabvn_I2C_Motor_Driver",
   "MakestroCloudClient",
   "ManuvrDrivers",
   "Mapf",
