@@ -3383,6 +3383,7 @@
   "RTCTimer",
   "RTCVars",
   "RTCZero",
+  "RTC_RX8025T",
   "RTClib",
   "RTCtime",
   "RTCx",
