@@ -5028,6 +5028,7 @@
   "max7219",
   "mbino",
   "mcp_can",
+  "megaAVR_PWM",
   "megaAVR_Slow_PWM",
   "megaAVR_TimerInterrupt",
   "micro Maqueen",
