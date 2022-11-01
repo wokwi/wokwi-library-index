@@ -1443,6 +1443,7 @@
   "ESP32_BleSerial",
   "ESP32_C3_ISR_Servo",
   "ESP32_C3_TimerInterrupt",
+  "ESP32_FastPWM",
   "ESP32_HTTPS_Server",
   "ESP32_ISR_Servo",
   "ESP32_New_ISR_Servo",
