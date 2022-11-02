@@ -2066,6 +2066,7 @@
   "I2C-Sensor-Lib iLib",
   "I2CExtension",
   "I2CHelper",
+  "I2CIP",
   "I2CKeyPad",
   "I2CKeyPad8x8",
   "I2CScanner",
