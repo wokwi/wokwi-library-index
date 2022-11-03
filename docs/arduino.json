@@ -3513,6 +3513,7 @@
   "SAMDUE_Slow_PWM",
   "SAMDUE_TimerInterrupt",
   "SAMD_ISR_Servo",
+  "SAMD_PWM",
   "SAMD_Slow_PWM",
   "SAMD_TimerInterrupt",
   "SBC",
