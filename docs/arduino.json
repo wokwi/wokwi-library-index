@@ -2526,6 +2526,7 @@
   "MCCI LoRaWAN LMIC library",
   "MCCI-Catena-PMS7003",
   "MCCI-Catena-SHT3x",
+  "MCMVoltSense",
   "MCP23008",
   "MCP23008_I2C",
   "MCP23017",
