@@ -3511,6 +3511,7 @@
   "SAM32WiFiEsp",
   "SAMD21 Audio Player",
   "SAMD21 turbo PWM",
+  "SAMDUE_PWM",
   "SAMDUE_Slow_PWM",
   "SAMDUE_TimerInterrupt",
   "SAMD_ISR_Servo",
