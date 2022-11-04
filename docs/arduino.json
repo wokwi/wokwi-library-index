@@ -1733,6 +1733,7 @@
   "FastMap",
   "FastPID",
   "FastShiftIn",
+  "FastShiftInOut",
   "FastShiftOut",
   "FastTrig",
   "Fastcore",
