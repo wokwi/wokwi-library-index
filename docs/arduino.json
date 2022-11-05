@@ -5102,6 +5102,7 @@
   "nRF52_MBED_PWM",
   "nRF52_MBED_Slow_PWM",
   "nRF52_OLED",
+  "nRF52_PWM",
   "nRF52_Slow_PWM",
   "nRF905 Radio Library",
   "nanoFORTH",
