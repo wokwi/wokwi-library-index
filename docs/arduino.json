@@ -3601,6 +3601,7 @@
   "SRAMsimple",
   "SRF05",
   "SSD1306Ascii",
+  "SSD1306TUR",
   "SSD1803A_I2C",
   "SSLClient",
   "SST25VF",
