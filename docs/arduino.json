@@ -1342,6 +1342,7 @@
   "Dump",
   "Dusk2Dawn",
   "DvG_StreamCommand",
+  "Dx_PWM",
   "Dx_Slow_PWM",
   "Dx_TimerInterrupt",
   "Dynamixel",
