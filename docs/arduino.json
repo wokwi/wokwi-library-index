@@ -1182,6 +1182,7 @@
   "DHT12",
   "DHT12 sensor library",
   "DHT20",
+  "DHT22",
   "DHT2pin",
   "DHTINT",
   "DHTNEW",
