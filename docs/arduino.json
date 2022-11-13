@@ -5196,6 +5196,7 @@
   "serial-readline",
   "serialEEPROM",
   "serialMux",
+  "servodht11",
   "settingsManager",
   "sevenSegment",
   "sevenSegmentDisplay",
