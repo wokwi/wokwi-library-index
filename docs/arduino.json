@@ -4912,6 +4912,7 @@
   "desklab",
   "detaBaseArduinoESP32",
   "dht11esp8266",
+  "dht11esp8266examples",
   "digitalPinFast",
   "digitalWriteFast",
   "directADC",
