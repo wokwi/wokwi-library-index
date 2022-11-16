@@ -2503,6 +2503,7 @@
   "MAX30100lib",
   "MAX3010x Sensor Library",
   "MAX3100 Serial",
+  "MAX31850",
   "MAX31850 DallasTemp",
   "MAX31850 OneWire",
   "MAX31855",
