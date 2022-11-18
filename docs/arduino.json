@@ -5090,6 +5090,7 @@
   "miniDAC",
   "mjson",
   "modbus-esp8266",
+  "modem-bgxx",
   "moduloMap",
   "motor system IC TLE956x",
   "movingAvg",
