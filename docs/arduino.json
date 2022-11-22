@@ -5292,6 +5292,8 @@
   "uMT",
   "uMulti",
   "uMuxOutputLib",
+  "uMyo_BLE",
+  "uMyo_RF24",
   "uRTCLib",
   "uSevenSegmentLib",
   "uStepper",
