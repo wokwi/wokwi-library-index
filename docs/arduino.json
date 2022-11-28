@@ -4711,6 +4711,7 @@
   "WebConfig",
   "WebSerial",
   "WebSerialLite",
+  "WebServer_ESP32_ENC",
   "WebServer_WT32_ETH01",
   "WebSocketStreamClient",
   "WebSockets",
