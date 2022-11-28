@@ -4456,6 +4456,7 @@
   "Time",
   "TimeAlarms",
   "TimeInterrupt",
+  "TimeInterval",
   "TimeOut",
   "TimeProfiler",
   "TimeRandom",
