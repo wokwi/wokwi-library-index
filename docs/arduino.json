@@ -633,6 +633,7 @@
   "AsyncUDP_STM32",
   "AsyncUDP_Teensy41",
   "AsyncUDP_WT32_ETH01",
+  "AsyncUdp_ESP32_ENC",
   "AsyncWebConfig",
   "AsyncWebServer_ESP32_ENC",
   "AsyncWebServer_Ethernet",
