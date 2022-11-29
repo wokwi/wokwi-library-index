@@ -605,6 +605,7 @@
   "AstroMech",
   "AsyncAnalog",
   "AsyncBMP180Wrapper",
+  "AsyncDNSServer_ESP32_ENC",
   "AsyncDNSServer_RP2040W",
   "AsyncDNSServer_STM32",
   "AsyncDNSServer_Teensy41",
