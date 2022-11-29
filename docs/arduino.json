@@ -4975,6 +4975,7 @@
   "esp-echonet-lite",
   "esp-fs-webserver",
   "esp32FOTA",
+  "esp32_codec2",
   "esp32_ftpclient",
   "esp32_gamepad",
   "esp32_https_server_compat",
