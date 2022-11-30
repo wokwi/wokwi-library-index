@@ -4308,6 +4308,7 @@
   "TFTTerminal",
   "TFT_22_ILI9225",
   "TFT_eSPI",
+  "TFT_eSPI_ES32Lab",
   "TFT_eWidget",
   "TFminiArduino",
   "TGP Bouton",
