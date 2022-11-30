@@ -639,6 +639,7 @@
   "AsyncUdp_ESP32_ENC",
   "AsyncWebConfig",
   "AsyncWebServer_ESP32_ENC",
+  "AsyncWebServer_ESP32_W5500",
   "AsyncWebServer_Ethernet",
   "AsyncWebServer_RP2040W",
   "AsyncWebServer_STM32",
