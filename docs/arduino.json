@@ -4497,6 +4497,7 @@
   "Tiny4kOLED",
   "TinyCBOR",
   "TinyCmdTable",
+  "TinyConsole",
   "TinyDHT sensor library",
   "TinyDatabase_Arduino",
   "TinyDebug",
