@@ -631,6 +631,7 @@
   "AsyncTelegram2",
   "AsyncTimer",
   "AsyncTimerLib",
+  "AsyncUDP_ESP32_W5500",
   "AsyncUDP_Ethernet",
   "AsyncUDP_RP2040W",
   "AsyncUDP_STM32",
