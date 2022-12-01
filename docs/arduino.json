@@ -1519,6 +1519,7 @@
   "ESPManager",
   "ESPNexUpload",
   "ESPPerfectTime",
+  "ESPPubSubClientWrapper",
   "ESPSerialFlasher",
   "ESPStringTemplate",
   "ESPUI",
