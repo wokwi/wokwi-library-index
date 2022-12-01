@@ -1699,6 +1699,7 @@
   "FIR filter",
   "FLE",
   "FMDataClient",
+  "FORCE2",
   "FPGAArcade Replay MKR Vidor 4000",
   "FRAM_I2C",
   "FS_Nano33BLE",
