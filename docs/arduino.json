@@ -1456,6 +1456,7 @@
   "ESP32AnalogRead",
   "ESP32Console",
   "ESP32DMASPI",
+  "ESP32Dispatcher",
   "ESP32Encoder",
   "ESP32Logger",
   "ESP32MX1508",
