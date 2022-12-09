@@ -1759,6 +1759,7 @@
   "FastCRC",
   "FastCapacitiveSensor",
   "FastGPIO",
+  "FastIMU",
   "FastInterruptEncoder",
   "FastLED",
   "FastLED NeoMatrix",
