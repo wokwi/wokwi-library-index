@@ -618,6 +618,7 @@
   "AsyncDNSServer_Teensy41",
   "AsyncDNSServer_WT32_ETH01",
   "AsyncDelay",
+  "AsyncESP32_W5500_Manager",
   "AsyncElegantOTA",
   "AsyncHTTPRequest_Generic",
   "AsyncHTTPRequest_RP2040W",
