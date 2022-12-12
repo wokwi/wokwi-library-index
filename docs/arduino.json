@@ -1515,6 +1515,7 @@
   "ESP8266Scheduler",
   "ESP8266TimerInterrupt",
   "ESP8266_AT_WebServer",
+  "ESP8266_ENC_Manager",
   "ESP8266_ISR_Servo",
   "ESP8266_LED_64x16_Matrix",
   "ESP8266_PWM",
