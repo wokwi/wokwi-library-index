@@ -1518,6 +1518,7 @@
   "ESP8266_ISR_Servo",
   "ESP8266_LED_64x16_Matrix",
   "ESP8266_PWM",
+  "ESP8266_W5500_Manager",
   "ESP8266_multipart",
   "ESPAsync_WiFiManager",
   "ESPAsync_WiFiManager_Lite",
