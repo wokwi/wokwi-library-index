@@ -622,6 +622,7 @@
   "AsyncESP32_Ethernet_Manager",
   "AsyncESP32_W5500_Manager",
   "AsyncESP8266_ENC_Manager",
+  "AsyncESP8266_Ethernet_Manager",
   "AsyncESP8266_W5100_Manager",
   "AsyncESP8266_W5500_Manager",
   "AsyncElegantOTA",
