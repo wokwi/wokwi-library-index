@@ -1528,6 +1528,7 @@
   "ESP8266_W5500_Manager",
   "ESP8266_multipart",
   "ESPAsyncTCP",
+  "ESPAsyncWebSrv",
   "ESPAsync_WiFiManager",
   "ESPAsync_WiFiManager_Lite",
   "ESPAutoWiFiConfig",
