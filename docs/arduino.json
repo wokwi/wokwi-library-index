@@ -621,6 +621,7 @@
   "AsyncDelay",
   "AsyncESP32_ENC_Manager",
   "AsyncESP32_Ethernet_Manager",
+  "AsyncESP32_SC_ENC_Manager",
   "AsyncESP32_SC_W5500_Manager",
   "AsyncESP32_W5500_Manager",
   "AsyncESP8266_ENC_Manager",
