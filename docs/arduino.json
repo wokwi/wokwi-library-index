@@ -5133,6 +5133,7 @@
   "jm_Pin",
   "jm_Scheduler",
   "jm_Wire",
+  "joystick_module",
   "jsonlib",
   "kRPC",
   "kc868-arduino-library",
