@@ -1499,6 +1499,7 @@
   "ESP32_Pinoo",
   "ESP32_S2_ISR_Servo",
   "ESP32_S2_TimerInterrupt",
+  "ESP32_SC_ENC_Manager",
   "ESP32_SC_W5500_Manager",
   "ESP32_VS1053_Stream",
   "ESP32_W5500_Manager",
