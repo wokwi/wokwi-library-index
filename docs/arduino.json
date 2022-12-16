@@ -3351,6 +3351,7 @@
   "ProtoCentral MAX86150 PPG and ECG IC library",
   "ProtoCentral MLX90632 Non-contact temperature Library",
   "ProtoCentral Pulse Express SpO2 Heartrate and BPT sensor",
+  "ProtoCentral TLA20xx",
   "Protothreads",
   "Ps2KeyboardHost",
   "PsxNewLib",
