@@ -562,6 +562,7 @@
   "Arduino_DebugUtils",
   "Arduino_EMBRYO_2",
   "Arduino_EdgeControl",
+  "Arduino_HS300x",
   "Arduino_HTS221",
   "Arduino_JSON",
   "Arduino_KNN",
