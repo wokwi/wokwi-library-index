@@ -1849,6 +1849,7 @@
   "FlightSimOutputs",
   "FlightSimSwitches",
   "Flinduino_Sensorkit",
+  "FlowSensor",
   "Force",
   "Forced-BME280",
   "Forecaster",
