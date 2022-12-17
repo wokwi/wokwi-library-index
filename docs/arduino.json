@@ -631,6 +631,7 @@
   "AsyncESP8266_W5100_Manager",
   "AsyncESP8266_W5500_Manager",
   "AsyncElegantOTA",
+  "AsyncHTTPRequest_ESP32_Ethernet",
   "AsyncHTTPRequest_Generic",
   "AsyncHTTPRequest_RP2040W",
   "AsyncHTTPRequest_Teensy41",
