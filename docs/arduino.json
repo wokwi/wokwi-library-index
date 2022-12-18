@@ -3527,6 +3527,7 @@
   "RapifireMqttClient",
   "RazorIMU_9DOF",
   "Rcn600",
+  "Rdebug",
   "ReGIS",
   "ReactESP",
   "React_Generic",
