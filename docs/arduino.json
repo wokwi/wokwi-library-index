@@ -2274,6 +2274,7 @@
   "JPEGDEC",
   "JPEGDecoder",
   "JPEGENC",
+  "JRCCARLIB",
   "JTAG",
   "JTAG_Interface",
   "JWA BME280",
