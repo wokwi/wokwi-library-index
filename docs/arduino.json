@@ -5366,6 +5366,7 @@
   "timersapi",
   "timestamp32bits",
   "timing",
+  "tiny-collections",
   "tinyCore",
   "tinyECC",
   "tinyESPNow",
