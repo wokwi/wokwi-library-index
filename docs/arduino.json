@@ -5098,6 +5098,7 @@
   "ez_switch_lib",
   "fDigitsSegtPin",
   "fastIO",
+  "fast_math",
   "fast_samd21_tc",
   "fishyDIYdevices",
   "fix_fft",
