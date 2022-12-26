@@ -3942,6 +3942,7 @@
   "ServoESP32",
   "ServoEasing",
   "ServoInput",
+  "ServoMotor",
   "ServoOsc",
   "ServoSmooth",
   "SetPoint",
