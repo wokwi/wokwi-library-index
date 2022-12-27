@@ -1654,6 +1654,7 @@
   "EmbeddedMqttBroker",
   "EmbeddedUtils",
   "Embedis",
+  "EmberGL",
   "EmonLib",
   "EmotiBit ADS1X15",
   "EmotiBit BMI160",
