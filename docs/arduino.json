@@ -1613,6 +1613,7 @@
   "EasyGNSS",
   "EasyHTTP",
   "EasyLed",
+  "EasyLogger",
   "EasyMorse",
   "EasyNTPClient",
   "EasyOpenTherm",
