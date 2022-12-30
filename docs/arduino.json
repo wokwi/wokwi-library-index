@@ -3706,6 +3706,7 @@
   "SPIFlash_LowPowerLab",
   "SPIMemory",
   "SPIShiftRegister",
+  "SPL06-001",
   "SPL06-007",
   "SRAM",
   "SRAM_23LC",
