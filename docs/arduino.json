@@ -1729,6 +1729,8 @@
   "EventOS",
   "EventSystem",
   "Eventually",
+  "EventuallyCommand",
+  "EventuallyStateMachine",
   "Every",
   "EveryTimer",
   "ExampleLibrary",
