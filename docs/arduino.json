@@ -4003,6 +4003,7 @@
   "SimpleBox",
   "SimpleCLI",
   "SimpleCollections",
+  "SimpleComponents",
   "SimpleDHT",
   "SimpleEncoder",
   "SimpleEspNowConnection",
