@@ -1697,6 +1697,7 @@
   "EspSimpleRemoteUpdate",
   "EspSimpleWifiHandler",
   "EspSoftwareSerial",
+  "EspUsbHost",
   "EspWii",
   "Espalexa",
   "Esparto",
