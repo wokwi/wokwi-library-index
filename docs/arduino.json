@@ -3832,6 +3832,7 @@
   "STM32duino X-NUCLEO-S2915A1",
   "STM32duino-Semihosting",
   "STM32duinoBLE",
+  "STM32duinoLoRaWAN",
   "STM32encoder",
   "STM32mcp4151",
   "STS_Servos",
