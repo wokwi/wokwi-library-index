@@ -4,6 +4,7 @@
   "107-Arduino-AS504x",
   "107-Arduino-BMP388",
   "107-Arduino-BoostUnits",
+  "107-Arduino-CriticalSection",
   "107-Arduino-Cyphal",
   "107-Arduino-Debug",
   "107-Arduino-MCP2515",
