@@ -2109,6 +2109,7 @@
   "HX711 Arduino Library",
   "HX711_ADC",
   "HX711_asukiaaa",
+  "HaCEspSockets",
   "HaCTimers",
   "HaCWifiManager",
   "HaLake-M5Stack-Library",
