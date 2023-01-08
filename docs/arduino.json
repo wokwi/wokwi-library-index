@@ -732,6 +732,7 @@
   "BME680",
   "BME68x Sensor library",
   "BMP180MI",
+  "BMP280",
   "BMP280_DEV",
   "BMP388_DEV",
   "BMx280MI",
