@@ -671,6 +671,7 @@
   "AsyncWebServer_ESP32_ENC",
   "AsyncWebServer_ESP32_SC_ENC",
   "AsyncWebServer_ESP32_SC_W5500",
+  "AsyncWebServer_ESP32_SC_W6100",
   "AsyncWebServer_ESP32_W5500",
   "AsyncWebServer_Ethernet",
   "AsyncWebServer_RP2040W",
