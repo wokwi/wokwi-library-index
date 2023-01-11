@@ -619,6 +619,7 @@
   "AsyncDNSServer_ESP32_ENC",
   "AsyncDNSServer_ESP32_Ethernet",
   "AsyncDNSServer_ESP32_W5500",
+  "AsyncDNSServer_ESP32_W6100",
   "AsyncDNSServer_RP2040W",
   "AsyncDNSServer_STM32",
   "AsyncDNSServer_Teensy41",
