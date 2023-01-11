@@ -657,6 +657,7 @@
   "AsyncTelegram2",
   "AsyncTimer",
   "AsyncTimerLib",
+  "AsyncUDP_ESP32_Ethernet",
   "AsyncUDP_ESP32_SC_ENC",
   "AsyncUDP_ESP32_SC_Ethernet",
   "AsyncUDP_ESP32_SC_W5500",
