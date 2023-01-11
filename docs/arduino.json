@@ -3937,6 +3937,7 @@
   "SensorModbusMaster",
   "SensorPlot WebInterface",
   "SensorToButton",
+  "SensorWLED",
   "SeqButton",
   "SeqTimer",
   "SercomSPISlave",
