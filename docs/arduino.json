@@ -631,6 +631,7 @@
   "AsyncESP32_SC_Ethernet_Manager",
   "AsyncESP32_SC_W5500_Manager",
   "AsyncESP32_W5500_Manager",
+  "AsyncESP32_W6100_Manager",
   "AsyncESP8266_ENC_Manager",
   "AsyncESP8266_Ethernet_Manager",
   "AsyncESP8266_W5100_Manager",
