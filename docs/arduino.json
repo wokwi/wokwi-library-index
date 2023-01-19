@@ -3287,6 +3287,7 @@
   "Parallax LCD",
   "ParallelPrinter",
   "Parse Arduino SDK",
+  "ParseCommands",
   "Parser",
   "PathVariableHandlers",
   "PaunaStepper",
