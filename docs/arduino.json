@@ -447,6 +447,7 @@
   "AnalogKeyboard",
   "AnalogKeypad",
   "AnalogKeypad by Makuna",
+  "AnalogLEDDriver",
   "AnalogMultiButton",
   "AnalogPin",
   "AnalogRTCLib",
