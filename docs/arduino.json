@@ -1066,6 +1066,7 @@
   "Console",
   "Constellation",
   "ContinuousStepper",
+  "ContinuousStepper_Generic",
   "ControlLoop",
   "ControleForno",
   "Controlino",
