@@ -2091,6 +2091,7 @@
   "HAMqttDevice",
   "HAMqttDiscoveryHandler",
   "HC-SR04",
+  "HC4067",
   "HCSR04",
   "HCSR04 ultrasonic sensor",
   "HC_SR04",
