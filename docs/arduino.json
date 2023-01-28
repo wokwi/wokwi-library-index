@@ -3373,6 +3373,7 @@
   "Portenta_H7_PWM",
   "Portenta_H7_Slow_PWM",
   "Portenta_H7_TimerInterrupt",
+  "PositionControl",
   "Potentiostat_Shield",
   "PowerFlex4m",
   "Powerbaas",
