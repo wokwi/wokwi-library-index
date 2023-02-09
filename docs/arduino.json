@@ -2391,6 +2391,7 @@
   "L298NDriver",
   "L298N_MotorDriver",
   "L3G",
+  "LC709204F",
   "LCBUrl",
   "LCD03",
   "LCDBigNumbers",
