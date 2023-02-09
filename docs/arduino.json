@@ -1682,6 +1682,7 @@
   "EmonLib",
   "EmotiBit ADS1X15",
   "EmotiBit BMI160",
+  "EmotiBit EmojiLib",
   "EmotiBit External EEPROM",
   "EmotiBit FeatherWing",
   "EmotiBit MAX30101",
