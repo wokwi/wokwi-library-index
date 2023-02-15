@@ -4407,6 +4407,7 @@
   "Stepper",
   "StepperControl",
   "StepperDriver",
+  "StepperMotor",
   "Stepper_28BYJ_48",
   "StereoSID",
   "StivSeg",
