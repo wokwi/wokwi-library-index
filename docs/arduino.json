@@ -5101,6 +5101,7 @@
   "bitluni ESP32Lib",
   "ble_definitions",
   "bluemicro_engine",
+  "bluemicro_exmpl",
   "bluemicro_hid",
   "bluemicro_nrf52",
   "bluemicro_rp2040",
