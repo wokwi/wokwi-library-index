@@ -4720,6 +4720,7 @@
   "TouchEvent",
   "TouchKeypad",
   "TouchWheel",
+  "TpdButton",
   "Tr4cker",
   "TrapeZoid",
   "TriSonica_Mini",
