@@ -3220,6 +3220,7 @@
   "PCA9635",
   "PCA9685",
   "PCA9685 16-Channel PWM Driver Module Library",
+  "PCA9685_LED_DRIVER",
   "PCA9685_RT",
   "PCA9698",
   "PCD8544",
