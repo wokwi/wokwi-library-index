@@ -3640,6 +3640,7 @@
   "RemoteDebugger",
   "RemoteMe",
   "RemoteMeUtils",
+  "RemoteSignal",
   "RemoteXY",
   "RequestBuilder",
   "ResistorReader_asukiaaa",
