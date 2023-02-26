@@ -3253,6 +3253,7 @@
   "PID controllers Modular Professional",
   "PIDController",
   "PID_RT",
+  "PID_v1_bc",
   "PID_v2",
   "PIO8255",
   "PIR",
