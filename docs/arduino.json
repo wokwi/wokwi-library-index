@@ -1726,6 +1726,7 @@
   "Esp32WifiManager",
   "EspATMQTT",
   "EspBootstrap",
+  "EspEasyUtils",
   "EspHtmlTemplateProcessor",
   "EspMQTTClient",
   "EspNow2Mqtt",
