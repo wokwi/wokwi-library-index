@@ -556,6 +556,7 @@
   "Arduino_APA102",
   "Arduino_APDS9960",
   "Arduino_AVRSTL",
+  "Arduino_AdvancedAnalog",
   "Arduino_BHY2",
   "Arduino_BHY2Host",
   "Arduino_BMI270_BMM150",
