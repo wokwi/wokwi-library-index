@@ -1768,6 +1768,7 @@
   "EventOS",
   "EventSystem",
   "Eventually",
+  "Eventually2",
   "EventuallyCommand",
   "EventuallyStateMachine",
   "Every",
