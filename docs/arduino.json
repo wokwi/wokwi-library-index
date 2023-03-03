@@ -1511,6 +1511,7 @@
   "ESP32-BLE-MIDI",
   "ESP32-Chimera-Core",
   "ESP32-ENC28J60",
+  "ESP32-OTA",
   "ESP32-OTA-Pull",
   "ESP32-PSRamFS",
   "ESP32-USB-Soft-Host",
