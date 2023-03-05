@@ -3656,6 +3656,7 @@
   "RemoteMeUtils",
   "RemoteSignal",
   "RemoteXY",
+  "RepeatButton",
   "RequestBuilder",
   "ResistorReader_asukiaaa",
   "ResponsiveAnalogRead",
