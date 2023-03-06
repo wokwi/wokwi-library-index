@@ -4819,6 +4819,7 @@
   "USBControllerLib",
   "USBHID",
   "USBHost",
+  "USBHostMbed5",
   "USBMIDI",
   "USBPause",
   "USBStatus",
