@@ -4085,6 +4085,7 @@
   "ShiftInSlow",
   "ShiftOutMega",
   "ShiftOutSlow",
+  "ShiftRegister",
   "ShiftRegister-PWM-Library",
   "ShiftRegister74HC595",
   "Shifty",
