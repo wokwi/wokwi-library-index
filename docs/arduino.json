@@ -2165,6 +2165,7 @@
   "HX711",
   "HX711 Arduino Library",
   "HX711_ADC",
+  "HX711_MP",
   "HX711_asukiaaa",
   "HaCEspSockets",
   "HaCTimers",
