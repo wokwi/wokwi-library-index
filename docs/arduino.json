@@ -4119,6 +4119,7 @@
   "SimpleCLI",
   "SimpleCollections",
   "SimpleComponents",
+  "SimpleDCMotor",
   "SimpleDHT",
   "SimpleEncoder",
   "SimpleEspNowConnection",
