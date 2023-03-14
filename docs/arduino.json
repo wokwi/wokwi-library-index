@@ -1815,6 +1815,7 @@
   "FRAM_I2C",
   "FS_Nano33BLE",
   "FSerial",
+  "FT6236G",
   "FT81x Arduino Driver",
   "FTDebouncer",
   "FTOLED",
