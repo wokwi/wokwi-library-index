@@ -121,6 +121,7 @@
   "AT24C256 library",
   "AT24CM01",
   "AT24Cxx",
+  "AT24MAC402",
   "AT42QT",
   "ATC_MiThermometer",
   "ATCommands",
