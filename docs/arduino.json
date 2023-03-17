@@ -5305,6 +5305,7 @@
   "home-assistant-integration",
   "homecontrol-mqtt",
   "hp_BH1750",
+  "hsmcpp",
   "hueDino",
   "hx710b_arduino",
   "i2c_adc_ads7828",
