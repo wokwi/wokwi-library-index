@@ -1,5 +1,6 @@
 {
  "libraries": [
+  "107-Arduino-24LCxx",
   "107-Arduino-APDS-9950",
   "107-Arduino-AS504x",
   "107-Arduino-BMP388",
