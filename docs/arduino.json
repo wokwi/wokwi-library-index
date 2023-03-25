@@ -5186,6 +5186,7 @@
   "avdweb_SAMDtimer",
   "avdweb_VirtualDelay",
   "avr_stl",
+  "avrtos",
   "base64",
   "basicCalculus",
   "basicGLCD",
