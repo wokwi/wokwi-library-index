@@ -1715,6 +1715,7 @@
   "EmberGL",
   "EmonLib",
   "EmotiBit ADS1X15",
+  "EmotiBit ArduinoFilters",
   "EmotiBit BMI160",
   "EmotiBit EmojiLib",
   "EmotiBit External EEPROM",
