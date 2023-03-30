@@ -3777,6 +3777,7 @@
   "SC16IS7X0",
   "SCA100T",
   "SCL3300",
+  "SCPI_Parser",
   "SD",
   "SDConfig",
   "SDConfigCommand",
