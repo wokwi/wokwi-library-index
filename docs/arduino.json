@@ -5102,6 +5102,8 @@
   "XboxControllerNotificationParser",
   "XboxSeriesXControllerESP32_asukiaaa",
   "XboxSeriesXHIDReportBuilder_asukiaaa",
+  "Xsens_MTi_I2C",
+  "Xsens_MTi_SPI",
   "XxHash_arduino",
   "YAAWS",
   "YACL",
