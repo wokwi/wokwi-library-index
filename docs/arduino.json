@@ -2461,6 +2461,7 @@
   "LED Dithering",
   "LED744511",
   "LEDDriver",
+  "LEDDrivers_NXP_Arduino",
   "LEDMatrixDriver",
   "LED_Controls",
   "LGFXMeter",
