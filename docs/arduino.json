@@ -1592,6 +1592,7 @@
   "ESP8266MQTTClient",
   "ESP8266RTTTLPlus",
   "ESP8266RestClient",
+  "ESP8266SAM",
   "ESP8266SDUpdater",
   "ESP8266Scheduler",
   "ESP8266TimerInterrupt",
