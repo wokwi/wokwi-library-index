@@ -798,6 +798,7 @@
   "BaudotCode",
   "Beacon",
   "BeaconNano",
+  "BeeDataLogger",
   "BeeMotionS3",
   "BeeS3",
   "Beelan LoRaWAN",
