@@ -5107,6 +5107,7 @@
   "XLR8Wire",
   "XMC_Servo",
   "XMLWriter",
+  "XModem transfer library",
   "XPT2046_Calibrated",
   "XPT2046_Touchscreen",
   "XPowersLib",
