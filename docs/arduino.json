@@ -5120,6 +5120,7 @@
   "XboxControllerNotificationParser",
   "XboxSeriesXControllerESP32_asukiaaa",
   "XboxSeriesXHIDReportBuilder_asukiaaa",
+  "Xiao NRF52840 Battery",
   "Xsens_MTi_I2C",
   "Xsens_MTi_SPI",
   "XxHash_arduino",
