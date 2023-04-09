@@ -3069,6 +3069,7 @@
   "NDEF_MFRC522",
   "NDNOverUDP",
   "NDefs",
+  "NE555",
   "NEO-6M_GPS",
   "NETSGPClient",
   "NEvents",
