@@ -1755,6 +1755,7 @@
   "EscornabotEXT",
   "Esp32SimplePacketComs",
   "Esp32WifiManager",
+  "Esp8266-Mqtt-Canary",
   "EspATMQTT",
   "EspBootstrap",
   "EspEasyUtils",
