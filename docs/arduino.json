@@ -1119,6 +1119,7 @@
   "CurrentSwitch",
   "CurrentTransformer",
   "CurrentTransformerWithCallbacks",
+  "CursedDoubleLinkedListInterface",
   "CurveFitting",
   "Custom PID",
   "CustomJWT",
