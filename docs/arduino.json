@@ -7,6 +7,7 @@
   "107-Arduino-BoostUnits",
   "107-Arduino-CriticalSection",
   "107-Arduino-Cyphal",
+  "107-Arduino-Cyphal-Support",
   "107-Arduino-Debug",
   "107-Arduino-MCP2515",
   "107-Arduino-NMEA-Parser",
