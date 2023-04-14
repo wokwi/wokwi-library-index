@@ -4099,6 +4099,7 @@
   "Sensirion UART SFA3x",
   "Sensirion UART SVM40",
   "Sensirion UART Svm41",
+  "Sensirion_UPT_Core",
   "Sensor",
   "Sensor Communication Library",
   "SensorFusion",
