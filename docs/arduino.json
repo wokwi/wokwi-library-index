@@ -1646,6 +1646,7 @@
   "ESP_EEPROM",
   "ESP_LM35",
   "ESP_MultiResetDetector",
+  "ESP_TF",
   "ESP_WiFiManager",
   "ESP_WiFiManager_Lite",
   "ESPboy",
