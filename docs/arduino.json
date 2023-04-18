@@ -4326,6 +4326,8 @@
   "SoilSensor",
   "SolarCalculator",
   "SolarCharger",
+  "Soldered LCD",
+  "Soldered Obstacle Sensor",
   "Soldered Ultrasonic Distance Sensor library",
   "Soldering Machine",
   "SomeSerial",
