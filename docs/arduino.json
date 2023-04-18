@@ -2195,6 +2195,7 @@
   "HX711_ADC",
   "HX711_MP",
   "HX711_asukiaaa",
+  "HX711_light",
   "HaCEspSockets",
   "HaCTimers",
   "HaCWifiManager",
