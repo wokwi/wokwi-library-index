@@ -4333,6 +4333,7 @@
   "Soldered CAN Bus Breakout Arduino Library",
   "Soldered LCD",
   "Soldered Obstacle Sensor",
+  "Soldered PCF85063A RTC Library",
   "Soldered Ultrasonic Distance Sensor library",
   "Soldering Machine",
   "SomeSerial",
