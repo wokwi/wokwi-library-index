@@ -4340,6 +4340,7 @@
   "Soldered Obstacle Sensor",
   "Soldered PCF85063A RTC Library",
   "Soldered PMS7003 Arduino Library",
+  "Soldered SIM7020 NB-IoT Library",
   "Soldered SIM800L Arduino Library",
   "Soldered Ultrasonic Distance Sensor library",
   "Soldered WS2812 Arduino Library",
