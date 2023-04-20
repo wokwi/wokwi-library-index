@@ -4153,6 +4153,7 @@
   "Series",
   "Servo",
   "Servo Hardware PWM",
+  "Servo328",
   "ServoESP32",
   "ServoEasing",
   "ServoInput",
