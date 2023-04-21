@@ -3730,6 +3730,7 @@
   "Radio",
   "RadioLib",
   "RadioengeLoraWAN",
+  "RaiseDev",
   "Ramp",
   "Random16",
   "RapifireMqttClient",
