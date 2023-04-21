@@ -1038,6 +1038,7 @@
   "CircularBuffer",
   "CircularBufferLib",
   "CircularQueue",
+  "CirquePinnacle",
   "Clap",
   "CleanRTOS",
   "CliTerminal",
