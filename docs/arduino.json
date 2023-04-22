@@ -1428,6 +1428,7 @@
   "Discord_WebHook",
   "DisplayMenu",
   "DisplayUtils",
+  "DistanceSensor",
   "DistanceTable",
   "DmtrPots",
   "DmxSimple",
