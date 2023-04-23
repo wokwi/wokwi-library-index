@@ -842,6 +842,7 @@
   "BlueDot BMA400 Library",
   "BlueDot BME280 Library",
   "BlueDot BME280 TSL2591",
+  "BlueDot SGP40 SHT40",
   "BlueFairy",
   "BlueRobotics Arduino_I2C_ESC Library",
   "BlueRobotics Keller LD Library",
