@@ -12,6 +12,7 @@
   "107-Arduino-MCP2515",
   "107-Arduino-NMEA-Parser",
   "107-Arduino-Sensor",
+  "107-Arduino-Servo-RP2040",
   "107-Arduino-TCS3472",
   "107-Arduino-TMF8801",
   "107-Arduino-TSL2550",
