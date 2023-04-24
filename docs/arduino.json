@@ -3019,6 +3019,7 @@
   "ModbusRTU_Slave",
   "ModbusRTU_Slave_RS485",
   "ModernPIDControlSS",
+  "Modmata",
   "ModuleInterface",
   "ModuleMore Sumo V2",
   "Modulo",
