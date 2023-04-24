@@ -2780,6 +2780,8 @@
   "MCP9802",
   "MCP9808",
   "MCP9808_RT",
+  "MCP_23017",
+  "MCP_3208",
   "MCP_ADC",
   "MCP_DAC",
   "MCUFRIEND_kbv",
