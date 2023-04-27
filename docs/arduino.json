@@ -5036,6 +5036,7 @@
   "VEGA_MAX30102",
   "VEGA_MLX90614",
   "VEGA_ST7735_and_ST7789",
+  "VEGA_SoftwareSerial",
   "VEGA_WiFiNINA",
   "VEML6040",
   "VEML6070",
