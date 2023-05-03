@@ -3950,6 +3950,7 @@
   "SSD1306TUR",
   "SSD1803A_I2C",
   "SSLClient",
+  "SSLClientESP32",
   "SST25VF",
   "SSVAnySensor",
   "SSVLongTime",
