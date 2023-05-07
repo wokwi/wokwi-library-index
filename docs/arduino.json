@@ -5181,6 +5181,7 @@
   "WiFiMulti_Generic",
   "WiFiNINA",
   "WiFiNINA_Generic",
+  "WiFiProvisioner",
   "WiFiSpi",
   "WiFiTri",
   "WiFiWebServer",
