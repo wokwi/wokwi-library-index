@@ -5559,6 +5559,7 @@
   "lx16a-servo",
   "mDNSResolver",
   "mDash",
+  "mDriver",
   "mPower",
   "mString",
   "mWebSockets",
