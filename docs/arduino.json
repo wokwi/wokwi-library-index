@@ -1911,6 +1911,7 @@
   "FastBot",
   "FastCRC",
   "FastCapacitiveSensor",
+  "FastDisplayPrototyping",
   "FastGPIO",
   "FastIMU",
   "FastInterruptEncoder",
