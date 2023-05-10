@@ -1096,6 +1096,7 @@
   "Complex",
   "Computherm RF Library",
   "ConductivityLib",
+  "ConfigAssist",
   "ConfigManager",
   "ConfigStorage",
   "ConfigTool",
