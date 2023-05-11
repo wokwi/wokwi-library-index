@@ -1540,6 +1540,7 @@
   "ESP Telnet",
   "ESP-DASH",
   "ESP-FlexyStepper",
+  "ESP-Google-Forms-Client",
   "ESP-Google-Sheet-Client",
   "ESP-StepperMotor-Server",
   "ESP-WiFiSettings",
