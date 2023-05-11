@@ -771,6 +771,7 @@
   "BME280_Zanshin",
   "BME680",
   "BME68x Sensor library",
+  "BMI270_Sensor",
   "BMP180MI",
   "BMP280",
   "BMP280_DEV",
