@@ -4840,6 +4840,7 @@
   "TempSensors_NXP_Arduino",
   "Temperature",
   "TemperatureZero",
+  "TencentCloudIoTSDK",
   "TensorFlowLite_ESP32",
   "TeslaCloud",
   "TetrisAnimation",
