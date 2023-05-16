@@ -5154,6 +5154,7 @@
   "WebConfig",
   "WebSerial",
   "WebSerialLite",
+  "WebServerSessionManager",
   "WebServer_ESP32_ENC",
   "WebServer_ESP32_SC_ENC",
   "WebServer_ESP32_SC_W5500",
