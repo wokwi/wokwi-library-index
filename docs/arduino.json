@@ -4764,6 +4764,8 @@
   "TMP36",
   "TMRpcm",
   "TN_SwitchState",
+  "TOPMAX",
+  "TOPMIN",
   "TOTP library",
   "TOTP-RC6236-generator",
   "TQDF_WatchOS",
