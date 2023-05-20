@@ -4927,6 +4927,7 @@
   "TinyLiquidCrystal_I2C",
   "TinyLoRa",
   "TinyMPU6050",
+  "TinyMatrixMath",
   "TinyMegaI2C",
   "TinyMqtt",
   "TinyNunchuk",
