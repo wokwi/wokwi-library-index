@@ -3956,6 +3956,7 @@
   "SPFD5408 TFT Library",
   "SPI VFD",
   "SPI-DAC7611",
+  "SPI-FlashMem",
   "SPIExtension",
   "SPIFFS ImageReader Library",
   "SPIFFSIniFile",
