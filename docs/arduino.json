@@ -934,6 +934,7 @@
   "Button",
   "Button-Arduino",
   "Button2",
+  "ButtonClickCheck",
   "ButtonDebounce",
   "ButtonFever",
   "ButtonGestures",
