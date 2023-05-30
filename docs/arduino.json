@@ -4945,6 +4945,7 @@
   "TinyMPU6050",
   "TinyMatrixMath",
   "TinyMegaI2C",
+  "TinyMenu",
   "TinyMqtt",
   "TinyNunchuk",
   "TinyOLED-Fonts",
