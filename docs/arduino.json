@@ -1298,6 +1298,7 @@
   "DHT Sensors Non-Blocking",
   "DHT sensor library",
   "DHT sensor library for ESPx",
+  "DHT11",
   "DHT118266",
   "DHT12",
   "DHT12 sensor library",
