@@ -3970,6 +3970,7 @@
   "SPIFFSIniFile",
   "SPIFFSReadServer",
   "SPIFFS_FilePrint",
+  "SPIFFS_Shell",
   "SPIFlash_LowPowerLab",
   "SPIMemory",
   "SPIShiftRegister",
