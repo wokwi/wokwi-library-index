@@ -1843,6 +1843,7 @@
   "EventJoystick",
   "EventOS",
   "EventSystem",
+  "Eventfun",
   "Eventually",
   "Eventually2",
   "EventuallyCommand",
