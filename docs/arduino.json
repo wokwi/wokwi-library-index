@@ -2605,6 +2605,7 @@
   "LibAPRS_Tracker",
   "LibEdificio",
   "LibEstacionamiento",
+  "LibLCC",
   "LibLanc",
   "LibLucesCiudad",
   "LibMiniSys",
