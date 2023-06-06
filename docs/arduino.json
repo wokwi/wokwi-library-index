@@ -591,6 +591,7 @@
   "Arduino_EMBRYO_2",
   "Arduino_ESP32_OTA",
   "Arduino_EdgeControl",
+  "Arduino_GigaDisplayTouch",
   "Arduino_GroveI2C_Ultrasonic",
   "Arduino_HS300x",
   "Arduino_HTS221",
