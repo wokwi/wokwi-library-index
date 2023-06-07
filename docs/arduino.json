@@ -4833,6 +4833,7 @@
   "TaskJockey",
   "TaskManager",
   "TaskManagerIO",
+  "TaskQueue",
   "TaskScheduler",
   "Tasker",
   "Taskfun",
