@@ -4672,6 +4672,7 @@
   "Step_CYC10_I2C",
   "Step_CYC10_Seven_Seg_Display",
   "Stepper",
+  "Stepper Async 5",
   "StepperControl",
   "StepperDriver",
   "StepperMotor",
