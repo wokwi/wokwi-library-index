@@ -3545,6 +3545,7 @@
   "PmodCls",
   "PneumaticStepper",
   "PoE_CAM",
+  "PoE_CAM-Ethernet",
   "PodEnoSim",
   "PointzNet",
   "PollingTimer",
