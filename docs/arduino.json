@@ -874,6 +874,7 @@
   "BlynkEthernet_Manager",
   "BlynkEthernet_STM32_WM",
   "BlynkGSM_Manager",
+  "BlynkNcpDriver",
   "Blynk_Async_ESP32_BT_WF",
   "Blynk_Async_GSM_Manager",
   "Blynk_Async_WM",
