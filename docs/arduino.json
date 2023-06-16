@@ -3774,6 +3774,7 @@
   "RP2040_SD",
   "RP2040_Slow_PWM",
   "RPI_PICO_TimerInterrupt",
+  "RPlatform",
   "RRE Font Library",
   "RS485",
   "RS485HwSerial",
