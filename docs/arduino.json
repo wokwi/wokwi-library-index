@@ -1599,6 +1599,7 @@
   "ESP32Dispatcher",
   "ESP32Encoder",
   "ESP32Logger",
+  "ESP32MQTTClient",
   "ESP32MX1508",
   "ESP32MotorControl",
   "ESP32PsramLock",
