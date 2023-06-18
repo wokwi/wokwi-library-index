@@ -5439,6 +5439,7 @@
   "basicGLCD",
   "basicMPU6050",
   "bb_hx1230",
+  "bb_rtc",
   "bb_spi_lcd",
   "bb_uc1701",
   "bcl",
