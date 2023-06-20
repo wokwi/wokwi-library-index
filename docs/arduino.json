@@ -1905,6 +1905,8 @@
   "FTTech SAMD51 XBee",
   "FTTech Swarm",
   "FUSB302 PD UFP sink",
+  "FXLS89xx_Arduino",
+  "FXPS7xxx_Arduino",
   "FaBo 201 3Axis ADXL345",
   "FaBo 202 9Axis MPU9250",
   "FaBo 203 Color S11059",
