@@ -4518,6 +4518,7 @@
   "SparkFun BH1749NUC Arduino Library",
   "SparkFun BMA400 Arduino Library",
   "SparkFun BME280",
+  "SparkFun BMI270 Arduino Library",
   "SparkFun BMP384 Arduino Library",
   "SparkFun BMP581 Arduino Library",
   "SparkFun BNO080 Cortex Based IMU",
