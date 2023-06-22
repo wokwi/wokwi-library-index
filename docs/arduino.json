@@ -5612,6 +5612,7 @@
   "incbin",
   "indhilib",
   "infiniteAverage",
+  "integer24",
   "iotec_MAX7319",
   "iotsa",
   "ipMIDI",
