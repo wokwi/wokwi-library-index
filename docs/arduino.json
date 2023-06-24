@@ -4349,6 +4349,7 @@
   "SimpleJ1939",
   "SimpleKalmanFilter",
   "SimpleKeypad",
+  "SimpleLed",
   "SimpleMeteoCalc",
   "SimpleMotionV2-Arduino",
   "SimplePacketComs",
