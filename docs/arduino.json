@@ -4369,6 +4369,7 @@
   "SimpleTimeout",
   "SimpleTimer",
   "SimpleUDPController",
+  "SimpleUltrasonic",
   "SimpleWiFiClient",
   "Simple_HC-SR04_Control",
   "Simple_HCSR04",
