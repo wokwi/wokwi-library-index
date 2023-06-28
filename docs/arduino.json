@@ -5448,6 +5448,7 @@
   "avdweb_AnalogReadFast",
   "avdweb_SAMDtimer",
   "avdweb_VirtualDelay",
+  "avrCalibrate",
   "avr_stl",
   "avrtos",
   "base64",
