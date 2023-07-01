@@ -4001,6 +4001,7 @@
   "SM_BAS",
   "SM_ESP32Pi",
   "SM_LCDAdapter",
+  "SM_RTD",
   "SMoS",
   "SN76489",
   "SNMP",
