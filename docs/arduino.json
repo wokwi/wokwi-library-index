@@ -3199,6 +3199,7 @@
   "NHD_Character_LCD",
   "NL2Client",
   "NMEAParser",
+  "NMH1000_Arduino",
   "NOKIA5110_TEXT",
   "NPush",
   "NRF51_Radio_library",
