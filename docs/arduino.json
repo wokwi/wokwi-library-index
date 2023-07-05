@@ -4256,6 +4256,7 @@
   "Serial Data Exporter",
   "SerialBuffSender",
   "SerialBus",
+  "SerialCAN",
   "SerialCmd",
   "SerialCom",
   "SerialCommand",
