@@ -5710,6 +5710,7 @@
   "mjson",
   "modbus-esp8266",
   "moduloMap",
+  "monitor_printf",
   "motix-btn99x0",
   "motor system IC TLE956x",
   "movingAvg",
