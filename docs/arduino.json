@@ -3861,6 +3861,7 @@
   "ReefwingFilter",
   "ReefwingLPS22HB",
   "ReefwingLSM9DS1",
+  "ReefwingMPU6x00",
   "ReefwingMSP",
   "ReefwingMotorShield",
   "ReefwingSBUS",
