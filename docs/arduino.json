@@ -5936,6 +5936,7 @@
   "uMuxOutputLib",
   "uMyo_BLE",
   "uMyo_RF24",
+  "uNeurai",
   "uRTCLib",
   "uS82",
   "uSevenSegmentLib",
