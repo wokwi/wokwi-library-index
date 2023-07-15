@@ -5946,6 +5946,7 @@
   "uMyo_BLE",
   "uMyo_RF24",
   "uNeurai",
+  "uNodepp",
   "uRTCLib",
   "uS82",
   "uSevenSegmentLib",
