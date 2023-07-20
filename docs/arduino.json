@@ -5621,6 +5621,7 @@
   "flagsapi",
   "flex_DST",
   "float16",
+  "floatToString",
   "forcedBMX280",
   "fork-webbino-ahmsec",
   "fp64lib",
