@@ -3709,6 +3709,7 @@
   "PyDuinoBridge",
   "QC2Control",
   "QC3Control",
+  "QCFA",
   "QDEC",
   "QDispatch",
   "QList",
