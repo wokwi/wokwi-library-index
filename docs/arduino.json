@@ -3120,6 +3120,7 @@
   "Modbus-Serial",
   "ModbusConfig",
   "ModbusMaster",
+  "ModbusRTUMaster",
   "ModbusRTUSlave",
   "ModbusRTU_Slave",
   "ModbusRTU_Slave_RS485",
