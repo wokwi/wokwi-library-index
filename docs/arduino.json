@@ -1632,6 +1632,7 @@
   "ESP32 FX1N PLC",
   "ESP32 HUB75 LED MATRIX PANEL DMA Display",
   "ESP32 I2C Slave",
+  "ESP32 IO Expander Driver",
   "ESP32 Lite Pack Library",
   "ESP32 Mail Client",
   "ESP32 Microsoft Graph",
