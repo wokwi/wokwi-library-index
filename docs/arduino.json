@@ -5517,6 +5517,7 @@
   "anto-esp8266-arduino",
   "arduFPGA-app-common-arduino",
   "ardubson",
+  "arducam_dvp",
   "arduino-NVM",
   "arduino-async-duplex",
   "arduino-async-modem",
