@@ -5613,6 +5613,7 @@
   "dht11esp8266",
   "dht11esp8266examples",
   "dhtESP32-rmt",
+  "digiedge_frame_generator",
   "digitalPinFast",
   "digitalWriteFast",
   "directADC",
