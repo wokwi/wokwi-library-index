@@ -2972,6 +2972,7 @@
   "MFRC522",
   "MFRC522-spi-i2c-uart-async",
   "MFRC522_I2C",
+  "MFRC522_PN512",
   "MFUthings",
   "MH-Z CO2 Sensors",
   "MH-Z14A Library",
