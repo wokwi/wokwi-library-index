@@ -1202,6 +1202,7 @@
   "CronAlarms",
   "CrossMgrLapCounter",
   "Crypto",
+  "CryptoAES_CBC",
   "CryptoAuthLib",
   "Crystal C Interpreter",
   "Cubigel",
