@@ -5615,6 +5615,7 @@
   "deepC",
   "desklab",
   "detaBaseArduinoESP32",
+  "detaBaseArduinoESP8266",
   "dht11esp8266",
   "dht11esp8266examples",
   "dhtESP32-rmt",
