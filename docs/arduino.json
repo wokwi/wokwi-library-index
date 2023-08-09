@@ -5733,6 +5733,7 @@
   "hsmcpp",
   "hueDino",
   "hx710b_arduino",
+  "i2c-for-esp32",
   "i2c_adc_ads7828",
   "i2cdetect",
   "iAQ-CoreMI",
