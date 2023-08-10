@@ -3029,6 +3029,7 @@
   "MQ135",
   "MQ137",
   "MQ7Sensor",
+  "MQSpaceData",
   "MQTT",
   "MQTT Client",
   "MQTT and Serial Printer",
