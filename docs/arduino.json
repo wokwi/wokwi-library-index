@@ -5355,6 +5355,7 @@
   "WeatherMeters",
   "WeatherStationDataRx",
   "WebConfig",
+  "WebConsole",
   "WebMonitor",
   "WebSerial",
   "WebSerialLite",
