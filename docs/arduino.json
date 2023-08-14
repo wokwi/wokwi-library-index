@@ -1640,6 +1640,7 @@
   "ESP32 Control",
   "ESP32 Control lite",
   "ESP32 Digital RGB LED Drivers",
+  "ESP32 Display Panel driver",
   "ESP32 ESP32S2 AnalogWrite",
   "ESP32 FX1N PLC",
   "ESP32 HUB75 LED MATRIX PANEL DMA Display",
