@@ -968,6 +968,7 @@
   "Bonezegei_HCSR04",
   "Bonezegei_ILI9341v2",
   "Bonezegei_List",
+  "Bonezegei_RS485",
   "Bonezegei_Search",
   "Bonezegei_SoftSerial",
   "Bonezegei_Utility",
