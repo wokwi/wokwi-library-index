@@ -3980,6 +3980,7 @@
   "RemoteDebugger",
   "RemoteMe",
   "RemoteMeUtils",
+  "RemoteSerial",
   "RemoteSignal",
   "RemoteXY",
   "RepeatButton",
