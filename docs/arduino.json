@@ -3964,6 +3964,7 @@
   "ReefwingMPU6x00",
   "ReefwingMSP",
   "ReefwingMotorShield",
+  "ReefwingPWM",
   "ReefwingSBUS",
   "ReefwingTimer",
   "Reefwing_imuTypes",
