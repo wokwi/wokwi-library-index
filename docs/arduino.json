@@ -1012,6 +1012,7 @@
   "ByteConvert",
   "BytebeamArduino",
   "Byteduino",
+  "CAGEduino",
   "CAN",
   "CAN Adafruit Fork",
   "CAN_BUS_Shield",
