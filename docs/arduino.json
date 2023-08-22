@@ -5292,6 +5292,7 @@
   "VEDirect",
   "VEGAIoT_BusIO",
   "VEGA_BMI088",
+  "VEGA_ChainableLED",
   "VEGA_IRremote",
   "VEGA_MAX30100",
   "VEGA_MAX30102",
