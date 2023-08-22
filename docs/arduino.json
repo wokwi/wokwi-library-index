@@ -5134,6 +5134,7 @@
   "TinyDebug",
   "TinyFontRenderer",
   "TinyGPS",
+  "TinyGPSMinus",
   "TinyGPSPlus",
   "TinyGPSPlus-ESP32",
   "TinyGPSPlusPlus",
