@@ -4578,6 +4578,7 @@
   "Sodaq_nbIOT",
   "Sodaq_wdt",
   "SoftFilters",
+  "SoftI2C",
   "SoftI2CMaster",
   "SoftModem",
   "SoftPWM",
