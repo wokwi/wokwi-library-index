@@ -991,6 +991,7 @@
   "Boodskap Message library",
   "BoodskapTransceiver",
   "BoolArray",
+  "BooleanButton",
   "Bootstrapper",
   "BotleticsSIM7000",
   "Botly",
