@@ -1661,6 +1661,7 @@
   "ESP32 Digital RGB LED Drivers",
   "ESP32 ESP32S2 AnalogWrite",
   "ESP32 FX1N PLC",
+  "ESP32 File Manager for Generation Klick ESPFMfGK",
   "ESP32 HUB75 LED MATRIX PANEL DMA Display",
   "ESP32 I2C Slave",
   "ESP32 Lite Pack Library",
