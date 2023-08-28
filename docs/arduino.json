@@ -984,6 +984,7 @@
   "Bonezegei_ILI9341v2",
   "Bonezegei_List",
   "Bonezegei_RS485",
+  "Bonezegei_SSD1306",
   "Bonezegei_Search",
   "Bonezegei_SoftSerial",
   "Bonezegei_Utility",
