@@ -985,6 +985,7 @@
   "Bonezegei_HCSR04",
   "Bonezegei_ILI9341v2",
   "Bonezegei_List",
+  "Bonezegei_Protocol",
   "Bonezegei_RS485",
   "Bonezegei_SSD1306",
   "Bonezegei_Search",
