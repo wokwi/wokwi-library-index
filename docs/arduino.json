@@ -633,6 +633,7 @@
   "Arduino_OAuth",
   "Arduino_OV767X",
   "Arduino_OplaUI",
+  "Arduino_POSIXStorage",
   "Arduino_PortentaBreakout",
   "Arduino_Portenta_OTA",
   "Arduino_Pro_Tutorials",
