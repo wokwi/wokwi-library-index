@@ -97,6 +97,7 @@
   "ADebouncer",
   "AEBO",
   "AESLib",
+  "AES_CMAC",
   "AFArray",
   "AFE_NXP_Arduino",
   "AGS02MA",
