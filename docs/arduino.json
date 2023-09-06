@@ -670,6 +670,7 @@
   "AstroMech",
   "AsyncAnalog",
   "AsyncBMP180Wrapper",
+  "AsyncButton",
   "AsyncDNSServer_ESP32_ENC",
   "AsyncDNSServer_ESP32_Ethernet",
   "AsyncDNSServer_ESP32_W5500",
