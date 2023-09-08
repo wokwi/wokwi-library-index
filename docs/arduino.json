@@ -5544,6 +5544,7 @@
   "XPT2046_Calibrated",
   "XPT2046_Touchscreen",
   "XPT2046_Touchscreen_TT",
+  "XP_Button",
   "XPowersLib",
   "XTEA-Cipher",
   "XYZgeomag",
