@@ -4263,6 +4263,8 @@
   "STM32duino ST25R3911B",
   "STM32duino ST25R3916",
   "STM32duino ST25R95",
+  "STM32duino STEVAL-MKBOXPRO-Audio",
+  "STM32duino STEVAL-MKBOXPRO-Examples",
   "STM32duino STM32Ethernet",
   "STM32duino STM32SD",
   "STM32duino STTS22H",
