@@ -493,6 +493,7 @@
   "AnalogPin",
   "AnalogRTCLib",
   "AnalogReadAsync",
+  "AnalogSelector",
   "AnalogTouch",
   "AnalogUVSensor",
   "AnalogWrite_ESP32",
