@@ -4264,6 +4264,7 @@
   "STM32duino Proximity Gesture",
   "STM32duino RTC",
   "STM32duino S2-LP",
+  "STM32duino SHT40-AD1B",
   "STM32duino SPBTLE-RF",
   "STM32duino ST25DV",
   "STM32duino ST25R3911B",
