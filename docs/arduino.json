@@ -4204,6 +4204,7 @@
   "SRF05",
   "SSD1306Ascii",
   "SSD1306TUR",
+  "SSD1306wire",
   "SSD1803A_I2C",
   "SSLClient",
   "SSLClientESP32",
