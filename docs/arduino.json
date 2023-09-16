@@ -2425,6 +2425,7 @@
   "HomeKit-ESP8266",
   "HomeSpan",
   "Homeyduino",
+  "HoneyWellFMA_SPI",
   "Honeywell TruStability SPI",
   "Honeywell Zephyr I2C",
   "HoverboardAPI",
