@@ -5423,6 +5423,7 @@
   "VolumeConverter",
   "Vrekrer SCPI parser",
   "Vulintus_ATWINC3400",
+  "W3bstreamClient",
   "WBIOExtMini",
   "WEDO 2.0 BLE for ESP32",
   "WIOTerminal_WiFiManager",
