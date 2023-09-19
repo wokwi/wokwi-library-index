@@ -2307,6 +2307,8 @@
   "GxEPD2",
   "Gyver433",
   "GyverBME280",
+  "GyverBeeper",
+  "GyverBlinker",
   "GyverBus",
   "GyverButton",
   "GyverDimmer",
