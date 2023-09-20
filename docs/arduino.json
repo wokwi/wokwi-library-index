@@ -5768,6 +5768,7 @@
   "escposprinter",
   "esp-echonet-lite",
   "esp-fs-webserver",
+  "esp-io-expander",
   "esp32-BG95",
   "esp32-ds18b20",
   "esp32FOTA",
