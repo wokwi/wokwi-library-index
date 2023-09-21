@@ -2101,6 +2101,7 @@
   "Firebase ESP32 Client",
   "Firebase ESP8266 Client",
   "FirebaseJson",
+  "FirebaseRealtime",
   "FireplaceMLX",
   "Firmata",
   "FirmataExpress",
