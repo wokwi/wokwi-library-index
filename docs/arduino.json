@@ -2111,6 +2111,7 @@
   "FixedPoint_LUT",
   "FixedPoints",
   "FixedString",
+  "Flanco",
   "Flash",
   "FlashLightLED",
   "FlashStorage",
