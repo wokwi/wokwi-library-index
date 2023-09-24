@@ -2524,6 +2524,7 @@
   "IRremote",
   "IRremoteESP8266",
   "IRsmallDecoder",
+  "IS31FL3729_LED_Matrix",
   "ISE I2C-MCP3427 Library",
   "ISFET board library",
   "ISL1208-RTC-Library",
