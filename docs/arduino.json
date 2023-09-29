@@ -622,6 +622,7 @@
   "Arduino_EdgeControl",
   "Arduino_GigaDisplay",
   "Arduino_GigaDisplayTouch",
+  "Arduino_GigaDisplay_GFX",
   "Arduino_GroveI2C_Ultrasonic",
   "Arduino_HS300x",
   "Arduino_HTS221",
