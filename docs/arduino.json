@@ -2356,6 +2356,7 @@
   "HAMqttDevice",
   "HAMqttDiscoveryHandler",
   "HC-SR04",
+  "HC0x_AT_Config",
   "HC4051",
   "HC4052",
   "HC4053",
