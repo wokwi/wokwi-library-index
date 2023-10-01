@@ -5087,6 +5087,7 @@
   "TTN_esp32",
   "TTP229",
   "TVout",
+  "TWI_GPS",
   "TXOnlySerial",
   "Tachometer",
   "TactNecklace",
