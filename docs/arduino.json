@@ -1726,6 +1726,7 @@
   "ESP32MX1508",
   "ESP32MotorControl",
   "ESP32PsramLock",
+  "ESP32RotaryEncoder",
   "ESP32SPISlave",
   "ESP32Servo",
   "ESP32Servo360",
