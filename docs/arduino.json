@@ -1755,6 +1755,7 @@
   "ESP32_SC_Ethernet_Manager",
   "ESP32_SC_W5500_Manager",
   "ESP32_SC_W6100_Manager",
+  "ESP32_SemBeacon",
   "ESP32_VS1053_Stream",
   "ESP32_W5500_Manager",
   "ESP32_W6100_Manager",
