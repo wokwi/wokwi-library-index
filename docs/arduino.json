@@ -1523,6 +1523,7 @@
   "DeadReckoning-library",
   "DebounceEvent",
   "DebounceFilterLib",
+  "DebouncedButton",
   "Debouncer",
   "DebugLog",
   "Debugger",
