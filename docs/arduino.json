@@ -5607,6 +5607,7 @@
   "XMC_Servo",
   "XMLWriter",
   "XModem",
+  "XPT2046_Bitbang",
   "XPT2046_Calibrated",
   "XPT2046_Touchscreen",
   "XPT2046_Touchscreen_TT",
