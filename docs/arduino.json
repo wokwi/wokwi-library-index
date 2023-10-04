@@ -1737,6 +1737,7 @@
   "ESP32Time",
   "ESP32TimerInterrupt",
   "ESP32TinyUSB",
+  "ESP32WebRemoteControl",
   "ESP32_BleSerial",
   "ESP32_C3_ISR_Servo",
   "ESP32_C3_TimerInterrupt",
