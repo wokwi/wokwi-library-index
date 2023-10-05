@@ -41,6 +41,7 @@
   "ACAN_ESP32",
   "ACAN_STM32",
   "ACAN_T4",
+  "ACD10",
   "ACDU",
   "ACE128",
   "ACI_10K_AN-temp-sensor",
