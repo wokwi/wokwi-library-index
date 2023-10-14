@@ -1232,6 +1232,7 @@
   "ConfigTool",
   "ConfigurableFirmata",
   "ConnectThings_ESP8266",
+  "ConsentiumThingsDalton",
   "Console",
   "Constellation",
   "ContinuousStepper",
