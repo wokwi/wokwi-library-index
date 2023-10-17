@@ -1509,6 +1509,7 @@
   "DTF_ESP8266Update",
   "DTime",
   "DU-INO",
+  "DUE_ADC_Oversampler",
   "DUE_schmitt",
   "DW1000",
   "DWIN T5L API wrapper",
