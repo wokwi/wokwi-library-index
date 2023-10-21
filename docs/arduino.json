@@ -4626,6 +4626,7 @@
   "SimpleLed",
   "SimpleMeteoCalc",
   "SimpleMotionV2-Arduino",
+  "SimpleMotorControl",
   "SimplePacketComs",
   "SimplePortal",
   "SimpleRelay",
