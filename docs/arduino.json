@@ -5122,6 +5122,7 @@
   "TMC2208Stepper",
   "TMC2209",
   "TMC429",
+  "TMC5072",
   "TMCStepper",
   "TMP117-Arduino",
   "TMP36",
