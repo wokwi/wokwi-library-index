@@ -3194,6 +3194,7 @@
   "MakeBlockDrive",
   "MakerVision",
   "Makerlabvn_I2C_Motor_Driver",
+  "Makerlabvn_SimpleMotor",
   "MakestroCloudClient",
   "ManuvrDrivers",
   "Mapf",
