@@ -1546,6 +1546,7 @@
   "DataVisualizer",
   "DatabaseOnSD",
   "DatavisionLCD",
+  "DateTimeFunctions",
   "DcDccNanoController",
   "DeadReckoning-library",
   "DebounceEvent",
