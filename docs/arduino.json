@@ -1040,6 +1040,7 @@
   "BoolArray",
   "BooleanButton",
   "Bootstrapper",
+  "Bosch_BME280_Arduino",
   "BotleticsSIM7000",
   "Botly",
   "Bounce2",
