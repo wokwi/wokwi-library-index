@@ -6031,6 +6031,7 @@
   "megaAVR_PWM",
   "megaAVR_Slow_PWM",
   "megaAVR_TimerInterrupt",
+  "mergCBUS",
   "micro Maqueen",
   "micro-ecc",
   "microDS18B20",
