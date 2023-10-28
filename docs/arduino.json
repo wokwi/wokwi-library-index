@@ -2021,6 +2021,7 @@
   "EventButton",
   "EventEthernet",
   "EventJoystick",
+  "EventLinkInterrupt",
   "EventOS",
   "EventSystem",
   "Eventfun",
