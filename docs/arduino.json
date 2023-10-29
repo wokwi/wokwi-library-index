@@ -2389,6 +2389,7 @@
   "GyverNTC",
   "GyverNTP",
   "GyverOLED",
+  "GyverOLEDMenu",
   "GyverOS",
   "GyverPID",
   "GyverPWM",
