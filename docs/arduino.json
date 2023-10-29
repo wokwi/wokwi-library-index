@@ -3680,6 +3680,7 @@
   "PID controllers Modular Professional",
   "PIDController",
   "PID_RT",
+  "PID_Timed",
   "PID_v1_bc",
   "PID_v2",
   "PIO8255",
