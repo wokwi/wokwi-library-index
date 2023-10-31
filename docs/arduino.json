@@ -6037,6 +6037,7 @@
   "max7219",
   "mbino",
   "mcp_can",
+  "mcp_canbus",
   "megaAVR_PWM",
   "megaAVR_Slow_PWM",
   "megaAVR_TimerInterrupt",
