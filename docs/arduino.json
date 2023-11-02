@@ -2979,6 +2979,7 @@
   "M5Unit-ENV",
   "M5Unit-EXTIO2",
   "M5Unit-Encoder",
+  "M5Unit-IMU-Pro-Mini",
   "M5Unit-KMeter",
   "M5Unit-MQTT",
   "M5Unit-PoESP32",
