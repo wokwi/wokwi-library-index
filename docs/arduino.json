@@ -1028,6 +1028,7 @@
   "Bonezegei_GPS",
   "Bonezegei_GSM",
   "Bonezegei_HCSR04",
+  "Bonezegei_HD44780",
   "Bonezegei_I2CScan",
   "Bonezegei_ILI9341v2",
   "Bonezegei_List",
