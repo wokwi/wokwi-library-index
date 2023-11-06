@@ -4316,6 +4316,7 @@
   "SPIShiftRegister",
   "SPL06-001",
   "SPL06-007",
+  "SQLiteDatabaseConnection",
   "SRAM",
   "SRAM_23LC",
   "SRAMsimple",
