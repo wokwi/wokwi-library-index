@@ -4592,6 +4592,7 @@
   "ServoMotor",
   "ServoOsc",
   "ServoSmooth",
+  "SessionManager",
   "SetPoint",
   "Settings Manager",
   "SevSeg",
