@@ -192,6 +192,7 @@
   "Accelerometer ADXL345",
   "Accelerometer_H3LIS331DL",
   "Accelerometer_MMA7660",
+  "AccessPermissionManager",
   "Accessories",
   "Accessory Shield",
   "AceButton",
