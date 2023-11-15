@@ -1029,6 +1029,7 @@
   "Bonezegei ILI9341",
   "Bonezegei_Compute",
   "Bonezegei_DHT11",
+  "Bonezegei_DHT22",
   "Bonezegei_GL",
   "Bonezegei_GPS",
   "Bonezegei_GSM",
