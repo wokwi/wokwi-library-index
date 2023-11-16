@@ -2423,6 +2423,7 @@
   "GyverPortal",
   "GyverPower",
   "GyverRelay",
+  "GyverSegment",
   "GyverStepper",
   "GyverTM1637",
   "GyverTimer",
