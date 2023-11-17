@@ -1572,6 +1572,7 @@
   "DebounceEvent",
   "DebounceFilterLib",
   "DebouncedButton",
+  "DebouncedLDR",
   "Debouncer",
   "DebugLog",
   "Debugger",
