@@ -6042,6 +6042,7 @@
   "jm_Pin",
   "jm_Scheduler",
   "jm_Wire",
+  "jm_crc-ccitt",
   "joystick_module",
   "jsnsr04t",
   "jsonlib",
