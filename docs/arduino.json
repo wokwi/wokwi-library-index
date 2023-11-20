@@ -2015,6 +2015,7 @@
   "EspHtmlTemplateProcessor",
   "EspMQTTClient",
   "EspNow2Mqtt",
+  "EspNowJoystick",
   "EspSaveCrash",
   "EspSimpleRemoteUpdate",
   "EspSimpleWifiHandler",
