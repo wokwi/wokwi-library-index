@@ -4659,6 +4659,7 @@
   "ShiftRegister",
   "ShiftRegister-PWM-Library",
   "ShiftRegister74HC595",
+  "ShiftRegisterController",
   "Shifty",
   "Shox96 Progmem Compression",
   "Shutters",
