@@ -3530,6 +3530,7 @@
   "Neosegment",
   "Neotimer",
   "NesRob",
+  "NetApiHelpers",
   "NetEEPROM",
   "NetworkMonitor",
   "NeuralNetwork",
