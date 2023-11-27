@@ -4642,6 +4642,7 @@
   "SessionManager",
   "SetPoint",
   "Settings Manager",
+  "SettingsManagerESP32",
   "SevSeg",
   "SevSegShift",
   "Seven Segment Library",
