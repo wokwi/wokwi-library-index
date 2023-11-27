@@ -6099,6 +6099,7 @@
   "lv_arduino",
   "lv_examples",
   "lvgl",
+  "lvglCpp",
   "lwIOLink",
   "lwIP",
   "lx16a-servo",
