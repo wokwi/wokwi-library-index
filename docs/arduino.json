@@ -2542,6 +2542,7 @@
   "Honeywell Zephyr I2C",
   "HoverboardAPI",
   "HttpClient",
+  "HydroinoJobMgr",
   "HyperDeck",
   "Hyperduino Library",
   "Hysteresis",
