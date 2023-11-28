@@ -6254,6 +6254,7 @@
   "rhio-LIS2HH12",
   "rhio-pinmap",
   "roo_collections",
+  "roo_scheduler",
   "roo_time",
   "ros2arduino",
   "rotaryDecoder",
