@@ -5389,6 +5389,7 @@
   "TinyDHT sensor library",
   "TinyDatabase_Arduino",
   "TinyDebug",
+  "TinyDecisionTreeClassifier",
   "TinyFontRenderer",
   "TinyGPS",
   "TinyGPSMinus",
