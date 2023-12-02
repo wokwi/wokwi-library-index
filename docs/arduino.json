@@ -3544,6 +3544,7 @@
   "NetApiHelpers",
   "NetEEPROM",
   "NetworkMonitor",
+  "NeumannCorrector",
   "NeuralNetwork",
   "Neurona",
   "NewEncoder",
