@@ -6345,6 +6345,7 @@
   "timestamp32bits",
   "timing",
   "tiny-collections",
+  "tinyCommand",
   "tinyCore",
   "tinyECC",
   "tinyESPNow",
