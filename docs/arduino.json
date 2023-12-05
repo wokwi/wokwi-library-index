@@ -3319,6 +3319,7 @@
   "Melopero VL53L1X",
   "Melt7SegLcd",
   "MemoryDumper",
+  "MemoryHexDump",
   "MemoryLib",
   "MemoryUsage",
   "MergedStreams",
