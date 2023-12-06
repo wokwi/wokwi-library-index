@@ -159,6 +159,7 @@
   "ATC_MiThermometer",
   "ATCommands",
   "ATD1.47-S3 Lib",
+  "ATD3.5-S3",
   "ATM90E26 Arduino",
   "ATMAC_EEPROM",
   "ATMlib",
