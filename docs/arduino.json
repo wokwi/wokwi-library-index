@@ -678,6 +678,7 @@
   "Arduino_USBHostMbed5",
   "Arduino_UnifiedStorage",
   "ArduinosInSpace",
+  "ArgParse",
   "Ark-Cpp-Client",
   "Ark-Cpp-Crypto",
   "Array",
