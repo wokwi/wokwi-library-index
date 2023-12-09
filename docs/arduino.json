@@ -3236,6 +3236,7 @@
   "MQTT and Serial Printer",
   "MQTTPubSubClient",
   "MQTTPubSubClient_Generic",
+  "MQTT_Looped",
   "MQUnifiedsensor",
   "MS5611",
   "MS5611_SPI",
