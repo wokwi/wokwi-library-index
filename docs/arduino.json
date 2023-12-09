@@ -781,6 +781,7 @@
   "AsyncWebServer_Teensy41",
   "AsyncWebServer_WT32_ETH01",
   "Async_Operations",
+  "Asynchrony",
   "AtTouch",
   "Atmega328_IO",
   "Atmega32u4_IO",
