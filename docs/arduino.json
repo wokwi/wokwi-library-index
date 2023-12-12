@@ -4640,6 +4640,7 @@
   "SerialDebugger",
   "SerialDraw",
   "SerialFlash",
+  "SerialMIIO",
   "SerialMP3Player",
   "SerialMenuCmd",
   "SerialRFID",
