@@ -4164,6 +4164,7 @@
   "RTCVars",
   "RTCZero",
   "RTC_NXP_Arduino",
+  "RTC_RX8025NB",
   "RTC_RX8025T",
   "RTClib",
   "RTCtime",
