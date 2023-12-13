@@ -6045,6 +6045,7 @@
   "flex_DST",
   "float16",
   "floatToString",
+  "fmt",
   "fog",
   "forcedBMX280",
   "fork-webbino-ahmsec",
