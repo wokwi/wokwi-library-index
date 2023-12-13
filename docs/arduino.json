@@ -6006,6 +6006,7 @@
   "esp32_gamepad",
   "esp32_https_server_compat",
   "esp32_moga",
+  "esp32_opus",
   "esp8266-framework",
   "esp8266-google-home-notifier",
   "esp8266-google-tts",
