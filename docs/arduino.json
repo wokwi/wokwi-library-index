@@ -6302,6 +6302,8 @@
   "rhio-pinmap",
   "roo_collections",
   "roo_display",
+  "roo_flags",
+  "roo_logging",
   "roo_material_icons",
   "roo_scheduler",
   "roo_time",
