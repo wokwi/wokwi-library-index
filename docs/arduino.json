@@ -5158,6 +5158,7 @@
   "StreamlabsArduinoAlerts",
   "StringAction",
   "StringSplitter",
+  "StringUtils",
   "Stringcalculater",
   "StripDisplay",
   "Strober",
