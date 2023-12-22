@@ -3155,6 +3155,7 @@
   "MCP_3208",
   "MCP_ADC",
   "MCP_DAC",
+  "MCP_POT",
   "MCUFRIEND_kbv",
   "MCUOS",
   "MCUVoltage",
