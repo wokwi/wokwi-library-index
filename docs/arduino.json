@@ -1725,6 +1725,7 @@
   "EEPROM_CAT25",
   "EEPROM_Rotate",
   "EEPROM_SPI_WE",
+  "EEPROM_WL",
   "EEPROMextent",
   "EEPROMsimple",
   "EEPstore",
