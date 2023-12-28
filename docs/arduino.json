@@ -1984,6 +1984,7 @@
   "EloquentEsp32cam",
   "EloquentSurveillance",
   "EloquentTensorFlow32",
+  "EloquentTensorFlowCortexM",
   "EloquentTinyML",
   "EloquentVision",
   "EmSevenSegment",
