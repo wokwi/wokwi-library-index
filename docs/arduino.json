@@ -4038,6 +4038,7 @@
   "Psychrometer",
   "PubSubClient",
   "PubSubClientTools",
+  "PubSubClient_for_protobuf",
   "Pubnub",
   "PulseCom",
   "PulseDivider",
