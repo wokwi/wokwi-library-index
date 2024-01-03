@@ -1987,6 +1987,7 @@
   "Elog",
   "EloquentArduino",
   "EloquentEsp32cam",
+  "EloquentRTLS",
   "EloquentSurveillance",
   "EloquentTensorFlow32",
   "EloquentTensorFlowCortexM",
