@@ -3083,6 +3083,7 @@
   "M95_EEPROM",
   "MAGELLAN",
   "MATRIX7219",
+  "MAVLink",
   "MAX11643",
   "MAX1464 Arduino library",
   "MAX14661",
