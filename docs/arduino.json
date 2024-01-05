@@ -1933,6 +1933,7 @@
   "ESensors",
   "EWMA",
   "EZPROM",
+  "EZ_USB_MIDI_HOST",
   "EasIno",
   "Easing",
   "Easy IoT with CC1101 - Sub-1GHz LORA-like",
