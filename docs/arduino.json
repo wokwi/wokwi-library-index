@@ -2474,6 +2474,7 @@
   "GyverPower",
   "GyverRelay",
   "GyverSegment",
+  "GyverShift",
   "GyverStepper",
   "GyverTM1637",
   "GyverTimer",
