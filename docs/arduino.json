@@ -5236,6 +5236,7 @@
   "TCA9555",
   "TCM2lib",
   "TCP over Serial",
+  "TCS230_ESP32",
   "TCS3200-Sensor",
   "TCS34725",
   "TCS34725 async",
