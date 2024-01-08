@@ -568,6 +568,7 @@
   "ArduMax AD5241 Driver",
   "ArduMax MCP41xxx Driver",
   "ArduPID",
+  "ArduProf",
   "ArduZ80",
   "Arduboy",
   "Arduboy-BistercianNumbers",
