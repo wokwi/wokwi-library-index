@@ -1770,6 +1770,7 @@
   "ESC Thermal Printer BLE",
   "ESP Async E1.31",
   "ESP Battery",
+  "ESP IoT Core",
   "ESP Line Notify",
   "ESP Mail Client",
   "ESP OTA GitHub",
