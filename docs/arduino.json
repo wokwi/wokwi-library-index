@@ -681,6 +681,7 @@
   "Arduino_PF1550",
   "Arduino_POSIXStorage",
   "Arduino_PortentaBreakout",
+  "Arduino_PortentaMachineControl",
   "Arduino_Portenta_OTA",
   "Arduino_Pro_Tutorials",
   "Arduino_ScienceJournal",
