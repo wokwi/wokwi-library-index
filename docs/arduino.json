@@ -1284,6 +1284,8 @@
   "ConductivityLib",
   "ConfigAssist",
   "ConfigManager",
+  "ConfigPortal32",
+  "ConfigPortal8266",
   "ConfigStorage",
   "ConfigTool",
   "ConfigurableFirmata",
