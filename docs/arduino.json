@@ -6065,6 +6065,7 @@
   "digitalWriteFast",
   "directADC",
   "directTimers",
+  "diwa",
   "ds3231FS",
   "due_can",
   "dustSensor_kocoa",
