@@ -2860,6 +2860,7 @@
   "LC_neoPixel",
   "LC_slowServo",
   "LDC1312-1314 I2C Library",
+  "LDS",
   "LED",
   "LED Dithering",
   "LED744511",
