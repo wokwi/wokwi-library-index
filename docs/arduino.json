@@ -1778,6 +1778,7 @@
   "ES920",
   "ESC Thermal Printer BLE",
   "ESP Async E1.31",
+  "ESP Async WebServer",
   "ESP Battery",
   "ESP IoT Core",
   "ESP Line Notify",
