@@ -3442,6 +3442,7 @@
   "MicrostepToLinear",
   "Midea AC infrared remote controller with ESP32 RMT Peripheral",
   "MideaIRWrapper",
+  "MidiDmxBridge",
   "Midier",
   "MillaMilla DS7505 Library",
   "MilliStopper",
