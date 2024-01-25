@@ -3567,6 +3567,7 @@
   "MycilaJSY",
   "MycilaLogger",
   "MycilaRelay",
+  "MycilaTaskMonitor",
   "N64Controller",
   "N64Pad",
   "NB_Generic",
