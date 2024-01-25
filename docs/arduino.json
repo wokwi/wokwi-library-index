@@ -2194,6 +2194,7 @@
   "FacebookApi",
   "FadeLed",
   "FanController",
+  "FancyTerminal",
   "Fast4ier",
   "FastAccelStepper",
   "FastBLE",
