@@ -3564,6 +3564,7 @@
   "MycilaESPConnect",
   "MycilaJSY",
   "MycilaLogger",
+  "MycilaNTP",
   "MycilaRelay",
   "MycilaTaskMonitor",
   "N64Controller",
