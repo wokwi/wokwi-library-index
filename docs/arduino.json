@@ -6486,6 +6486,7 @@
   "ssd1306",
   "ssd1306xled",
   "ssd1327",
+  "st7567sfGK",
   "statHelpers",
   "staticFunctional",
   "statsdclient",
