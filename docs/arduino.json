@@ -1824,6 +1824,7 @@
   "ESP32-OTA",
   "ESP32-OTA-Pull",
   "ESP32-PSRamFS",
+  "ESP32-PTQS1005",
   "ESP32-TWAI-CAN",
   "ESP32-USB-Soft-Host",
   "ESP32-imgur-uploader",
