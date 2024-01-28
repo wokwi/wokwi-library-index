@@ -3568,6 +3568,7 @@
   "MycilaHADiscovery",
   "MycilaJSY",
   "MycilaLogger",
+  "MycilaMQTT",
   "MycilaNTP",
   "MycilaRelay",
   "MycilaTaskMonitor",
