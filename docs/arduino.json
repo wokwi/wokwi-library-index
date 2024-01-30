@@ -2076,6 +2076,7 @@
   "EspHtmlTemplateProcessor",
   "EspMQTTClient",
   "EspNow2Mqtt",
+  "EspNowCam",
   "EspNowJoystick",
   "EspSaveCrash",
   "EspSimpleRemoteUpdate",
