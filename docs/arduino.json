@@ -2636,6 +2636,7 @@
   "I2C_DMAC",
   "I2C_EEPROM",
   "I2C_Functions",
+  "I2C_Insarianne",
   "I2C_LCD",
   "I2C_LCD12864",
   "I2C_SCANNER",
