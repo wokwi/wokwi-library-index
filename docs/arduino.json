@@ -1703,6 +1703,7 @@
   "DoubleResetDetect",
   "DoubleResetDetector",
   "DoubleResetDetector_Generic",
+  "DoublyLinkedList",
   "DovesLapTimer",
   "Drive",
   "DropboxManager",
