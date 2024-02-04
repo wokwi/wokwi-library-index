@@ -4345,6 +4345,7 @@
   "RemoteDebugger",
   "RemoteMe",
   "RemoteMeUtils",
+  "RemoteSensor",
   "RemoteSerial",
   "RemoteSignal",
   "RemoteXY",
