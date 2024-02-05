@@ -5602,6 +5602,7 @@
   "TouchEvent",
   "TouchKeypad",
   "TouchWheel",
+  "TouchyTouch",
   "TpdButton",
   "Tr4cker",
   "Transform",
