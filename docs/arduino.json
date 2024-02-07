@@ -1069,6 +1069,7 @@
   "Bonezegei_HD44780",
   "Bonezegei_I2CScan",
   "Bonezegei_ILI9341v2",
+  "Bonezegei_LCD2004_I2C",
   "Bonezegei_List",
   "Bonezegei_PCF8574",
   "Bonezegei_Protocol",
