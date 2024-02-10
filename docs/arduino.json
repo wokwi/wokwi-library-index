@@ -1061,6 +1061,7 @@
   "Bonezegei_Compute",
   "Bonezegei_DHT11",
   "Bonezegei_DHT22",
+  "Bonezegei_DS1307",
   "Bonezegei_DS3231",
   "Bonezegei_GL",
   "Bonezegei_GPS",
