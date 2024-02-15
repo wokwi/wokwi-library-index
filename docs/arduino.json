@@ -2053,6 +2053,7 @@
   "EmotiBit MLX90632",
   "EmotiBit NCP5623",
   "EmotiBit SI7013",
+  "EmotiBit SimpleFTPServer",
   "EmotiBit XPlat Utils",
   "Emulation",
   "EnableInterrupt",
