@@ -3604,6 +3604,7 @@
   "MycilaMQTT",
   "MycilaNTP",
   "MycilaRelay",
+  "MycilaTaskManager",
   "MycilaTaskMonitor",
   "MycilaTrial",
   "N64Controller",
