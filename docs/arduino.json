@@ -4096,6 +4096,7 @@
   "Portenta_H7_TimerInterrupt",
   "PositionControl",
   "PostNeoSWSerial",
+  "Potentiometer_ADI_Arduino",
   "Potentiostat_Shield",
   "PowerFlex4m",
   "PowerMonitor",
