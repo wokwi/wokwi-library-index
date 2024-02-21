@@ -2180,6 +2180,7 @@
   "FTOLED",
   "FTPClient_Generic",
   "FTP_Server_Teensy41",
+  "FTPduino",
   "FTRGBLED",
   "FTTech Aqualabo Sensors",
   "FTTech LoRaWAN",
