@@ -2303,6 +2303,7 @@
   "Flinduino_Sensorkit",
   "FlipDisc",
   "FloatArrayManager",
+  "FloatToAscii",
   "FlowSensor",
   "Force",
   "Forced-BME280",
