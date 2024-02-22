@@ -3612,6 +3612,7 @@
   "MycilaLogger",
   "MycilaMQTT",
   "MycilaNTP",
+  "MycilaPZEM004Tv3",
   "MycilaRelay",
   "MycilaTaskManager",
   "MycilaTaskMonitor",
