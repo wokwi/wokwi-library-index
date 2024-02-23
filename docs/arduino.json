@@ -1772,6 +1772,7 @@
   "EEPROM_CAT25",
   "EEPROM_Rotate",
   "EEPROM_SPI_WE",
+  "EEPROM_STM_Arduino",
   "EEPROM_WL",
   "EEPROMextent",
   "EEPROMsimple",
