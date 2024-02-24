@@ -5331,6 +5331,7 @@
   "StreamAverage",
   "StreamDebugger",
   "StreamLib",
+  "StreamLog",
   "StreamUtils",
   "Streaming",
   "StreamlabsArduinoAlerts",
