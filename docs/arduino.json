@@ -4945,6 +4945,7 @@
   "SimpleTime",
   "SimpleTimeout",
   "SimpleTimer",
+  "SimpleTiming",
   "SimpleUDPController",
   "SimpleUltrasonic",
   "SimpleVector",
