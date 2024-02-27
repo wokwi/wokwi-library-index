@@ -1578,6 +1578,8 @@
   "DRV8825",
   "DRV8835MotorShield",
   "DRV8870",
+  "DS MCP4018 Library",
+  "DS PCA9536 Library",
   "DS1307 Emulator",
   "DS1307RTC",
   "DS1307newAlarms",
