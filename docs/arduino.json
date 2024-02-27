@@ -6561,6 +6561,7 @@
   "simple ht16k33 library",
   "simple-web-dashboard",
   "simpleDSTadjust",
+  "simpleEvents",
   "simpleRPC",
   "siot_core_lib",
   "sipf-arduino-client",
