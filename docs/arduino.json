@@ -1712,6 +1712,7 @@
   "DiodeIoT_SI-1108",
   "DiodeIoT_SI-1116",
   "DirectCurrent_Motor_Module",
+  "DirectNECTransmitter",
   "Discord_WebHook",
   "DisplayMenu",
   "DisplayUtils",
