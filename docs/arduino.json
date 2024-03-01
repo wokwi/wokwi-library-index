@@ -2567,6 +2567,7 @@
   "HC_SR04",
   "HD44780_LCD_PCF8574",
   "HDC1000",
+  "HDC2010",
   "HDC302x",
   "HID Buttons",
   "HID-Project",
