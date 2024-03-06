@@ -6284,6 +6284,7 @@
   "flagsapi",
   "flex_DST",
   "float16",
+  "float16ext",
   "floatToString",
   "fmt",
   "fog",
