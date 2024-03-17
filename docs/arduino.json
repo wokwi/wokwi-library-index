@@ -3051,6 +3051,7 @@
   "Liquid Handling Robotics",
   "LiquidCrystal",
   "LiquidCrystal I2C",
+  "LiquidCrystal I2C UTF8",
   "LiquidCrystal NKC",
   "LiquidCrystalIO",
   "LiquidCrystalSerial",
