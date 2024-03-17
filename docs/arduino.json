@@ -6604,6 +6604,7 @@
   "serial-readline",
   "serial-transport",
   "serialEEPROM",
+  "serialIO",
   "serialMux",
   "servodht11",
   "settingsManager",
