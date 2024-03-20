@@ -4891,6 +4891,7 @@
   "Servo Hardware PWM",
   "Servo328",
   "ServoESP32",
+  "ServoESP32Fix",
   "ServoEasing",
   "ServoInput",
   "ServoMotor",
