@@ -1301,6 +1301,7 @@
   "ClusterDuck Protocol",
   "CmdMessenger",
   "CmdParser",
+  "CmdSerial",
   "CoAP simple library",
   "CoDrone",
   "CodeCodeCodec Library",
