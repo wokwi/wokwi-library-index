@@ -2933,6 +2933,7 @@
   "LCD_I2C",
   "LCD_ST7032",
   "LCLV",
+  "LCT200",
   "LC_baseTools",
   "LC_lilParser",
   "LC_neoPixel",
