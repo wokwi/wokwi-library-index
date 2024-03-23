@@ -1743,6 +1743,7 @@
   "DoublyLinkedList",
   "DovesLapTimer",
   "Drive",
+  "DriveMaster",
   "DropboxManager",
   "Ds1302",
   "DualG2HighPowerMotorShield",
