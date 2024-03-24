@@ -4845,6 +4845,7 @@
   "Sensirion UART SEN44",
   "Sensirion UART SFA3x",
   "Sensirion UART Svm4x",
+  "Sensirion UPT BLE Auto Detection",
   "Sensirion UPT Core",
   "Sensirion UPT I2C Auto Detection",
   "Sensor",
