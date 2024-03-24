@@ -2300,6 +2300,7 @@
   "Firebase Arduino based on WiFiNINA",
   "Firebase ESP32 Client",
   "Firebase ESP8266 Client",
+  "FirebaseClient",
   "FirebaseJson",
   "FirebaseRealtime",
   "FireplaceMLX",
