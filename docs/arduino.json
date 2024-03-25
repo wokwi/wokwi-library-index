@@ -3063,6 +3063,7 @@
   "LiquidCrystal_74HC595",
   "LiquidCrystal_AIP31068",
   "LiquidCrystal_I2C_Hangul",
+  "LiquidCrystal_I2C_STEM",
   "LiquidCrystal_I2C_UTF8",
   "LiquidCrystal_PCF8574",
   "LiquidMenu",
