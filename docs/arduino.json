@@ -2196,6 +2196,7 @@
   "FFT_C",
   "FHEM",
   "FIFOEE",
+  "FIFObuf",
   "FIR filter",
   "FLE",
   "FLINT_E220-900T22S-JP",
