@@ -3614,6 +3614,7 @@
   "Motor_RS",
   "Motoron",
   "Mouse",
+  "Moving-Average",
   "MovingAverage",
   "MovingAverageAngle",
   "MovingAverageFloat",
