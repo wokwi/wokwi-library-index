@@ -1961,6 +1961,7 @@
   "ESP8266_W5100_Manager",
   "ESP8266_W5500_Manager",
   "ESP8266_multipart",
+  "ESPAsyncButton",
   "ESPAsyncTCP",
   "ESPAsyncWebServer",
   "ESPAsyncWebSrv",
