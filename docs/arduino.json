@@ -5421,6 +5421,7 @@
   "Streaming",
   "StreamlabsArduinoAlerts",
   "StringAction",
+  "StringLib",
   "StringSplitter",
   "StringUtils",
   "Stringcalculater",
