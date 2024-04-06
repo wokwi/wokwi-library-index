@@ -6550,6 +6550,7 @@
   "mupplet-sensor",
   "mwc_stepper",
   "my92xx",
+  "my_STL",
   "nRF52_MBED_PWM",
   "nRF52_MBED_Slow_PWM",
   "nRF52_OLED",
