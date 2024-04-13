@@ -5716,6 +5716,7 @@
   "TindieApi",
   "TinkerController",
   "Tiny4kOLED",
+  "TinyButton",
   "TinyCBOR",
   "TinyCmdTable",
   "TinyConsole",
