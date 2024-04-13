@@ -4887,6 +4887,7 @@
   "SensorFusion",
   "SensorLib",
   "SensorModbusMaster",
+  "SensorNormalization",
   "SensorPlot WebInterface",
   "SensorToButton",
   "SensorWLED",
