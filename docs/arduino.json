@@ -2775,6 +2775,7 @@
   "IOTKME",
   "IOXESP32Audio",
   "IOXESP32Motor",
+  "IP2368",
   "IP5306_I2C",
   "IPGeolocation",
   "IQ Module Communication",
