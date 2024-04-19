@@ -680,6 +680,7 @@
   "Arduino_LSM6DS3",
   "Arduino_LSM6DSOX",
   "Arduino_LSM9DS1",
+  "Arduino_LowPowerPortentaH7",
   "Arduino_MCHPTouch",
   "Arduino_MKRENV",
   "Arduino_MKRGPS",
