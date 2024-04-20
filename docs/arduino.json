@@ -6368,6 +6368,7 @@
   "esp_abus",
   "esp_dmx",
   "esp_sds011",
+  "espwifiarduino",
   "ev3-arduino",
   "everytime",
   "evive",
