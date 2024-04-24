@@ -6524,6 +6524,7 @@
   "map2colour",
   "max7219",
   "mbino",
+  "mc74hc595a",
   "mcp_can",
   "mcp_canbus",
   "megaAVR_PWM",
