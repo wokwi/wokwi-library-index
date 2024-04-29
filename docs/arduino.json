@@ -6541,6 +6541,8 @@
   "mc74hc595a",
   "mcp_can",
   "mcp_canbus",
+  "mcu-max",
+  "mcu-renderer",
   "megaAVR_PWM",
   "megaAVR_Slow_PWM",
   "megaAVR_TimerInterrupt",
