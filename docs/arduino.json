@@ -4138,6 +4138,7 @@
   "PicoPLC",
   "PicoSoftwareSerial",
   "PicoStep",
+  "PicoWebsocket",
   "Picovoice_AR",
   "Picovoice_DE",
   "Picovoice_EN",
