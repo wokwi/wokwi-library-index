@@ -669,6 +669,7 @@
   "Arduino_CMSIS-DSP",
   "Arduino_CRC32",
   "Arduino_Cellular",
+  "Arduino_CloudConnectionFeedback",
   "Arduino_ConnectionHandler",
   "Arduino_DebugUtils",
   "Arduino_EMBRYO_2",
