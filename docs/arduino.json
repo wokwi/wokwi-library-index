@@ -1233,6 +1233,7 @@
   "CS5464 Arduino",
   "CS5490",
   "CSE_ArduinoRS485",
+  "CSE_CircularBuffer",
   "CSE_GNSS",
   "CSE_MillisTimer",
   "CSE_ModbusRTU",
