@@ -2994,6 +2994,7 @@
   "LCDIC2",
   "LCDMenuLib",
   "LCDMenuLib2",
+  "LCD_BackgroundRGB",
   "LCD_HD44780",
   "LCD_I2C",
   "LCD_ST7032",
