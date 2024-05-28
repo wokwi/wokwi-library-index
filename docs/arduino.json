@@ -5011,6 +5011,7 @@
   "SerialVariable",
   "SerialWireOutput",
   "SerialWombat",
+  "SerialWombat18ABVGADriver",
   "Serial_Monitor",
   "Serie",
   "Series",
