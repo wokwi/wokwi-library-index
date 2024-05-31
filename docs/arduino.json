@@ -4233,6 +4233,7 @@
   "PointzNet",
   "Pokerobo_Arm",
   "Pokerobo_Car",
+  "Pokerobo_I2C",
   "Pokerobo_IRx",
   "Pokerobo_Labs",
   "Pokerobo_PSx",
