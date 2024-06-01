@@ -5749,6 +5749,7 @@
   "TempSensors_NXP_Arduino",
   "Temperature",
   "TemperatureZero",
+  "TemplateTango",
   "TencentCloudIoTSDK",
   "TensorFlowLite_ESP32",
   "TeslaCloud",
