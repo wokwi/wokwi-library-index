@@ -2200,6 +2200,7 @@
   "Ethernet3",
   "EthernetBonjour",
   "EthernetENC",
+  "EthernetESP32",
   "EthernetIndustruino",
   "EthernetWebServer",
   "EthernetWebServer_SSL",
