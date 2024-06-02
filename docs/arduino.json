@@ -6158,6 +6158,7 @@
   "WiFiMulti_Generic",
   "WiFiNINA",
   "WiFiNINA_Generic",
+  "WiFiProvision",
   "WiFiProvisioner",
   "WiFiSpi",
   "WiFiTri",
