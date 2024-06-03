@@ -1700,6 +1700,7 @@
   "DeadReckoning-library",
   "DebounceEvent",
   "DebounceFilterLib",
+  "DebounceMe",
   "DebouncedButton",
   "DebouncedLDR",
   "Debouncer",
