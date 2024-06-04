@@ -1968,6 +1968,7 @@
   "ESP32_SC_W5500_Manager",
   "ESP32_SC_W6100_Manager",
   "ESP32_SemBeacon",
+  "ESP32_SoftWire",
   "ESP32_USB_STREAM",
   "ESP32_VS1053_Stream",
   "ESP32_W5500_Manager",
