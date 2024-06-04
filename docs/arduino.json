@@ -2919,6 +2919,7 @@
   "JTAG",
   "JTAG_Interface",
   "JWA BME280",
+  "JWT_RS256",
   "JavaScript",
   "JeVe_EasyOTA",
   "Joba Tsl2561 Library",
