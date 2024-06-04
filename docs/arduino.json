@@ -2007,6 +2007,7 @@
   "ESP8266_W5500_Manager",
   "ESP8266_multipart",
   "ESPAsyncButton",
+  "ESPAsyncHTTPUpdateServer",
   "ESPAsyncTCP",
   "ESPAsyncWebServer",
   "ESPAsyncWebSrv",
