@@ -6907,6 +6907,7 @@
   "slight_FDC1004",
   "slight_Fade",
   "slight_LiquidCrystalDummy",
+  "slight_PlainTime",
   "slight_RotaryEncoder",
   "slight_TLC5957",
   "slight_easing",
