@@ -1357,6 +1357,7 @@
   "CoinMarketCapApi",
   "Cojson",
   "ColorConverter",
+  "Coloria",
   "ComDriverSpi",
   "CommandParser",
   "Commander",
