@@ -4320,6 +4320,7 @@
   "Preferences",
   "PreferencesCLI",
   "PressureNXPMXP",
+  "PrimitiveStepperMotor",
   "PrintCharArray",
   "PrintCppVersion",
   "PrintEx",
