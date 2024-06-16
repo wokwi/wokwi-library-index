@@ -3632,6 +3632,7 @@
   "MicroMidiPot",
   "MicroNMEA",
   "MicroOsc",
+  "MicroPOP32",
   "MicroQt",
   "MicroShell",
   "MicroTone",
