@@ -6487,6 +6487,7 @@
   "esp32-BLE112",
   "esp32-ds18b20",
   "esp32-flashz",
+  "esp32-rmt-ir",
   "esp32FOTA",
   "esp32_codec2",
   "esp32_ftpclient",
