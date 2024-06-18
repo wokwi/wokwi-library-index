@@ -4516,6 +4516,7 @@
   "RP2040_SD",
   "RP2040_Slow_PWM",
   "RPI_PICO_TimerInterrupt",
+  "RPM",
   "RPlatform",
   "RPulse",
   "RRE Font Library",
