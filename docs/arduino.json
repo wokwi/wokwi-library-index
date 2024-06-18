@@ -920,6 +920,7 @@
   "BMD31M090",
   "BMD58T280",
   "BME280",
+  "BME280_Arduino_I2C",
   "BME280_Zanshin",
   "BME34M101",
   "BME63M001",
