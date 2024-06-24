@@ -4511,6 +4511,7 @@
   "RGBWConverter",
   "RGB_LED",
   "RLEBitmap",
+  "RLNode",
   "RL_ToneSongPlayer",
   "RLab",
   "RMCS-220X",
