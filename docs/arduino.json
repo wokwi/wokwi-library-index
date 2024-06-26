@@ -4278,6 +4278,7 @@
   "PneumaticStepper",
   "PodEnoSim",
   "PointzNet",
+  "Pokerobo_ABC",
   "Pokerobo_Arm",
   "Pokerobo_Car",
   "Pokerobo_I2C",
