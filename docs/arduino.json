@@ -2433,6 +2433,7 @@
   "FreeRTOS",
   "FreeRTOS_SAMD21",
   "FreeRTOS_SAMD51",
+  "Freenove IR Lib for ESP32",
   "Freenove VK16K33 Lib",
   "Freenove WS2812 Lib for ESP32",
   "Freenove WS2812B RGBLED Controller",
