@@ -4692,6 +4692,7 @@
   "Rtc by Makuna",
   "Rtc_Pcf8563",
   "Rtttl",
+  "RunAvgWeight",
   "RunningAverage",
   "RunningMedian",
   "RunningStats",
