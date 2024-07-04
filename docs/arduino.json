@@ -6380,6 +6380,7 @@
   "absmouse",
   "ad5243",
   "ad7124",
+  "adafruit_ina219_mock",
   "advancedSerial",
   "alarm",
   "analogComp",
