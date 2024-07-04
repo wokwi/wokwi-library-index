@@ -2625,6 +2625,7 @@
   "GyverBlinker",
   "GyverBus",
   "GyverButton",
+  "GyverDB",
   "GyverDS18",
   "GyverDimmer",
   "GyverEncoder",
