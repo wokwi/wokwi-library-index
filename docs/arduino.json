@@ -6382,6 +6382,7 @@
   "absmouse",
   "ad5243",
   "ad7124",
+  "adafruit_fram_i2c_mock",
   "adafruit_ina219_mock",
   "advancedSerial",
   "alarm",
