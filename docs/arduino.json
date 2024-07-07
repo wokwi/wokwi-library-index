@@ -6773,6 +6773,7 @@
   "mcp_canbus",
   "mcu-max",
   "mcu-renderer",
+  "mdif",
   "megaAVR_PWM",
   "megaAVR_Slow_PWM",
   "megaAVR_TimerInterrupt",
