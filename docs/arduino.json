@@ -2230,6 +2230,7 @@
   "EthernetENC",
   "EthernetESP32",
   "EthernetIndustruino",
+  "EthernetSP",
   "EthernetWebServer",
   "EthernetWebServer_SSL",
   "EthernetWebServer_SSL_STM32",
