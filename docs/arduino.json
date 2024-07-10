@@ -5611,6 +5611,7 @@
   "StreamAverage",
   "StreamDebugger",
   "StreamDeviceAT",
+  "StreamIO",
   "StreamLib",
   "StreamLog",
   "StreamUtilities",
