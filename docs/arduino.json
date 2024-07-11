@@ -2689,6 +2689,7 @@
   "HITICommSupport",
   "HL1606 LED Strip",
   "HL1606 LED Strip PWM",
+  "HLK-LD2450",
   "HLW8012",
   "HM330X by Tomoto",
   "HMC6352",
@@ -7131,6 +7132,7 @@
   "yatest",
   "yfrobot_tts",
   "youkey_stepper",
-  "zForce Air Library"
+  "zForce Air Library",
+  "zlib_turbo"
  ]
 }
