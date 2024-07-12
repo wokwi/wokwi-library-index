@@ -4442,6 +4442,7 @@
   "QDispatch",
   "QList",
   "QMC5883LCompass",
+  "QN8066",
   "QNEthernet",
   "QPESP32",
   "QRCode",
