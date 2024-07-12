@@ -2881,6 +2881,7 @@
   "IRMP",
   "IRProxSensor",
   "IRRemoteControl",
+  "IRRemoteESP32",
   "IRremote",
   "IRremoteESP8266",
   "IRsmallDecoder",
