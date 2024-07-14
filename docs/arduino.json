@@ -2066,6 +2066,7 @@
   "ESP_LM35",
   "ESP_MultiResetDetector",
   "ESP_MultiWiFi",
+  "ESP_NOW_Network",
   "ESP_SSLClient",
   "ESP_TF",
   "ESP_WiFiManager",
