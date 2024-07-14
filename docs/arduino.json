@@ -4987,6 +4987,7 @@
   "Sanke",
   "Satspares_DWIN_DGUS_HMI",
   "SavLayFilter",
+  "SavitzkyGolayFilter",
   "Sbutton",
   "SceneManager",
   "SchedTask",
