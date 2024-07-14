@@ -2269,6 +2269,7 @@
   "ExponentMap",
   "ExtFlashLoader",
   "ExtendedTouchEvent",
+  "EzArduino",
   "EzDmaHelper",
   "EzLoRaWAN",
   "EzLoRaWAN_BLE",
