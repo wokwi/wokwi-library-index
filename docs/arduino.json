@@ -5133,6 +5133,7 @@
   "Servo_Motor_Module",
   "SessionManager",
   "SetPoint",
+  "Settings",
   "Settings Manager",
   "SettingsManagerESP32",
   "SevSeg",
