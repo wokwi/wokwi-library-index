@@ -2990,6 +2990,7 @@
   "KIM Arduino Library",
   "KIMlib",
   "KLEncoder",
+  "KMESerial",
   "KMP_MCP23S08",
   "KMP_RS485",
   "KOCOAFAB",
