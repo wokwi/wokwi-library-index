@@ -2872,6 +2872,7 @@
   "IOTKME",
   "IOXESP32Audio",
   "IOXESP32Motor",
+  "IOXESP32_4-20mA_Receiver",
   "IP2368",
   "IP5306_I2C",
   "IPGeolocation",
