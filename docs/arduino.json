@@ -3566,6 +3566,7 @@
   "MSGEQ7",
   "MSMPLOTTER",
   "MSP300",
+  "MT-arduino-pin-debouncer",
   "MT6701",
   "MT6701-arduino",
   "MT8870",
