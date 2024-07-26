@@ -5220,6 +5220,7 @@
   "SimpleFilter",
   "SimpleFusion",
   "SimpleHOTP",
+  "SimpleIMU",
   "SimpleIOT",
   "SimpleJ1939",
   "SimpleKalmanFilter",
