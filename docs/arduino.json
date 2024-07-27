@@ -2638,6 +2638,7 @@
   "GyverButton",
   "GyverDB",
   "GyverDS18",
+  "GyverDS3231",
   "GyverDimmer",
   "GyverEncoder",
   "GyverFIFO",
