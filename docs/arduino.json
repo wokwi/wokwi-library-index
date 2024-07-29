@@ -4736,6 +4736,7 @@
   "Rotary",
   "RotaryDial",
   "RotaryEncoder",
+  "RotaryEncoderPCNT",
   "RotaryEncoder_Zanduino",
   "RoverWing",
   "RoxMux",
