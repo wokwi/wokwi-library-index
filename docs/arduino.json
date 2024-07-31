@@ -3949,6 +3949,7 @@
   "NewEncoder",
   "NewPing",
   "NewServo",
+  "Newhaven_CharacterOLED_SPI",
   "Newt_Display",
   "Nexgen_Rover",
   "Nextion",
