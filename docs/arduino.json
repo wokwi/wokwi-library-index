@@ -6426,6 +6426,7 @@
   "ZMotor2 Library",
   "ZMotor3Library",
   "ZPCA9685 Library",
+  "ZSSC3230 I2C Driver",
   "ZSharpIR Library",
   "Zaber ASCII",
   "Zaber Binary",
