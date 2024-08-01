@@ -3857,6 +3857,7 @@
   "MycilaMQTT",
   "MycilaNTP",
   "MycilaPZEM004Tv3",
+  "MycilaPulseAnalyzer",
   "MycilaRelay",
   "MycilaSystem",
   "MycilaTaskManager",
