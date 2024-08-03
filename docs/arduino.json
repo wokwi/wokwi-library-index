@@ -5279,6 +5279,7 @@
   "SingleWireSerial",
   "SinricPro",
   "SinricPro_Generic",
+  "SinricPro_Renesas",
   "SinricTeleport",
   "Sitron Labs OPT3001 Ambient Light Sensor Arduino Library",
   "Sitron Labs SH1106 Arduino Library",
