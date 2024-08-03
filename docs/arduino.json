@@ -5948,6 +5948,7 @@
   "TimerInterrupt_Generic",
   "TimerMs",
   "TimerOne",
+  "TimerOne_V2",
   "TimerThree",
   "TimerUtils",
   "Timers",
