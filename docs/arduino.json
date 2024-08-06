@@ -7021,6 +7021,8 @@
   "roo_prefs",
   "roo_scheduler",
   "roo_time",
+  "roo_wifi",
+  "roo_windows",
   "ros2arduino",
   "rotaryDecoder",
   "rotaryDecoderSwitch",
