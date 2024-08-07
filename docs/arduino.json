@@ -4782,6 +4782,7 @@
   "SCA100T",
   "SCL3300",
   "SCPI_Parser",
+  "SCServo",
   "SD",
   "SDConfig",
   "SDConfigCommand",
