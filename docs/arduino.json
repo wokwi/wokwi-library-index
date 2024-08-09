@@ -4012,6 +4012,7 @@
   "OSC",
   "OSFS",
   "OSP 2wireSPI aospi",
+  "OSP CommandInterpreter aocmd",
   "OSP ResultCodes aoresult",
   "OSP Telegrams aoosp",
   "OSS-EC ABLIC S-58LM20A 00000057",
