@@ -5253,6 +5253,7 @@
   "SimpleKalmanFilter",
   "SimpleKeypad",
   "SimpleLed",
+  "SimpleLogger",
   "SimpleMelt",
   "SimpleMeteoCalc",
   "SimpleMotionV2-Arduino",
