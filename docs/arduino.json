@@ -5980,6 +5980,7 @@
   "TinyCmdTable",
   "TinyConsole",
   "TinyDHT sensor library",
+  "TinyDMXSerial",
   "TinyDatabase_Arduino",
   "TinyDebug",
   "TinyDecisionTreeClassifier",
