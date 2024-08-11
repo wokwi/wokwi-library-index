@@ -2221,6 +2221,7 @@
   "EspNowCam",
   "EspNowJoystick",
   "EspNowNetwork",
+  "EspNowNetworkShared",
   "EspSaveCrash",
   "EspSimpleRemoteUpdate",
   "EspSimpleWifiHandler",
