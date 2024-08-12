@@ -5660,6 +5660,7 @@
   "Statistical",
   "Stator",
   "StatsD",
+  "SteerBot_TB6612",
   "StensTimer",
   "StepMotor4windings",
   "Step_CYC10_I2C",
