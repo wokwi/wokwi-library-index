@@ -2220,7 +2220,6 @@
   "EspNow2Mqtt",
   "EspNowCam",
   "EspNowJoystick",
-  "EspNowNetwork",
   "EspNowNetworkHost",
   "EspNowNetworkHostDriver",
   "EspNowNetworkNode",
