@@ -6304,6 +6304,7 @@
   "WiFi101_Generic",
   "WiFiConnect",
   "WiFiConnect Lite",
+  "WiFiConnector",
   "WiFiEsp",
   "WiFiEspAT",
   "WiFiMQTTManager Library",
