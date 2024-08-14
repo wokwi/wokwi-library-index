@@ -2784,6 +2784,7 @@
   "Hlw8032",
   "HoldButton",
   "HomeAssistantEntities",
+  "HomeAssistantMQTT",
   "HomeDing",
   "HomeKit-ESP8266",
   "HomeSpan",
