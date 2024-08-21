@@ -2835,6 +2835,7 @@
   "I2C_LCD12864",
   "I2C_SCANNER",
   "I2C_Scanner",
+  "I2C_Slave",
   "I2C_device_Arduino",
   "I2Commands",
   "I2Cwrapper",
