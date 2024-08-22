@@ -2412,6 +2412,7 @@
   "FiniteStateMachine",
   "FireBase32",
   "FireTimer",
+  "Firebase",
   "Firebase Arduino Client Library for ESP8266 and ESP32",
   "Firebase Arduino based on WiFi101",
   "Firebase Arduino based on WiFiNINA",
