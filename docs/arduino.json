@@ -1961,6 +1961,7 @@
   "ESP32-imgur-uploader",
   "ESP32-targz",
   "ESP32AnalogRead",
+  "ESP32CAR",
   "ESP32Console",
   "ESP32DMASPI",
   "ESP32Dispatcher",
