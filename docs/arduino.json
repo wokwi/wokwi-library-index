@@ -2881,6 +2881,7 @@
   "ILI9342_T4",
   "ILI9486_SPI",
   "ILIB",
+  "IMU_Fusion_SYC",
   "INA219",
   "INA219B",
   "INA219_WE",
