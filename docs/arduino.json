@@ -2257,6 +2257,7 @@
   "EthernetBonjour",
   "EthernetENC",
   "EthernetESP32",
+  "EthernetEspAT",
   "EthernetIndustruino",
   "EthernetSP",
   "EthernetWebServer",
