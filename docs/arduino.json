@@ -7146,6 +7146,7 @@
   "ssd1306xled",
   "ssd1327",
   "st7567sfGK 128x64 i2c LCD driver for Generation Klick",
+  "stackchan-arduino",
   "statHelpers",
   "staticFunctional",
   "statsdclient",
