@@ -6547,6 +6547,7 @@
   "avdweb_AnalogReadFast",
   "avdweb_SAMDtimer",
   "avdweb_VirtualDelay",
+  "avr-fast-div",
   "avrCalibrate",
   "avr_stl",
   "avrtos",
