@@ -2016,6 +2016,7 @@
   "ESP32_VS1053_Stream",
   "ESP32_W5500_Manager",
   "ESP32_W6100_Manager",
+  "ESP32_WS2812_Lib",
   "ESP32_easy_wifi_data",
   "ESP32httpUpdate",
   "ESP32softPWM",
