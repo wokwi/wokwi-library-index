@@ -727,6 +727,7 @@
   "Arduino_PortentaBreakout",
   "Arduino_PortentaMachineControl",
   "Arduino_Portenta_OTA",
+  "Arduino_PowerManagement",
   "Arduino_Pro_Tutorials",
   "Arduino_ScienceJournal",
   "Arduino_ScienceKitCarrier",
