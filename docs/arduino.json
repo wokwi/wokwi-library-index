@@ -4013,6 +4013,7 @@
   "Nokia 5110 LCD library",
   "Nokia5110",
   "NonBlockingDallas",
+  "NonBlockingDelay",
   "NonBlockingRTTTL",
   "NonBlockingSequence",
   "Norman",
