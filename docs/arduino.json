@@ -1193,6 +1193,7 @@
   "ButtonKing",
   "ButtonMatrix",
   "ButtonSuite",
+  "ButtonToSwitch_ESP32",
   "Button_SL",
   "Button_TT",
   "ButtonnIRQ",
