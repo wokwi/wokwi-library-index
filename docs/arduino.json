@@ -1879,6 +1879,7 @@
   "EEPROM32_Rotate",
   "EEPROMAdapter",
   "EEPROMEx",
+  "EEPROMReader",
   "EEPROMTyped",
   "EEPROMWearLevel",
   "EEPROM_24LC64F",
