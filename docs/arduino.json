@@ -5865,6 +5865,7 @@
   "TMC5072",
   "TMC7300",
   "TMCStepper",
+  "TMD3725",
   "TMP117-Arduino",
   "TMP36",
   "TMP6x",
