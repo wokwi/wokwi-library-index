@@ -4445,6 +4445,7 @@
   "Portenta_H7_PWM",
   "Portenta_H7_Slow_PWM",
   "Portenta_H7_TimerInterrupt",
+  "Posit",
   "PositionControl",
   "PostNeoSWSerial",
   "Potentiometer_ADI_Arduino",
