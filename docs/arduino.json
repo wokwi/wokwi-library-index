@@ -132,6 +132,8 @@
   "AIStarter",
   "AISwitch",
   "AITINKR_AIOT_DEVBOARD",
+  "AITINKR_AIOT_V2",
+  "AITINKR_JSON_FIELDS",
   "AITINKR_SHIELDS",
   "AIfES for Arduino",
   "AJSP",
