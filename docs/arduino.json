@@ -6080,6 +6080,7 @@
   "TinyOLED-Fonts",
   "TinyPICO Helper Library",
   "TinyRTCLib",
+  "TinyScheduler",
   "TinyScreen",
   "TinySnore",
   "TinyStepper",
