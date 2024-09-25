@@ -6595,6 +6595,7 @@
   "avdweb_SAMDtimer",
   "avdweb_VirtualDelay",
   "avr-fast-div",
+  "avr-fast-map",
   "avr-fast-shift",
   "avrCalibrate",
   "avr_stl",
