@@ -6122,6 +6122,7 @@
   "Touch Screen Driver",
   "TouchEvent",
   "TouchKeypad",
+  "TouchLed",
   "TouchWheel",
   "TouchyTouch",
   "TpdButton",
