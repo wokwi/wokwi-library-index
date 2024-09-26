@@ -5238,6 +5238,7 @@
   "Servo",
   "Servo Hardware PWM",
   "Servo328",
+  "ServoCtrl",
   "ServoESP32",
   "ServoESP32Fix",
   "ServoEasing",
