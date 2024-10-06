@@ -6635,6 +6635,7 @@
   "bb_rtc",
   "bb_scd41",
   "bb_spi_lcd",
+  "bb_truetype",
   "bb_uc1701",
   "bcl",
   "bitHelpers",
