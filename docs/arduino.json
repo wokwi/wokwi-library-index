@@ -2251,6 +2251,7 @@
   "EspATMQTT",
   "EspBootstrap",
   "EspEasyUtils",
+  "EspFileManager",
   "EspHtmlTemplateProcessor",
   "EspMQTTClient",
   "EspNow2Mqtt",
