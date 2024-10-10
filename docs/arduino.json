@@ -720,6 +720,7 @@
   "Arduino_MKRTHERM",
   "Arduino_MachineControl",
   "Arduino_MultiWiFi",
+  "Arduino_NiclaSenseEnv",
   "Arduino_NineAxesMotion",
   "Arduino_OAuth",
   "Arduino_OV767X",
