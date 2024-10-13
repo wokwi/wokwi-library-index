@@ -3138,6 +3138,7 @@
   "LCD_ST7032",
   "LCLV",
   "LCT200",
+  "LC_EEPROM",
   "LC_baseTools",
   "LC_lilParser",
   "LC_neoPixel",
