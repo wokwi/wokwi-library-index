@@ -1200,6 +1200,7 @@
   "ButtonKing",
   "ButtonMatrix",
   "ButtonSuite",
+  "ButtonToSwitch",
   "ButtonToSwitch_ESP32",
   "Button_SL",
   "Button_TT",
