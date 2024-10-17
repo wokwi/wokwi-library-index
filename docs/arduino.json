@@ -6660,6 +6660,7 @@
   "basicGLCD",
   "basicMPU6050",
   "bb_captouch",
+  "bb_epaper",
   "bb_hx1230",
   "bb_ltr390",
   "bb_rtc",
