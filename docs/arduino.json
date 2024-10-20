@@ -2156,6 +2156,7 @@
   "EasyLogger",
   "EasyMorse",
   "EasyNTPClient",
+  "EasyOledUI",
   "EasyOpenTherm",
   "EasyPCF8574",
   "EasyPCF8575",
