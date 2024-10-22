@@ -4599,6 +4599,7 @@
   "QNEthernet",
   "QPESP32",
   "QRCode",
+  "QRCodeGenerator",
   "QRcodeDisplay",
   "QRcodeEink",
   "QRcodeOled",
