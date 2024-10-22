@@ -6590,6 +6590,7 @@
   "ZMCP23017 Library",
   "ZMPT101B",
   "ZMPT101B-Sensor",
+  "ZModbusRTU",
   "ZMotor2 Library",
   "ZMotor3Library",
   "ZOHO-IOT-SDK",
