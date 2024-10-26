@@ -5805,6 +5805,7 @@
   "StepperControl",
   "StepperDriver",
   "StepperMotor",
+  "StepperMulti",
   "Stepper_28BYJ_48",
   "StereoSID",
   "StevesAwesomeButton",
