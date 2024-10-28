@@ -7348,6 +7348,7 @@
   "uCRC16Lib",
   "uCRC16XModemLib",
   "uClock",
+  "uConfigLib",
   "uDebugLib",
   "uECG",
   "uEEPROMLib",
