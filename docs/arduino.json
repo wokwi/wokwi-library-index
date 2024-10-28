@@ -3442,6 +3442,7 @@
   "M5Unit-RELAY",
   "M5Unit-RTC",
   "M5Unit-Sonic",
+  "M5Unit-TOF",
   "M5Unit-Thermal2",
   "M5Unit-ToF4M",
   "M5Unit-UHF-RFID",
