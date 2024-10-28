@@ -6802,6 +6802,7 @@
   "esp32-rmt-ir",
   "esp32FOTA",
   "esp32_codec2",
+  "esp32_epd",
   "esp32_ftpclient",
   "esp32_gamepad",
   "esp32_https_server_compat",
