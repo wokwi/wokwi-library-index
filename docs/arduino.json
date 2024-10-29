@@ -730,6 +730,7 @@
   "Arduino_NiclaSenseEnv",
   "Arduino_NineAxesMotion",
   "Arduino_OAuth",
+  "Arduino_OPC_UA",
   "Arduino_OV767X",
   "Arduino_OplaUI",
   "Arduino_Opta_Blueprint",
