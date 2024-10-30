@@ -2437,6 +2437,7 @@
   "FastShiftIn",
   "FastShiftInOut",
   "FastShiftOut",
+  "FastTimer",
   "FastTrig",
   "Fastcore",
   "FatFs",
