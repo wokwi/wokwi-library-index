@@ -5166,6 +5166,7 @@
   "SUSHI-EXP-BOARD",
   "SWAP",
   "SWI2C",
+  "SWSPI",
   "SWSerialOut",
   "SX126x-Arduino",
   "SX1509 IO Expander",
