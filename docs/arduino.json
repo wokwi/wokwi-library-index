@@ -2644,6 +2644,7 @@
   "GoogleCalendarClient",
   "GoogleFormPost",
   "GoogleMapsApi",
+  "GoogleSchedular",
   "GovoroxSSLClient",
   "GrafanaLoki",
   "Grafici-GFX",
