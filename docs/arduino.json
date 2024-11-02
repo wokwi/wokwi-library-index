@@ -1864,6 +1864,7 @@
   "DoubleResetDetector_Generic",
   "DoublyLinkedList",
   "DovesLapTimer",
+  "DpsPowerSupply",
   "Drive",
   "DriveCell",
   "DriveMaster",
