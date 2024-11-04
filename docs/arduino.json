@@ -7238,6 +7238,7 @@
   "roo_scheduler",
   "roo_temperature",
   "roo_time",
+  "roo_time_ds3231",
   "roo_wifi",
   "roo_windows",
   "roo_windows_onewire",
