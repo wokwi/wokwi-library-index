@@ -6309,6 +6309,7 @@
   "Ulm_Weatherballoon",
   "UltiBlox DisplayValueCommon",
   "UltiBlox DisplayValueLCD",
+  "UltiBlox DisplayValueNull",
   "UltiBlox DisplayValueOLED",
   "UltiBlox LCDI2C",
   "UltiBlox SensorAnalog",
