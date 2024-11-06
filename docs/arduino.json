@@ -3155,6 +3155,7 @@
   "LCBUrl",
   "LCD-I2C",
   "LCD03",
+  "LCD595",
   "LCDBigNumbers",
   "LCDDisplay10",
   "LCDDrivers_NXP_Arduino",
