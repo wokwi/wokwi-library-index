@@ -7398,6 +7398,7 @@
   "uDebugLib",
   "uECG",
   "uEEPROMLib",
+  "uEspConfigLib",
   "uFire PAR Sensor",
   "uFire SHT20",
   "uHexLib",
