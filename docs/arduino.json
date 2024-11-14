@@ -685,6 +685,7 @@
   "ArduinoUnit",
   "ArduinoUserInterface",
   "ArduinoWebsockets",
+  "Arduino_10BASE_T1S",
   "Arduino_APA102",
   "Arduino_APDS9960",
   "Arduino_AVRSTL",
