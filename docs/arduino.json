@@ -2066,6 +2066,7 @@
   "ESP32_W6100_Manager",
   "ESP32_WS2812_Lib",
   "ESP32_easy_wifi_data",
+  "ESP32epd",
   "ESP32httpUpdate",
   "ESP32softPWM",
   "ESP8266 Influxdb",
