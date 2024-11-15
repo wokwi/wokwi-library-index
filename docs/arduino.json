@@ -2557,6 +2557,7 @@
   "G4Enc",
   "GAMMA",
   "GBALib Potentiometer",
+  "GBALib_UltrasonicSensor",
   "GBALib_Wave",
   "GC9A01A AVR",
   "GCodeParser",
