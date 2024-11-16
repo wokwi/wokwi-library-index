@@ -2557,6 +2557,7 @@
   "G4Enc",
   "GAMMA",
   "GBALib Potentiometer",
+  "GBALib_DCMotor",
   "GBALib_ShiftRegister",
   "GBALib_UltrasonicSensor",
   "GBALib_Wave",
