@@ -4455,6 +4455,7 @@
   "PicoSoftwareSerial",
   "PicoStep",
   "PicoWebsocket",
+  "Pico_Keyboard",
   "Picovoice_AR",
   "Picovoice_DE",
   "Picovoice_EN",
