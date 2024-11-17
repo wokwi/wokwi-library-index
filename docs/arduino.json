@@ -5051,6 +5051,7 @@
   "SRAM_23LC",
   "SRAMsimple",
   "SRF05",
+  "SSD1306 OLED Display",
   "SSD1306Ascii",
   "SSD1306TUR",
   "SSD1306wire",
