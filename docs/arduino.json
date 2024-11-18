@@ -7080,6 +7080,7 @@
   "log4Esp",
   "log4arduino",
   "looper",
+  "loremipsum",
   "losant-mqtt-arduino",
   "lv_arduino",
   "lv_examples",
