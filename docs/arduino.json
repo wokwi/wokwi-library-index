@@ -2478,6 +2478,7 @@
   "Finite-State-Machine-Arduino",
   "FiniteStateMachine",
   "FireBase32",
+  "FireEsp",
   "FireTimer",
   "Firebase",
   "Firebase Arduino Client Library for ESP8266 and ESP32",
