@@ -4487,6 +4487,7 @@
   "PinInGroup",
   "PinMatrix",
   "PinOutGroup",
+  "PinScribe",
   "Pinduino",
   "PioSPI",
   "PixelGrid",
