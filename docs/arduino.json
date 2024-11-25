@@ -4840,6 +4840,7 @@
   "RapifireMqttClient",
   "Raspberry Pi Pico CPU Temperature",
   "RazorIMU_9DOF",
+  "RcSwitchReceiver",
   "Rcn600",
   "Rdebug",
   "ReGIS",
