@@ -2997,6 +2997,7 @@
   "IOXESP32Audio",
   "IOXESP32Motor",
   "IOXESP32_4-20mA_Receiver",
+  "IP236x",
   "IP5306_I2C",
   "IPGeolocation",
   "IPS-7100-I2C-Arduino",
