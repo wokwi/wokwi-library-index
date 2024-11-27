@@ -6361,6 +6361,7 @@
   "UltiBlox-Examples",
   "UltiBlox-LCDI2C",
   "UltiBlox-SensorAnalog",
+  "UltiBlox-SerialCommands",
   "UltiBlox-SerialLogger",
   "Ultimate_ESP_MQTT_Ubidots",
   "UltraDistSensor",
