@@ -4993,6 +4993,7 @@
   "SCPI_Parser",
   "SCServo",
   "SD",
+  "SD2405",
   "SDConfig",
   "SDConfigCommand",
   "SDHT",
