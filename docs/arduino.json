@@ -6900,6 +6900,7 @@
   "esp-fipsy",
   "esp-fs-webserver",
   "esp-iot-core",
+  "esp-lib-utils",
   "esp32-BG95",
   "esp32-BLE112",
   "esp32-ds18b20",
