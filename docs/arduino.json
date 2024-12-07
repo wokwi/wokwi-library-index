@@ -3051,6 +3051,7 @@
   "Internal eeprom",
   "InternalTemperature",
   "InterpolationLib",
+  "InterruptStepper",
   "Interstitial Quadrant",
   "Interval",
   "IntervalCallback",
