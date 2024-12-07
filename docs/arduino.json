@@ -2321,6 +2321,7 @@
   "EspSleep",
   "EspSoftwareSerial",
   "EspUsbHost",
+  "EspWebFileManager",
   "EspWii",
   "Espalexa",
   "Esparto",
