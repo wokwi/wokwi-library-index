@@ -1230,6 +1230,7 @@
   "ButtonnIRQ",
   "Buzz",
   "Buzzer",
+  "BuzzerManager",
   "BuzzerMelody",
   "ByteConvert",
   "BytebeamArduino",
