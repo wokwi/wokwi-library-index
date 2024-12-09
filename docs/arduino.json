@@ -1938,6 +1938,7 @@
   "EEPROM32_Rotate",
   "EEPROMAdapter",
   "EEPROMEx",
+  "EEPROMHandler",
   "EEPROMReader",
   "EEPROMTyped",
   "EEPROMWearLevel",
