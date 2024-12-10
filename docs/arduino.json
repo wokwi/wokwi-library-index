@@ -1414,6 +1414,7 @@
   "CodeCell",
   "CodeCodeCodec Library",
   "CodeDebugScope",
+  "CodeSizeProfiler",
   "Codec2",
   "CodingArray MotorShield V1 Library",
   "Cohere_Client",
