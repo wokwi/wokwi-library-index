@@ -5647,6 +5647,7 @@
   "SoilSensor",
   "SolarCalculator",
   "SolarCharger",
+  "SolarChargerSB041",
   "Soldered ADS1015 and ADS1115 EasyC Library",
   "Soldered AS3935 Lightning sensor library",
   "Soldered BME280 and BME680 EasyC Library",
