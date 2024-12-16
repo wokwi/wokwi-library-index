@@ -2316,6 +2316,7 @@
   "EspFileManager",
   "EspHtmlTemplateProcessor",
   "EspMQTTClient",
+  "EspMQTTClientFork",
   "EspNow2Mqtt",
   "EspNowCam",
   "EspNowJoystick",
