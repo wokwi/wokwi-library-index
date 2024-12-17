@@ -2909,6 +2909,7 @@
   "HighPowerStepperDriver",
   "Histogram",
   "Hlw8032",
+  "Hmi4DinBox",
   "HoldButton",
   "HomeAssistantEntities",
   "HomeAssistantMQTT",
