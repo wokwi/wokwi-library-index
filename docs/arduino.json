@@ -7374,6 +7374,8 @@
   "roo_display",
   "roo_flags",
   "roo_icons",
+  "roo_io",
+  "roo_io_arduino",
   "roo_logging",
   "roo_material_icons",
   "roo_onewire",
