@@ -7455,6 +7455,7 @@
   "souliss",
   "spaiot-lib",
   "spartan_edge_esp32_boot",
+  "spi_lcd_read",
   "spin-timer",
   "spreGnssRtcLib",
   "spreLgfxTouch",
