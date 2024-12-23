@@ -1313,6 +1313,7 @@
   "CSE_GNSS",
   "CSE_MillisTimer",
   "CSE_ModbusRTU",
+  "CSE_ZH06",
   "CST816S",
   "CST816_TouchLib",
   "CSV Parser",
