@@ -3610,6 +3610,7 @@
   "MCP23017 Port Expander",
   "MCP23017_Attiny85",
   "MCP23017_I2C",
+  "MCP23017_MR",
   "MCP23017_RT",
   "MCP23017_WE",
   "MCP23S08",
