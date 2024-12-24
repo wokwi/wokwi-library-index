@@ -3772,6 +3772,7 @@
   "MSP300",
   "MT-arduino-momentary-button",
   "MT-arduino-pin-debouncer",
+  "MT-arduino-rotary-encoder",
   "MT-arduino-stepper-driver",
   "MT6701",
   "MT6701-arduino",
