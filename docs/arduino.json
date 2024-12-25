@@ -7510,6 +7510,7 @@
   "tinyI2S",
   "tinySHT2x",
   "tinySPI",
+  "tinyServo84",
   "tinyTimeR",
   "tinyUDP",
   "tinyhal",
