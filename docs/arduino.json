@@ -4110,6 +4110,7 @@
   "NDNOverUDP",
   "NDefs",
   "NE555",
+  "NESControllerInterface",
   "NETSGPClient",
   "NEvents",
   "NFC Tag M24LR6E",
