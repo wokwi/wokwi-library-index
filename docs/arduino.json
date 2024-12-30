@@ -2174,6 +2174,7 @@
   "ESP_AT_WiFiManager",
   "ESP_DoubleResetDetector",
   "ESP_EEPROM",
+  "ESP_FC28",
   "ESP_LM35",
   "ESP_MultiResetDetector",
   "ESP_MultiWiFi",
