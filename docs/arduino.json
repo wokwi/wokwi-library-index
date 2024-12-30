@@ -3188,6 +3188,7 @@
   "KermiteCore_Arduino",
   "KeyDetector",
   "KeyMatrix",
+  "KeySequence",
   "Keyboard",
   "KeyboardAzertyFr",
   "Keyhole",
