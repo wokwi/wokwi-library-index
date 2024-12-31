@@ -2052,6 +2052,7 @@
   "ESP32-PTQS1005",
   "ESP32-TWAI-CAN",
   "ESP32-USB-Soft-Host",
+  "ESP32-audioI2S-master",
   "ESP32-imgur-uploader",
   "ESP32-targz",
   "ESP32AnalogRead",
