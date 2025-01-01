@@ -6747,6 +6747,7 @@
   "XMC_Servo",
   "XMLWriter",
   "XModem",
+  "XPT2046 Driver",
   "XPT2046_Bitbang",
   "XPT2046_Bitbang_Slim",
   "XPT2046_Calibrated",
