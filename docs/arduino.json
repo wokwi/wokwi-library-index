@@ -5966,6 +5966,7 @@
   "Stack",
   "StackString",
   "StackmatTimer",
+  "Stackmq",
   "Stamp",
   "StarterRemote",
   "StateMachine",
