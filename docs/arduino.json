@@ -2088,6 +2088,7 @@
   "ESP32_IO_Expander",
   "ESP32_ISR_Servo",
   "ESP32_Knob",
+  "ESP32_MQTTClient",
   "ESP32_MySQL",
   "ESP32_New_ISR_Servo",
   "ESP32_New_TimerInterrupt",
