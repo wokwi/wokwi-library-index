@@ -3066,6 +3066,7 @@
   "ISL1208-RTC-Library",
   "ISRHandler",
   "IbusTrx",
+  "IgcLogger",
   "Improv WiFi Library",
   "IncRotaryEncoder",
   "Indio",
