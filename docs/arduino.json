@@ -2054,6 +2054,7 @@
   "ESP32-OTA-Pull",
   "ESP32-PSRamFS",
   "ESP32-PTQS1005",
+  "ESP32-RTSPServer",
   "ESP32-TWAI-CAN",
   "ESP32-USB-Soft-Host",
   "ESP32-audioI2S-master",
