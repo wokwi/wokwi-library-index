@@ -2972,6 +2972,7 @@
   "I2CIP",
   "I2CKeyPad",
   "I2CKeyPad8x8",
+  "I2CR-CPP",
   "I2CScanner",
   "I2CSoilMoistureSensor",
   "I2C_24LC1025",
