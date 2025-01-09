@@ -2695,6 +2695,7 @@
   "GenericMotorDriver",
   "GeoIP",
   "GeoMagnetism",
+  "GeoluxCamera",
   "Geometry",
   "Gesture PAJ7620",
   "GestureDetector",
