@@ -6078,6 +6078,7 @@
   "TCP over Serial",
   "TCS230_ESP32",
   "TCS3200-Sensor",
+  "TCS3210",
   "TCS34725",
   "TCS34725 async",
   "TCS34725AutoGain",
