@@ -3248,6 +3248,7 @@
   "LCDDisplay10",
   "LCDDrivers_NXP_Arduino",
   "LCDGraph",
+  "LCDI2C_Multilingual_MCD",
   "LCDIC2",
   "LCDMenuLib",
   "LCDMenuLib2",
