@@ -3435,6 +3435,7 @@
   "LoRaRF",
   "LoRaWAN-Seeed-Grove-Wio-E5",
   "LoRaWAN_ESP32",
+  "LoRa_AT",
   "LoRa_Library",
   "LoRandom",
   "LocoNet",
