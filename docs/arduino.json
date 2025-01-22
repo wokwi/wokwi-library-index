@@ -6310,6 +6310,7 @@
   "TimeOut",
   "TimeProfiler",
   "TimeRandom",
+  "TimeSeries",
   "TimedBlink",
   "TimedPID",
   "TimedState",
