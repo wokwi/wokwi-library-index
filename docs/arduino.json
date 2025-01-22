@@ -2172,6 +2172,7 @@
   "ESPPerfectTime",
   "ESPPubSubClientWrapper",
   "ESPSerialFlasher",
+  "ESPShell",
   "ESPStringTemplate",
   "ESPSupabase",
   "ESPUI",
