@@ -6246,6 +6246,7 @@
   "Telaire T6700 CO2 Sensor Module Library",
   "TelegramBot",
   "TelegramBotClient",
+  "TelegramESP32",
   "Telegraph",
   "Teleinfo",
   "Telemetrix4Arduino",
