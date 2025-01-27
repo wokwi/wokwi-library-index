@@ -7462,6 +7462,7 @@
   "rgbled",
   "rhio-LIS2HH12",
   "rhio-pinmap",
+  "roo_backport",
   "roo_collections",
   "roo_control",
   "roo_display",
