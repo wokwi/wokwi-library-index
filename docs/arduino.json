@@ -223,6 +223,7 @@
   "AVRUtils",
   "AVR_PWM",
   "AVR_Slow_PWM",
+  "AViShaESPCam",
   "AVision_ESP8266",
   "AWS-SDK-ESP8266",
   "AX-Mini",
