@@ -226,6 +226,7 @@
   "AVR_Slow_PWM",
   "AViShaESPCam",
   "AViShaMQTT",
+  "AViShaWiFi",
   "AVision_ESP8266",
   "AWS-SDK-ESP8266",
   "AX-Mini",
