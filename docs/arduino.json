@@ -4830,6 +4830,7 @@
   "QuickPID",
   "QuickSortLib",
   "QuickStats",
+  "QwiicUART Library",
   "R30X-Fingerprint-Sensor-Library",
   "R4A_ESP32",
   "R4A_I2C",
