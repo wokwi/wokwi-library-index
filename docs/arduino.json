@@ -5501,6 +5501,7 @@
   "SerialMenuCmd",
   "SerialRFID",
   "SerialRecord",
+  "SerialServo",
   "SerialTerminal",
   "SerialTerminalIO",
   "SerialTerminalPRO",
