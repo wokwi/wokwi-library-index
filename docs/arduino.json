@@ -2660,6 +2660,7 @@
   "GPIO_NXP_Arduino",
   "GPRSbee",
   "GPS",
+  "GPS-uBlox",
   "GPSP",
   "GPStar Audio Serial Library",
   "GPT_Stepper",
