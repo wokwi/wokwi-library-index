@@ -5661,6 +5661,7 @@
   "Single LED Library",
   "SingleEMAFilterLib",
   "SingleSevenSegment",
+  "SingleWireDataBus",
   "SingleWireSerial",
   "SinricPro",
   "SinricProBusinessSdk",
