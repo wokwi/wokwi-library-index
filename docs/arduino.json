@@ -1087,6 +1087,7 @@
   "BitArray",
   "BitBang_I2C",
   "BitBool",
+  "BitFlash_Client",
   "BitPack",
   "BitReader",
   "Bitcraze PMW3901",
