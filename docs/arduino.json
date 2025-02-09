@@ -4045,6 +4045,8 @@
   "ModbusRTU_Slave",
   "ModbusRTU_Slave_RS485",
   "ModbusSlaveLogic",
+  "ModbusTCPComm",
+  "ModbusTCPSlave",
   "Modelisme",
   "ModernPIDControlSS",
   "Modmata",
