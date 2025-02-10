@@ -2101,6 +2101,7 @@
   "ESP32_Ethernet_Manager",
   "ESP32_FastPWM",
   "ESP32_HTTPS_Server",
+  "ESP32_Host_MIDI",
   "ESP32_IDF5_HTTPS_Server",
   "ESP32_IO_Expander",
   "ESP32_ISR_Servo",
