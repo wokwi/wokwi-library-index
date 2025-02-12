@@ -5645,6 +5645,7 @@
   "SimplePacketComs",
   "SimplePortal",
   "SimpleProperties",
+  "SimpleQueue",
   "SimpleRelay",
   "SimpleRotary",
   "SimpleSerialProtocol",
