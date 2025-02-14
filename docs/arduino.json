@@ -6478,6 +6478,7 @@
   "TouchEvent",
   "TouchKeypad",
   "TouchLed",
+  "TouchScreenAdapter",
   "TouchWheel",
   "TouchyTouch",
   "TpdButton",
