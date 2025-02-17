@@ -4474,6 +4474,7 @@
   "PCD8544",
   "PCF2129",
   "PCF8523",
+  "PCF85263",
   "PCF8563_RTC",
   "PCF8574",
   "PCF8574 library",
