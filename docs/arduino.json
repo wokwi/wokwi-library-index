@@ -4808,6 +4808,7 @@
   "PsychicHttp",
   "Psychrometer",
   "PubSubClient",
+  "PubSubClient3",
   "PubSubClientTools",
   "PubSubClient_iiot",
   "Pubnub",
