@@ -7179,6 +7179,7 @@
   "float16ext",
   "floatToString",
   "fmt",
+  "fnn",
   "fog",
   "forcedBMX280",
   "fork-webbino-ahmsec",
