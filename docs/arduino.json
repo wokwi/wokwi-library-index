@@ -4979,6 +4979,7 @@
   "RP2040_RTC",
   "RP2040_SD",
   "RP2040_Slow_PWM",
+  "RPAsyncTCP",
   "RPI_PICO_TimerInterrupt",
   "RPM",
   "RPlatform",
