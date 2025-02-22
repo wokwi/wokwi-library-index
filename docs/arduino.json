@@ -1836,6 +1836,7 @@
   "DatavisionLCD",
   "DateTimeFunctions",
   "DcDccNanoController",
+  "Dcf77Receiver",
   "DeadReckoning-library",
   "DebounceEvent",
   "DebounceFilterLib",
