@@ -3284,6 +3284,7 @@
   "L298N",
   "L298NDriver",
   "L298N_MotorDriver",
+  "L298Nlib",
   "L3G",
   "LC709204F",
   "LCBUrl",
