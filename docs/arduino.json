@@ -3676,6 +3676,7 @@
   "MBED_RP2040_Slow_PWM",
   "MBED_RPI_PICO_TimerInterrupt",
   "MBUSPayload",
+  "MBusCom",
   "MBusinoLib",
   "MCCI Arduino Development Kit ADK",
   "MCCI Arduino LoRaWAN Library",
