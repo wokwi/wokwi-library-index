@@ -6096,6 +6096,7 @@
   "StateMachine",
   "StateMachineLib",
   "StateSpaceControl",
+  "StatefulGSMLib",
   "StaticSerialCommands",
   "Statistic",
   "Statistical",
