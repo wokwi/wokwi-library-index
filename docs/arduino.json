@@ -4865,6 +4865,7 @@
   "QNEthernet",
   "QPESP32",
   "QRCode",
+  "QRCodeGFX",
   "QRCodeGenerator",
   "QRcodeDisplay",
   "QRcodeEink",
