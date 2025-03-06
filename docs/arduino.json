@@ -2995,6 +2995,7 @@
   "Honeywell Zephyr I2C",
   "HotButton",
   "HoverboardAPI",
+  "HttpCall",
   "HttpClient",
   "Hublink BEAM",
   "Hublink-Node",
