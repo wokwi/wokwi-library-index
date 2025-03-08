@@ -3320,6 +3320,7 @@
   "LCD_I2C",
   "LCD_ST7032",
   "LCD_SharpBP_SPI",
+  "LCD_TeleType",
   "LCLV",
   "LCT200",
   "LC_EEPROM",
