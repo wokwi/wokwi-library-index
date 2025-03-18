@@ -5054,6 +5054,7 @@
   "RTD10K-temp-sensor",
   "RTL8720_RTC",
   "RTL8720_TimerInterrupt",
+  "RTOScppESP32",
   "RTT QRCode",
   "RTT Stream",
   "RTT-CMSIS-OS",
