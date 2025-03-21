@@ -5132,6 +5132,7 @@
   "RemoteSerial",
   "RemoteSignal",
   "RemoteXY",
+  "RenkeDissolvedOxygenSensor",
   "RepeatButton",
   "RequestBuilder",
   "RescenicIO",
