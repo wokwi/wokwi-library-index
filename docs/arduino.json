@@ -2940,6 +2940,7 @@
   "HTL_onboard",
   "HTTP",
   "HTTPS_Server_Generic",
+  "HTTPWebServer",
   "HTTPed",
   "HTU21D Sensor Library",
   "HUB75Enano",
