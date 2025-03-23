@@ -930,6 +930,7 @@
   "AutoConnect",
   "AutoOTA",
   "AutoPID",
+  "AutomationTimers",
   "Automaton",
   "Automaton-Esp8266",
   "AverageAngle",
