@@ -7769,6 +7769,7 @@
   "tinyECC",
   "tinyESPNow",
   "tinyI2S",
+  "tinyRTCds1307",
   "tinySHT2x",
   "tinySPI",
   "tinyServo84",
