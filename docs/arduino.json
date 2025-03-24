@@ -2123,6 +2123,7 @@
   "ESP32SPISlave",
   "ESP32Servo",
   "ESP32Servo360",
+  "ESP32ServoController",
   "ESP32Time",
   "ESP32TimerInterrupt",
   "ESP32TinyUSB",
