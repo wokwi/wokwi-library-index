@@ -4652,6 +4652,7 @@
   "PWMOutESP32",
   "PWMServo",
   "PWMrelay",
+  "PZEM003_Fud",
   "PZEM004Tv30",
   "Pablo",
   "PacketSerial",
