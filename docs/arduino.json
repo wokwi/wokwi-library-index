@@ -1860,6 +1860,7 @@
   "DcDccNanoController",
   "Dcf77Receiver",
   "DeadReckoning-library",
+  "Debounce",
   "DebounceEvent",
   "DebounceFilterLib",
   "DebounceMe",
