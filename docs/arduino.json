@@ -5697,6 +5697,7 @@
   "ShiftLcd",
   "ShiftOutMega",
   "ShiftOutSlow",
+  "ShiftRegGPIOXpander_ESP32",
   "ShiftRegister",
   "ShiftRegister-PWM-Library",
   "ShiftRegister74HC595",
