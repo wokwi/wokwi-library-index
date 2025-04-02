@@ -5767,6 +5767,7 @@
   "SimpleRotary",
   "SimpleSerialProtocol",
   "SimpleSerialShell",
+  "SimpleServoESP32",
   "SimpleShell",
   "SimpleShell Enhanced",
   "SimpleShiftRegisterController",
