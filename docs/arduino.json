@@ -1593,6 +1593,7 @@
   "DCF77Decode",
   "DCMotor",
   "DCS-BIOS",
+  "DC_driver",
   "DDBot",
   "DDC-CI VPC library",
   "DDNS_Generic",
