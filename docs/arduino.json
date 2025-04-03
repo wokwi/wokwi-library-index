@@ -6850,6 +6850,7 @@
   "Web3JBC",
   "WebConfig",
   "WebConsole",
+  "WebController",
   "WebMonitor",
   "WebSerial",
   "WebSerialLite",
