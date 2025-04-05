@@ -5354,6 +5354,7 @@
   "SPL06-007",
   "SPL07-003",
   "SQLiteDatabaseConnection",
+  "SQLiteManager",
   "SRAM",
   "SRAM_23LC",
   "SRAMsimple",
