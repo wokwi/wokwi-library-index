@@ -4222,6 +4222,7 @@
   "MyAlarm",
   "MyBlinker",
   "MyButton",
+  "MyButtonIO",
   "MyDelay",
   "MyKeywords",
   "MyLD2410",
