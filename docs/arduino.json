@@ -3651,6 +3651,7 @@
   "M5Unit-HUB",
   "M5Unit-IMU-Pro-Mini",
   "M5Unit-KMeter",
+  "M5Unit-KMeterISO",
   "M5Unit-METER",
   "M5Unit-MQTT",
   "M5Unit-PbHub",
