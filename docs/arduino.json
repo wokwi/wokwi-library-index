@@ -754,6 +754,7 @@
   "Arduino_HTS221",
   "Arduino_JSON",
   "Arduino_KNN",
+  "Arduino_KVStore",
   "Arduino_LPS22HB",
   "Arduino_LSM6DS3",
   "Arduino_LSM6DSOX",
