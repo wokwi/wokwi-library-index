@@ -3188,6 +3188,7 @@
   "Interval",
   "IntervalCallback",
   "IntervalTimerEx",
+  "IntroSatLib",
   "IntroStratLib",
   "InverterWEG",
   "IoAbstraction",
