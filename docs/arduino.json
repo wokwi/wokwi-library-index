@@ -7291,6 +7291,7 @@
   "esp_abus",
   "esp_dmx",
   "esp_sds011",
+  "espkit",
   "espwifiarduino",
   "ev3-arduino",
   "ev3lego",
