@@ -5694,6 +5694,7 @@
   "ServoESP32",
   "ServoESP32Fix",
   "ServoEasing",
+  "ServoHack",
   "ServoInput",
   "ServoMotor",
   "ServoOsc",
