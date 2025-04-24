@@ -5107,6 +5107,7 @@
   "RTCVars",
   "RTCZero",
   "RTC_DS1307_Library",
+  "RTC_NTP_replacement",
   "RTC_NXP_Arduino",
   "RTC_RX8025NB",
   "RTC_RX8025T",
