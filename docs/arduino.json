@@ -2178,6 +2178,7 @@
   "ESP32_SemBeacon",
   "ESP32_SerialRMT",
   "ESP32_SoftWire",
+  "ESP32_TWAI",
   "ESP32_USB_STREAM",
   "ESP32_VS1053_Stream",
   "ESP32_W5500_Manager",
