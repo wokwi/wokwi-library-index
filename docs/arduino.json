@@ -2228,6 +2228,7 @@
   "ESPAsync_WiFiManager_Lite",
   "ESPAutoWiFiConfig",
   "ESPAutoWifi",
+  "ESPCPUTemp",
   "ESPCanary",
   "ESPConnect",
   "ESPDateTime",
