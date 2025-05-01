@@ -1841,6 +1841,7 @@
   "DSpotterSDK_Maker_RP2040",
   "DTF_ESP32Update",
   "DTF_ESP8266Update",
+  "DTS6012M_UART",
   "DTime",
   "DU-INO",
   "DUE_ADC_Oversampler",
