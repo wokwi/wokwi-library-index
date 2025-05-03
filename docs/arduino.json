@@ -7305,6 +7305,7 @@
   "esp32-ds18b20",
   "esp32-flashz",
   "esp32-rmt-ir",
+  "esp32ARP",
   "esp32FOTA",
   "esp32_codec2",
   "esp32_epd",
