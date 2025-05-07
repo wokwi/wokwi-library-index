@@ -4912,6 +4912,7 @@
   "PromLokiTransport",
   "PrometheusArduino",
   "PropertyChangeLib",
+  "PropulsionStepper",
   "ProtoCentral ADS1220 24-bit ADC Library",
   "ProtoCentral ADS1262 32-bit precision ADC Library",
   "ProtoCentral ADS1292R ECG and Respiration boards library",
