@@ -2524,6 +2524,7 @@
   "FPGAArcade Replay MKR Vidor 4000",
   "FRAM_Cache",
   "FRAM_I2C",
+  "FSR16x16_BNL",
   "FS_MX1508",
   "FS_Nano33BLE",
   "FSerial",
