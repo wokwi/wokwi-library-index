@@ -2012,6 +2012,7 @@
   "Dx_PWM",
   "Dx_Slow_PWM",
   "Dx_TimerInterrupt",
+  "Dynamic Window Filter",
   "Dynamixel",
   "Dynamixel2Arduino",
   "DynamixelShield",
