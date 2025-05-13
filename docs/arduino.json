@@ -4102,6 +4102,7 @@
   "MessagingLib",
   "MeteoFunctions",
   "MeteoLabBeacon",
+  "Metronome",
   "Mhz19",
   "MiCS6814-I2C",
   "MiDispositivoMIDI_V3",
