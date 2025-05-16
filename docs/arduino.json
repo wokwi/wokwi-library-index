@@ -4736,6 +4736,7 @@
   "PWFusion_Mcp960x",
   "PWFusion_TCA9548A",
   "PWFusion_VL53L3C",
+  "PWM2motor_BNL",
   "PWMFreak",
   "PWMMotorControl",
   "PWMOutESP32",
