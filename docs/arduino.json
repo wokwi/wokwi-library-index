@@ -1509,6 +1509,7 @@
   "Coloria",
   "ColourKit",
   "ComDriverSpi",
+  "CommandHandler",
   "CommandParser",
   "Commander",
   "Commander-API",
