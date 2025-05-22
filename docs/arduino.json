@@ -4192,6 +4192,7 @@
   "ModbusConfig",
   "ModbusMaster",
   "ModbusPowerMeter",
+  "ModbusRTU",
   "ModbusRTUComm",
   "ModbusRTUMaster",
   "ModbusRTUSlave",
