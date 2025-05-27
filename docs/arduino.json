@@ -7661,6 +7661,7 @@
   "motor system IC TLE956x",
   "movingAvg",
   "mpbToSwitch",
+  "mpu6050",
   "mpu6050_FastAngles",
   "mqtt5nano",
   "mqtt_fuota_duino",
