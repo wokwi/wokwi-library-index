@@ -5780,6 +5780,7 @@
   "ServoOsc",
   "ServoSmooth",
   "Servo_Motor_Module",
+  "Servo_TCA",
   "SessionManager",
   "SetPoint",
   "Settings",
