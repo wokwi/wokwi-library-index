@@ -2811,6 +2811,7 @@
   "Generic-Queue",
   "GenericMotorDriver",
   "GeoIP",
+  "GeoLinker",
   "GeoMagnetism",
   "GeoluxCamera",
   "Geometry",
