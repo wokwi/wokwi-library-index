@@ -3791,6 +3791,7 @@
   "MBUSPayload",
   "MBusCom",
   "MBusinoLib",
+  "MCAnemometer",
   "MCCI Arduino Development Kit ADK",
   "MCCI Arduino LoRaWAN Library",
   "MCCI Catena Arduino Platform",
