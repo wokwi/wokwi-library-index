@@ -7007,6 +7007,7 @@
   "WiFi101",
   "WiFi101OTA",
   "WiFi101_Generic",
+  "WiFiCaptive",
   "WiFiConnect",
   "WiFiConnector",
   "WiFiEsp",
