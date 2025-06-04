@@ -5427,6 +5427,7 @@
   "SM_16UNIVIN",
   "SM_4REL4IN",
   "SM_8CRT",
+  "SM_8MOS",
   "SM_BAS",
   "SM_ESP32Pi",
   "SM_LCDAdapter",
