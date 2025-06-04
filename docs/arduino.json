@@ -7384,6 +7384,7 @@
   "esp32_gamepad",
   "esp32_https_server_compat",
   "esp32_idf5_https_server_compat",
+  "esp32_matter_extra_endpoints",
   "esp32_moga",
   "esp32_opus",
   "esp32cam",
