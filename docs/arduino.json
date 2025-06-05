@@ -5718,6 +5718,7 @@
   "Sensirion UART Svm4x",
   "Sensirion UPT BLE Auto Detection",
   "Sensirion UPT Core",
+  "Sensirion UPT Display",
   "Sensirion UPT I2C Auto Detection",
   "Sensor",
   "Sensor Communication Library",
