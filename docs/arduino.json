@@ -3180,6 +3180,7 @@
   "IO7F32",
   "IO7F8266",
   "IOSignal",
+  "IOT",
   "IOTAppStory-ESP",
   "IOTClient",
   "IOTKME",
