@@ -937,6 +937,7 @@
   "Attiny85_IO_basic",
   "Audio",
   "Audio - Adafruit Fork",
+  "AudioCompass",
   "AudioFrequencyMeter",
   "AudioShieldDTMF",
   "AudioZero",
