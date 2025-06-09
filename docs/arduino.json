@@ -243,6 +243,7 @@
   "AVR_Slow_PWM",
   "AViShaESPCam",
   "AViShaMQTT",
+  "AViShaOTA",
   "AViShaWiFi",
   "AVision_ESP8266",
   "AWS-SDK-ESP8266",
