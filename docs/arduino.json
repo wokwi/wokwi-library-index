@@ -6737,6 +6737,7 @@
   "TouchKeypad",
   "TouchLed",
   "TouchScreenAdapter",
+  "TouchSensorLib",
   "TouchWheel",
   "TouchscreenResistive",
   "TouchyTouch",
