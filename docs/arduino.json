@@ -3429,6 +3429,7 @@
   "LEDDriver",
   "LEDDrivers_NXP_Arduino",
   "LEDMatrixDriver",
+  "LEDPatternLib",
   "LED_Controls",
   "LEDuino",
   "LF_LoRa",
