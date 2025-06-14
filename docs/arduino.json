@@ -4781,6 +4781,7 @@
   "PWMOutESP32",
   "PWMServo",
   "PWMrelay",
+  "PY32LowPower",
   "PZEM003_Fud",
   "PZEM004Tv30",
   "Pablo",
