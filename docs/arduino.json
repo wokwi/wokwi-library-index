@@ -2176,6 +2176,7 @@
   "ESP32MX1508",
   "ESP32MidiPlayer",
   "ESP32MotorControl",
+  "ESP32N8NButton",
   "ESP32PsramLock",
   "ESP32RotaryEncoder",
   "ESP32SPISlave",
