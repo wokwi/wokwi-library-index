@@ -4705,6 +4705,7 @@
   "PIR8575",
   "PIRSensor",
   "PJON",
+  "PKAE_Timer",
   "PL ADXL355",
   "PLCCore2",
   "PLCTimer",
