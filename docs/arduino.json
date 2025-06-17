@@ -3407,6 +3407,7 @@
   "LCD-I2C-HD44780",
   "LCD03",
   "LCD595",
+  "LCD595-ISU",
   "LCDBigNumbers",
   "LCDDisplay10",
   "LCDDrivers_NXP_Arduino",
