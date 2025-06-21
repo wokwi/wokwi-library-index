@@ -5921,6 +5921,7 @@
   "SimpleMelt",
   "SimpleMeteoCalc",
   "SimpleMotionV2-Arduino",
+  "SimpleOLED",
   "SimplePacketComs",
   "SimplePortal",
   "SimpleProperties",
