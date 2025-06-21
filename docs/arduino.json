@@ -7619,6 +7619,7 @@
   "incbin",
   "indhilib",
   "infiniteAverage",
+  "initMemory",
   "integer24",
   "iocontrol",
   "iotNetESP32",
