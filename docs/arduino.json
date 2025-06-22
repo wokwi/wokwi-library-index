@@ -5678,6 +5678,7 @@
   "Scheduler",
   "SchedulerESP8266",
   "SchmittTrigger",
+  "SchneiderModbusTCP",
   "SchooMyUtilities",
   "ScioSense_APC1",
   "ScioSense_ENS16x",
