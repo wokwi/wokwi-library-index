@@ -7077,6 +7077,7 @@
   "WiFiMulti_Generic",
   "WiFiNINA",
   "WiFiNINA_Generic",
+  "WiFiPortalESP8266",
   "WiFiProvision",
   "WiFiProvisioner",
   "WiFiSpi",
