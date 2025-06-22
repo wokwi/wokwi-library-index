@@ -1475,6 +1475,7 @@
   "CleanRTOS",
   "CliTerminal",
   "ClickButton",
+  "ClickCounter_ESP32",
   "ClimaStick",
   "ClimateGuard CG Anem",
   "ClimateGuard RadSens",
