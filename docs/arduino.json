@@ -2836,6 +2836,7 @@
   "GenericMotorDriver",
   "GeoIP",
   "GeoLinker",
+  "GeoLinker Lite",
   "GeoMagnetism",
   "GeoluxCamera",
   "Geometry",
