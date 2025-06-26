@@ -2998,6 +2998,7 @@
   "HCSR04 ultrasonic MKL",
   "HCSR04 ultrasonic distance sensor",
   "HCSR04 ultrasonic sensor",
+  "HCSRO4_attachInterrupt",
   "HC_SR04",
   "HD44780_LCD_PCF8574",
   "HDC1000",
