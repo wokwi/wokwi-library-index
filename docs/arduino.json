@@ -7457,6 +7457,7 @@
   "esp826611",
   "esp8266_mdns",
   "esp8266channel3lib",
+  "esp8266easylib",
   "esp_abus",
   "esp_dmx",
   "esp_sds011",
