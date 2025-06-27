@@ -3841,6 +3841,7 @@
   "MCCI-Catena-SHT3x",
   "MCHyetometer-REED",
   "MCMVoltSense",
+  "MCM_ATM90E32",
   "MCM_BL0940",
   "MCP23008",
   "MCP23008-I2C",
