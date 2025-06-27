@@ -1155,6 +1155,7 @@
   "Bits and Droids flight sim library",
   "BlaeckSerial",
   "BlaeckTCP",
+  "BleValueSync",
   "Bleeper",
   "Bleeping Library",
   "BlenderServoAnimation",
