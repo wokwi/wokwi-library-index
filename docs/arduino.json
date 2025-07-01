@@ -1294,6 +1294,7 @@
   "BufferUtils",
   "Buffered Oreon SSD1351",
   "Buffered Streams",
+  "BufferedTrace",
   "Bugtton",
   "BusInOut_Arduino",
   "BusRepeater_NXP_Arduino",
