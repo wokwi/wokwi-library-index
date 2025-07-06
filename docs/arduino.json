@@ -7475,6 +7475,7 @@
   "esp32_moga",
   "esp32_opus",
   "esp32cam",
+  "esp32easylib",
   "esp8266-google-home-notifier",
   "esp8266-google-tts",
   "esp826611",
