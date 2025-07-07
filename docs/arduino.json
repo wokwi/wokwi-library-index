@@ -3201,6 +3201,7 @@
   "IMU_Fusion_SYC",
   "INA219",
   "INA219B",
+  "INA219_Plus",
   "INA219_WE",
   "INA226",
   "INA226Lib",
