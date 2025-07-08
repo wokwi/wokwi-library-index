@@ -4825,6 +4825,7 @@
   "PWFusion_Max31865",
   "PWFusion_Mcp2515",
   "PWFusion_Mcp960x",
+  "PWFusion_SHT3X",
   "PWFusion_TCA9548A",
   "PWFusion_VL53L3C",
   "PWM2motor_BNL",
