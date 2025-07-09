@@ -2208,6 +2208,7 @@
   "ESP32TimerInterrupt",
   "ESP32TinyUSB",
   "ESP32WebRemoteControl",
+  "ESP32WiFiEnterprise",
   "ESP32_BleSerial",
   "ESP32_Button",
   "ESP32_C3_ISR_Servo",
