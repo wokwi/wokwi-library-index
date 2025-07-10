@@ -5844,6 +5844,7 @@
   "SerialMenuCmd",
   "SerialRFID",
   "SerialRecord",
+  "SerialSDManager",
   "SerialServo",
   "SerialTerminal",
   "SerialTerminalIO",
