@@ -3431,6 +3431,7 @@
   "L293D",
   "L298 Motor Driver",
   "L298N",
+  "L298N-XCR",
   "L298NDriver",
   "L298N_MotorDriver",
   "L298Nlib",
