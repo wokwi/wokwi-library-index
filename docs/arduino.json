@@ -1329,6 +1329,7 @@
   "Buzzer",
   "BuzzerManager",
   "BuzzerMelody",
+  "BuzzerXCR",
   "ByteConvert",
   "BytebeamArduino",
   "Byteduino",
