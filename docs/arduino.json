@@ -6455,6 +6455,7 @@
   "StringAction",
   "StringEEPROM",
   "StringLib",
+  "StringN",
   "StringSplitter",
   "StringUtils",
   "Stringcalculater",
