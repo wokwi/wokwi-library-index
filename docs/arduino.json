@@ -5982,6 +5982,7 @@
   "SimpleLogger",
   "SimpleMelt",
   "SimpleMeteoCalc",
+  "SimpleModbusSlave",
   "SimpleMotionV2-Arduino",
   "SimpleOLED",
   "SimplePacketComs",
