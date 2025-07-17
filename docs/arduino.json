@@ -5123,6 +5123,7 @@
   "QRcodeOled",
   "QRcode_ST7789",
   "QRcode_eSPI",
+  "QTRMuxes",
   "QTRSensors",
   "QUAD7SHIFT",
   "QZQSM",
