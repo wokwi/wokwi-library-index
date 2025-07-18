@@ -2484,6 +2484,7 @@
   "Escornabot-Library",
   "Escornabot-lib",
   "EscornabotEXT",
+  "Esp32-RTOS-Serial",
   "Esp32SimplePacketComs",
   "Esp32WifiManager",
   "Esp8266-Mqtt-Canary",
