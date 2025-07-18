@@ -3853,6 +3853,7 @@
   "MAX6675 with hardware SPI",
   "MAX6675_Thermocouple",
   "MAX6816",
+  "MAX6953",
   "MAX7219Segment",
   "MAX7300",
   "MAX77650-Arduino-Library",
