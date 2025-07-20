@@ -900,6 +900,7 @@
   "AsyncTask",
   "AsyncTaskLib",
   "AsyncTelegram2",
+  "AsyncTempSensor",
   "AsyncTimer",
   "AsyncTimerLib",
   "AsyncUDP_ESP32_Ethernet",
