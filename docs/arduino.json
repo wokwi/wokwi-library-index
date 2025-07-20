@@ -7410,6 +7410,7 @@
   "bitHelpers",
   "bitluni ESP32Lib",
   "bits_asukiaaa",
+  "ble-keyboard-mouse-client",
   "ble_definitions",
   "blesdlib",
   "blite",
