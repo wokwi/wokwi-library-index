@@ -1876,6 +1876,7 @@
   "DS1307 Emulator",
   "DS1307RTC",
   "DS1307newAlarms",
+  "DS1621",
   "DS1624",
   "DS1624_Library",
   "DS1631",
