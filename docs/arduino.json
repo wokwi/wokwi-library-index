@@ -3478,6 +3478,7 @@
   "LCDIC2",
   "LCDMenuLib",
   "LCDMenuLib2",
+  "LCDShiftView",
   "LCD_BacklightRGB",
   "LCD_HD44780",
   "LCD_I2C",
