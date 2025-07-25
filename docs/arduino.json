@@ -5860,6 +5860,7 @@
   "Sensirion UPT I2C Auto Detection",
   "Sensor",
   "Sensor Communication Library",
+  "SensorCurrent",
   "SensorFusion",
   "SensorHub",
   "SensorLib",
