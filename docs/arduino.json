@@ -3022,6 +3022,7 @@
   "GyverOS",
   "GyverPID",
   "GyverPWM",
+  "GyverPing",
   "GyverPortal",
   "GyverPower",
   "GyverRelay",
