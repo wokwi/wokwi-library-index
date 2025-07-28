@@ -1460,6 +1460,7 @@
   "CapacitiveSensor",
   "Capacitor",
   "CaptureTimer",
+  "CarBase",
   "Cardinal",
   "Carduino",
   "CarreraDigitalControlUnit",
