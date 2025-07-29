@@ -3833,6 +3833,7 @@
   "M5UnitASR",
   "M5UnitAudioPlayer",
   "M5UnitQRCode",
+  "M5UnitStep16",
   "M5UnitSynth",
   "M5UnitUnified",
   "M5UnitWeightI2C",
