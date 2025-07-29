@@ -4075,6 +4075,7 @@
   "MQTT",
   "MQTT Client",
   "MQTT and Serial Printer",
+  "MQTTESP8266",
   "MQTTPubSubClient",
   "MQTTPubSubClient_Generic",
   "MQTTRemote",
