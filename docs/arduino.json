@@ -7194,6 +7194,7 @@
   "WiFiCaptive",
   "WiFiConnect",
   "WiFiConnector",
+  "WiFiCreds",
   "WiFiEsp",
   "WiFiEspAT",
   "WiFiMQTTManager Library",
