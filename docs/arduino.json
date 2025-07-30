@@ -3958,6 +3958,7 @@
   "MCP9800",
   "MCP9802",
   "MCP9808",
+  "MCP9808SensorLib",
   "MCP9808_RT",
   "MCP_23017",
   "MCP_3208",
