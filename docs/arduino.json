@@ -5552,6 +5552,7 @@
   "SD_card_logger",
   "SEN10724",
   "SET",
+  "SE_BME680",
   "SE_BasicUnit",
   "SE_Button",
   "SE_EEPROM",
