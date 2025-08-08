@@ -4343,6 +4343,7 @@
   "ModbusADU",
   "ModbusConfig",
   "ModbusMaster",
+  "ModbusMaster_GigaR1",
   "ModbusPowerMeter",
   "ModbusRTU",
   "ModbusRTUComm",
