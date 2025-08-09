@@ -5341,6 +5341,7 @@
   "RTCTimer",
   "RTCVars",
   "RTCZero",
+  "RTC_DS1302",
   "RTC_DS1307_Library",
   "RTC_NTP_replacement",
   "RTC_NXP_Arduino",
