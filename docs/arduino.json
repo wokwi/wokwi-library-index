@@ -6059,6 +6059,7 @@
   "SimpleLed",
   "SimpleLogger",
   "SimpleMelt",
+  "SimpleMenu",
   "SimpleMeteoCalc",
   "SimpleModbusSlave",
   "SimpleMotionV2-Arduino",
