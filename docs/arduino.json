@@ -6750,6 +6750,7 @@
   "TelegramBot",
   "TelegramBotClient",
   "TelegramESP32",
+  "TelegramMess",
   "Telegraph",
   "Teleinfo",
   "Telemetrix4Arduino",
