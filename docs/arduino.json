@@ -6757,6 +6757,7 @@
   "Teensy_PWM",
   "Teensy_Slow_PWM",
   "Teensy_TimerInterrupt",
+  "Tektite RotEv Controller Library",
   "Telaire T6700 CO2 Sensor Module Library",
   "TelegramBot",
   "TelegramBotClient",
