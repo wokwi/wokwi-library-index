@@ -7613,6 +7613,7 @@
   "esp32-BLE112",
   "esp32-ds18b20",
   "esp32-flashz",
+  "esp32-pasori-rcs300",
   "esp32-rmt-ir",
   "esp32ARP",
   "esp32FOTA",
