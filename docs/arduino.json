@@ -5936,6 +5936,7 @@
   "SensorWLED",
   "SeqButton",
   "SeqTimer",
+  "SequenceTiming",
   "Sequent Home Automation HAT",
   "SercomSPISlave",
   "Serde",
