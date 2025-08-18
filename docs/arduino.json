@@ -2340,6 +2340,7 @@
   "ESPAutoWifi",
   "ESPCPUTemp",
   "ESPCanary",
+  "ESPComm",
   "ESPConnect",
   "ESPDateTime",
   "ESPDisplay",
