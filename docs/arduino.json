@@ -7774,6 +7774,8 @@
   "incbin",
   "indhilib",
   "infiniteAverage",
+  "initBuzzer",
+  "initGT911",
   "initMemory",
   "integer24",
   "iotNetESP32",
