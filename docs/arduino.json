@@ -2049,6 +2049,7 @@
   "Dimmer class for ATmega32U4",
   "Dimmer class for SAMD21",
   "DimmerControl",
+  "Dimmer_ITC",
   "DiodeIoT_SI-1104",
   "DiodeIoT_SI-1108",
   "DiodeIoT_SI-1116",
