@@ -580,6 +580,7 @@
   "Air Commander Entire Control",
   "AirGradient Air Quality Sensor",
   "AirNgin ESP32 MQTT Client",
+  "AirNgin_STM32_MQTT_Client",
   "Akafugu Four Letter Word Library",
   "Akafugu TWIDisplay Library",
   "Akafugu TWIKeyboard Library",
