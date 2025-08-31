@@ -8037,6 +8037,7 @@
   "precise_sntp",
   "pressure",
   "printHelpers",
+  "progmem_far",
   "programmable_air",
   "protectedAES",
   "ps2dev",
