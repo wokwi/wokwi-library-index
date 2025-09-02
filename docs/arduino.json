@@ -255,6 +255,7 @@
   "AVRUtils",
   "AVR_PWM",
   "AVR_Slow_PWM",
+  "AVRactivePower",
   "AViShaESPCam",
   "AViShaMQTT",
   "AViShaOTA",
