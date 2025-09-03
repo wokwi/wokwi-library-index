@@ -7312,6 +7312,7 @@
   "WiFi101OTA",
   "WiFi101_Generic",
   "WiFiCaptive",
+  "WiFiConfigManager",
   "WiFiConnect",
   "WiFiConnector",
   "WiFiCreds",
