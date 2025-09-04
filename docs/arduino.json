@@ -4176,6 +4176,7 @@
   "MT-arduino-pin-debouncer",
   "MT-arduino-rotary-encoder",
   "MT-arduino-stepper-driver",
+  "MT07_CAN_Library",
   "MT6701",
   "MT6701-arduino",
   "MT8870",
