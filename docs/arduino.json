@@ -1405,6 +1405,7 @@
   "CF Rotary Encoder",
   "CFPushButton",
   "CFSM",
+  "CH32X035_USBSerial",
   "CH32_Deep_Sleep",
   "CH55xSwitchControl",
   "CH9328-Keyboard",
