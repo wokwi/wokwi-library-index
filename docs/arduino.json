@@ -7850,6 +7850,7 @@
   "incbin",
   "indhilib",
   "infiniteAverage",
+  "initAuthorization",
   "initBuzzer",
   "initGT911",
   "initMemory",
