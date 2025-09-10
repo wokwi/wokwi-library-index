@@ -1970,6 +1970,7 @@
   "DTime",
   "DU-INO",
   "DUE-ModbusDMA",
+  "DUELink",
   "DUERS485DMA",
   "DUE_ADC_Oversampler",
   "DUE_schmitt",
