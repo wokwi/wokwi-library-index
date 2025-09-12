@@ -6195,6 +6195,7 @@
   "SimpleUltrasonic",
   "SimpleVector",
   "SimpleWiFiClient",
+  "Simple_Esp32WiFiManager",
   "Simple_HC-SR04_Control",
   "Simple_HCSR04",
   "Simpletimer",
