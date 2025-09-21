@@ -7739,6 +7739,7 @@
   "esp-fs-webserver",
   "esp-iot-core",
   "esp-lib-utils",
+  "esp-mqtt-arduino",
   "esp32-BG95",
   "esp32-BLE112",
   "esp32-ds18b20",
