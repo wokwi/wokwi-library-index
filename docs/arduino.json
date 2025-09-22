@@ -4714,6 +4714,7 @@
   "OLED Display 96x96",
   "OLED Display VGY12864L-03",
   "OLED SSD1306 - SH1106",
+  "OLEDKeyboard",
   "OLED_Display_SSD1306",
   "OLED_SSD1306_Chart",
   "OOCSI",
