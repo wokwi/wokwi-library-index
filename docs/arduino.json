@@ -2585,6 +2585,7 @@
   "Esp8266-Mqtt-Canary",
   "EspATMQTT",
   "EspBootstrap",
+  "EspButtons",
   "EspDDNS",
   "EspEasyUtils",
   "EspFileManager",
