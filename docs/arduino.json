@@ -4519,6 +4519,7 @@
   "MultiWire",
   "Multi_BitBang",
   "Multi_OLED",
+  "Multi_Timer_V2",
   "Multiplex",
   "MultitapKeypad",
   "Multitasker",
