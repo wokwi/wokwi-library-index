@@ -8158,6 +8158,7 @@
   "rhio-pinmap",
   "rmt_SENT",
   "roo_backport",
+  "roo_blink",
   "roo_collections",
   "roo_control",
   "roo_display",
