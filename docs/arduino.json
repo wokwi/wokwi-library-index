@@ -6209,6 +6209,7 @@
   "SimpleMeteoCalc",
   "SimpleModbusSlave",
   "SimpleMotionV2-Arduino",
+  "SimpleNetManager",
   "SimpleOLED",
   "SimplePacketComs",
   "SimplePortal",
