@@ -2769,6 +2769,7 @@
   "FastLED_RPIRGBPanel_GFX",
   "FastLED_SPITFT_GFX",
   "FastLED_TFTWrapper_GFX",
+  "FastLED_min",
   "FastMap",
   "FastPID",
   "FastRotaryEncoder",
