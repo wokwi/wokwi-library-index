@@ -5068,6 +5068,8 @@
   "PersWiFiManager",
   "PersistentJsonEEPROM",
   "PersistentQueue",
+  "Pervasive_BWRY_Large",
+  "Pervasive_BWRY_Medium",
   "Pervasive_BWRY_Small",
   "Pervasive_Touch_Small",
   "Pervasive_Wide_Large",
