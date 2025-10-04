@@ -7011,6 +7011,7 @@
   "TimerFour32u4",
   "TimerInterrupt",
   "TimerInterrupt_Generic",
+  "TimerKernel",
   "TimerMs",
   "TimerOne",
   "TimerOne_V2",
