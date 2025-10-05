@@ -3612,6 +3612,7 @@
   "LC_lilParser",
   "LC_neoPixel",
   "LC_slowServo",
+  "LD2410Async",
   "LD2412",
   "LDC1312-1314 I2C Library",
   "LDS",
