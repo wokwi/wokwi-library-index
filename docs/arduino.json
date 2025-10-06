@@ -6085,6 +6085,7 @@
   "SerialCom",
   "SerialCommand",
   "SerialCommand Advanced",
+  "SerialCommandManager",
   "SerialCommands",
   "SerialConfigCommand",
   "SerialDebug",
