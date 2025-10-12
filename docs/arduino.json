@@ -1006,6 +1006,7 @@
   "AutoConnect",
   "AutoOTA",
   "AutoPID",
+  "AutoPlex7",
   "AutomationTimers",
   "Automaton",
   "Automaton-Esp8266",
