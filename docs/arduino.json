@@ -8118,6 +8118,8 @@
   "mupplet-core",
   "mupplet-display",
   "mupplet-sensor",
+  "mvswifi_esp32",
+  "mvswifi_esp8266",
   "mwc_stepper",
   "my92xx",
   "my_STL",
