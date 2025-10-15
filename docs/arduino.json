@@ -853,6 +853,8 @@
   "Arduino_Portenta_OTA",
   "Arduino_PowerManagement",
   "Arduino_Pro_Tutorials",
+  "Arduino_RPClite",
+  "Arduino_RouterBridge",
   "Arduino_ScienceJournal",
   "Arduino_ScienceKitCarrier",
   "Arduino_SecureElement",
