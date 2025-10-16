@@ -2296,6 +2296,7 @@
   "ESP32-targz",
   "ESP32AnalogRead",
   "ESP32CAR",
+  "ESP32CertBundle",
   "ESP32Console",
   "ESP32DMASPI",
   "ESP32Dispatcher",
