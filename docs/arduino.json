@@ -8305,6 +8305,7 @@
   "somo-ii-lib",
   "souliss",
   "spaiot-lib",
+  "sparkey_gyro",
   "sparkey_gyro_I2C",
   "spartan_edge_esp32_boot",
   "spi_lcd_read",
