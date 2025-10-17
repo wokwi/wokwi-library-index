@@ -2203,6 +2203,7 @@
   "EEPROM_WL",
   "EEPROMextent",
   "EEPROMsimple",
+  "EEProm_Safe_Wear_Level",
   "EEPstore",
   "EERAM_47XXX",
   "EEWL",
