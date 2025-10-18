@@ -8238,6 +8238,7 @@
   "roo_threads",
   "roo_time",
   "roo_time_ds3231",
+  "roo_transport",
   "roo_wifi",
   "roo_windows",
   "roo_windows_onewire",
