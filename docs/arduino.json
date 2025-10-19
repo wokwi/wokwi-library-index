@@ -8017,6 +8017,7 @@
   "lineScale",
   "log4Esp",
   "log4arduino",
+  "logic",
   "looper",
   "loremipsum",
   "losant-mqtt-arduino",
