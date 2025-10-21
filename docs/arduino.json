@@ -1368,6 +1368,7 @@
   "BresserWeatherSensorReceiver",
   "Bridge",
   "BridgeHttpClient",
+  "Bridgetek_EVE5",
   "Brief",
   "Brino",
   "Brushless Servo",
