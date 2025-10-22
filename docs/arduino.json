@@ -4695,6 +4695,7 @@
   "NeoPixelConnect",
   "NeoSWSerial",
   "NeonPostgresOverHTTP",
+  "NeopixelCommander",
   "Neosegment",
   "Neotimer",
   "NesGamepad",
