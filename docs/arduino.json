@@ -827,6 +827,7 @@
   "Arduino_LSM6DS3",
   "Arduino_LSM6DSOX",
   "Arduino_LSM9DS1",
+  "Arduino_LTR381RGB",
   "Arduino_LowPowerPortentaC33",
   "Arduino_LowPowerPortentaH7",
   "Arduino_MAX17332",
