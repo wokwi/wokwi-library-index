@@ -2624,6 +2624,7 @@
   "EspHtmlTemplateProcessor",
   "EspMQTTClient",
   "EspMQTTClientFork",
+  "EspMapping",
   "EspNow2Mqtt",
   "EspNowCam",
   "EspNowJoystick",
