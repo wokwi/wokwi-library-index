@@ -6265,6 +6265,7 @@
   "SimpleKeypad",
   "SimpleLed",
   "SimpleLogger",
+  "SimpleMFP",
   "SimpleMelt",
   "SimpleMenu",
   "SimpleMeteoCalc",
