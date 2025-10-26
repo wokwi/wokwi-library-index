@@ -8039,6 +8039,7 @@
   "log4Esp",
   "log4arduino",
   "logic",
+  "logicAnalyzer",
   "looper",
   "loremipsum",
   "losant-mqtt-arduino",
