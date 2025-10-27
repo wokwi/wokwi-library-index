@@ -1556,6 +1556,7 @@
   "CheezPPG",
   "CheezsEMG",
   "ChipNorm_DHT11",
+  "ChipNorm_SHT21",
   "ChipNorm_TM1637",
   "Chirale_TensorFLowLite",
   "ChirpSDK",
