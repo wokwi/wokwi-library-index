@@ -2801,6 +2801,7 @@
   "FastLED_min",
   "FastMap",
   "FastPID",
+  "FastRGB",
   "FastRotaryEncoder",
   "FastShiftIn",
   "FastShiftInOut",
