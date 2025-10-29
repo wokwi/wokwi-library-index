@@ -1560,6 +1560,7 @@
   "ChipNorm_DHT11",
   "ChipNorm_SHT21",
   "ChipNorm_TM1637",
+  "ChipNorm_VL53L0X",
   "Chirale_TensorFLowLite",
   "ChirpSDK",
   "Chrono",
