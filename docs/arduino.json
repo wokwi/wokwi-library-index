@@ -4077,6 +4077,7 @@
   "MCP23008",
   "MCP23008-I2C",
   "MCP23008_I2C",
+  "MCP23009E",
   "MCP23017",
   "MCP23017 Port Expander",
   "MCP23017_Attiny85",
