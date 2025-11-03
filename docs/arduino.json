@@ -7509,6 +7509,7 @@
   "WiFiManager_RTL8720",
   "WiFiMulti_Generic",
   "WiFiNINA",
+  "WiFiNINA_-_Adafruit_Fork",
   "WiFiNINA_Generic",
   "WiFiPortalESP8266",
   "WiFiProvision",
