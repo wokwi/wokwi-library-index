@@ -4052,6 +4052,7 @@
   "MAX6816",
   "MAX6953",
   "MAX7219Segment",
+  "MAX7219_CH32",
   "MAX7300",
   "MAX77650-Arduino-Library",
   "MAX78630",
