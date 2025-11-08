@@ -3310,6 +3310,7 @@
   "HoverboardAPI",
   "HttpCall",
   "HttpClient",
+  "HttpRequests",
   "Hublink BEAM",
   "Hublink-Node",
   "HuemonelabKit",
