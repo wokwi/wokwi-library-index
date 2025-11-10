@@ -8116,6 +8116,7 @@
   "mc74hc595a",
   "mcp_can",
   "mcp_canbus",
+  "mcpesp",
   "mcu-max",
   "mcu-renderer",
   "mdif",
