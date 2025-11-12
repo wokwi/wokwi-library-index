@@ -2646,6 +2646,7 @@
   "EspDDNS",
   "EspEasyUtils",
   "EspFileManager",
+  "EspHelper",
   "EspHtmlTemplateProcessor",
   "EspMQTTClient",
   "EspMQTTClientFork",
