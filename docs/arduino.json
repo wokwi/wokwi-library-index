@@ -7920,6 +7920,7 @@
   "esp8266channel3lib",
   "esp8266easylib",
   "esp_abus",
+  "esp_cron",
   "esp_dmx",
   "esp_sds011",
   "espkit",
