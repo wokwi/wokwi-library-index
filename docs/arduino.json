@@ -2654,6 +2654,7 @@
   "EspFileManager",
   "EspHelper",
   "EspHtmlTemplateProcessor",
+  "EspHttpServer",
   "EspMQTTClient",
   "EspMQTTClientFork",
   "EspMapping",
