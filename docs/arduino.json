@@ -6212,6 +6212,7 @@
   "SerialMP3Player",
   "SerialMenuCmd",
   "SerialMessageEvents",
+  "SerialNetworkBridge",
   "SerialRFID",
   "SerialRecord",
   "SerialSDManager",
