@@ -6329,6 +6329,7 @@
   "SimpleComponents",
   "SimpleConnect",
   "SimpleControl",
+  "SimpleCounter",
   "SimpleDCMotor",
   "SimpleDHT",
   "SimpleEncoder",
