@@ -2419,6 +2419,7 @@
   "ESP8266 Influxdb",
   "ESP8266 MQTT Mesh",
   "ESP8266 Microgear",
+  "ESP8266 NAPT Extender",
   "ESP8266 QRcode",
   "ESP8266 SMTPClient",
   "ESP8266 Weather Station",
