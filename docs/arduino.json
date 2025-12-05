@@ -2344,6 +2344,7 @@
   "ESP32-imgur-uploader",
   "ESP32-targz",
   "ESP32AnalogRead",
+  "ESP32AutoTask",
   "ESP32CAR",
   "ESP32CertBundle",
   "ESP32Console",
