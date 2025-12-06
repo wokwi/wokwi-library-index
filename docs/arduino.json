@@ -4841,6 +4841,7 @@
   "NoveltyDetection",
   "NtpClientLib",
   "NuS-NimBLE-Serial",
+  "NuSock",
   "NukiClientESP",
   "NullPacketComms",
   "NullSerial",
