@@ -4319,6 +4319,7 @@
   "MQTTRemote",
   "MQTT_Looped",
   "MQUnifiedsensor",
+  "MS4525DO_RT",
   "MS5611",
   "MS5611_SPI",
   "MS5837",
