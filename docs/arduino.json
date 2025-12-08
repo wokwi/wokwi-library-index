@@ -2680,6 +2680,7 @@
   "EspMQTTClientFork",
   "EspMapping",
   "EspNow2Mqtt",
+  "EspNowBus",
   "EspNowCam",
   "EspNowJoystick",
   "EspNowNetworkHost",
