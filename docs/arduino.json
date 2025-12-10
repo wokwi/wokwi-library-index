@@ -8013,6 +8013,7 @@
   "esp32-flashz",
   "esp32-pasori-rcs300",
   "esp32-rmt-ir",
+  "esp32-rmt-pwm-reader",
   "esp32ARP",
   "esp32FOTA",
   "esp32_codec2",
