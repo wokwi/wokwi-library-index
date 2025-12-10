@@ -4704,6 +4704,7 @@
   "Muwerk ustd library",
   "Mux7SegsDisplay",
   "MvcWebServerLib",
+  "MvsOTA_ESP32",
   "MyAlarm",
   "MyBlinker",
   "MyButton",
