@@ -5530,6 +5530,7 @@
   "R4_Touch",
   "RADAR",
   "RAIN",
+  "RAIOT_MQTT",
   "RAIOTerm",
   "RAK-OneWireSerial",
   "RAK12019_LTR390_UV_Light",
