@@ -605,6 +605,7 @@
   "Advance Seven Segment",
   "AdvancedLogger",
   "AdvancedOximeter",
+  "AdvancedPID",
   "AdvancedSerial",
   "Aerobotix_Arduino_nav",
   "AfricasTalking",
