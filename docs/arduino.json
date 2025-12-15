@@ -7102,6 +7102,7 @@
   "TS_lib",
   "TTN_esp32",
   "TTP229",
+  "TTP229 Keypad Driver",
   "TTP229_BS81X_Serial",
   "TVout",
   "TWI_GPS",
