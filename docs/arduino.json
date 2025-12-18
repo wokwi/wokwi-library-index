@@ -6487,6 +6487,7 @@
   "SingleSevenSegment",
   "SingleWireDataBus",
   "SingleWireSerial",
+  "Single_WS2812_Bitbang_Write",
   "SinricPro",
   "SinricProBusinessSdk",
   "SinricPro_Generic",
