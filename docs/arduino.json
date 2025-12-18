@@ -2380,6 +2380,7 @@
   "ESP32Servo",
   "ESP32Servo360",
   "ESP32ServoController",
+  "ESP32SyncKit",
   "ESP32TaskKit",
   "ESP32Time",
   "ESP32TimerInterrupt",
