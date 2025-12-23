@@ -6307,6 +6307,7 @@
   "SerialCommandManager",
   "SerialCommands",
   "SerialConfigCommand",
+  "SerialConsole",
   "SerialDebug",
   "SerialDebugger",
   "SerialDraw",
