@@ -1001,6 +1001,7 @@
   "AsyncWebServer_STM32",
   "AsyncWebServer_Teensy41",
   "AsyncWebServer_WT32_ETH01",
+  "AsyncWiFiManagerSimple",
   "AsyncWiFiMulti",
   "Async_Operations",
   "Asynchrony",
