@@ -6021,6 +6021,7 @@
   "STEAMbot",
   "STLED316S",
   "STM32F1_RTC",
+  "STM32RS485DMA",
   "STM32RomWebFlasher",
   "STM32_CAN",
   "STM32_ISR_Servo",
