@@ -1254,6 +1254,7 @@
   "BitBang_I2C",
   "BitBool",
   "BitFlash_Client",
+  "BitNeural32",
   "BitPack",
   "BitReader",
   "Bitcraze PMW3901",
