@@ -960,6 +960,7 @@
   "AsyncMQTT_ESP32",
   "AsyncMQTT_Generic",
   "AsyncOTA",
+  "AsyncOTAManager",
   "AsyncSMS",
   "AsyncSerial",
   "AsyncServoLib",
