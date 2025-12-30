@@ -1551,6 +1551,7 @@
   "Callback",
   "CallbackButton",
   "CallbackHelper",
+  "CallbackTimerR4",
   "Calliope Arduino library",
   "Callmebot ESP32",
   "Callmebot ESP8266",
