@@ -6951,6 +6951,7 @@
   "StepperHAL_STM32F4x1",
   "StepperMotor",
   "StepperMulti",
+  "StepperShiftRegister74HC595",
   "Stepper_28BYJ_48",
   "StereoSID",
   "StevesAwesomeButton",
