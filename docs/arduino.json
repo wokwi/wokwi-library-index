@@ -6193,6 +6193,7 @@
   "SavLayFilter",
   "SavaButton",
   "SavaLED_ESP32",
+  "SavaOLED_ESP32",
   "SavaTime",
   "SavaTrig",
   "SavitzkyGolayFilter",
