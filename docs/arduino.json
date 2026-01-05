@@ -2878,6 +2878,7 @@
   "FastLED NeoPixel",
   "FastLEDHub",
   "FastLEDManager",
+  "FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX",
   "FastLED_RPIRGBPanel_GFX",
   "FastLED_SPITFT_GFX",
   "FastLED_TFTWrapper_GFX",
