@@ -2182,6 +2182,7 @@
   "Dimmer class for SAMD21",
   "DimmerControl",
   "Dimmer_ITC",
+  "DimuthuRobotLib",
   "DiodeIoT_SI-1104",
   "DiodeIoT_SI-1108",
   "DiodeIoT_SI-1116",
