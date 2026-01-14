@@ -8359,6 +8359,7 @@
   "mDNSResolver",
   "mDash",
   "mDriver",
+  "mLink",
   "mPower",
   "mString",
   "mWebSockets",
