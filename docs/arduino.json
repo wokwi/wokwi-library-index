@@ -4225,6 +4225,7 @@
   "MCMVoltSense",
   "MCM_ATM90E32",
   "MCM_BL0940",
+  "MCM_GitHub_OTA",
   "MCP23008",
   "MCP23008-I2C",
   "MCP23008_I2C",
