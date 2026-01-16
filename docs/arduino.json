@@ -1475,6 +1475,7 @@
   "CF Rotary Encoder",
   "CFPushButton",
   "CFSM",
+  "CH32X035_USBComposite",
   "CH32X035_USBGamepad",
   "CH32X035_USBHIDKeyboard",
   "CH32X035_USBMIDI",
