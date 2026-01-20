@@ -2294,6 +2294,7 @@
   "EEWrap",
   "EEncoder",
   "EEvar",
+  "EIMU_I2C_Client",
   "EIS",
   "EIS_INTERBOT",
   "ELIO-ARDUINO-EXAMPLE",
