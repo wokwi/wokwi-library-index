@@ -5958,6 +5958,7 @@
   "SCPI_Parser",
   "SCPeriod",
   "SCServo",
+  "SCT013-100",
   "SCurveMotion",
   "SD",
   "SD2405",
