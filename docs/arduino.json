@@ -2780,6 +2780,7 @@
   "EventEthernet",
   "EventJoystick",
   "EventOS",
+  "EventStateMachine",
   "EventSystem",
   "Eventfun",
   "Eventually",
