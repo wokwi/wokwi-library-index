@@ -8586,6 +8586,7 @@
   "pulseAny",
   "pulseInput",
   "pushButton",
+  "pyrpc",
   "pzem-edl",
   "qlibs",
   "qp-arduino",
