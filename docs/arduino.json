@@ -2409,6 +2409,7 @@
   "ESP32MidiPlayer",
   "ESP32MotorControl",
   "ESP32N8NButton",
+  "ESP32ProvisionToolkit",
   "ESP32PsramLock",
   "ESP32RotaryEncoder",
   "ESP32S3_SUPERMINI_PINOUT",
