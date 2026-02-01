@@ -5946,6 +5946,7 @@
   "RunAvgWeight",
   "RunningAverage",
   "RunningMedian",
+  "RunningMinMax",
   "RunningStats",
   "RussianText_u8g",
   "RustyKeypad",
