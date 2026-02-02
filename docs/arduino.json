@@ -1407,6 +1407,7 @@
   "Brasilino",
   "BresserWeatherSensorReceiver",
   "BrgOfTheCyber_RTC",
+  "BrgOfTheCyber_SCD4x",
   "Bridge",
   "BridgeHttpClient",
   "Bridgetek_EVE1",
