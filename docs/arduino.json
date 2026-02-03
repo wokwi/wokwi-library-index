@@ -8461,6 +8461,7 @@
   "mjson",
   "modbus-esp8266",
   "modbusrtu",
+  "moddoMOUSE",
   "modem-freeRTOS",
   "moduloMap",
   "monitor_printf",
