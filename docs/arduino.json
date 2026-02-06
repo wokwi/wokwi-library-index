@@ -1976,6 +1976,7 @@
   "DHT12 sensor library",
   "DHT20",
   "DHT22",
+  "DHT22_Clone_ESP32",
   "DHT2pin",
   "DHTINT",
   "DHTNEW",
