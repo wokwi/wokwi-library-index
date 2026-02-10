@@ -4960,6 +4960,7 @@
   "NezaIR",
   "NibbleArray",
   "NimBLE-Arduino",
+  "NimBLE-DataPipe",
   "Nintendo",
   "Nintendo Extension Ctrl",
   "NintendoControllersSTM32",
