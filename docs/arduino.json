@@ -3639,6 +3639,7 @@
   "IridiumSBDi2c",
   "Irisoled",
   "Irms_calc",
+  "IskakINO_LiquidCrystal_I2C",
   "Isolated EC Probe Interface",
   "Isolated ISE Probe Interface",
   "Itty Bitty",
