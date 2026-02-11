@@ -5761,6 +5761,7 @@
   "RP2040_Slow_PWM",
   "RPAsyncTCP",
   "RPI_PICO_TimerInterrupt",
+  "RPL",
   "RPM",
   "RPlatform",
   "RPulse",
