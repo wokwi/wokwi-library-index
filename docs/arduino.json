@@ -7188,6 +7188,7 @@
   "TFTPClient",
   "TFTTerminal",
   "TFT_22_ILI9225",
+  "TFT_RoboEyes",
   "TFT_eSPI",
   "TFT_eSPI_ES32Lab",
   "TFT_eSPI_Scroll",
