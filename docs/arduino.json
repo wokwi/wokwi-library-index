@@ -3649,6 +3649,7 @@
   "IridiumSBDi2c",
   "Irisoled",
   "Irms_calc",
+  "IskakINO_ArduFast",
   "IskakINO_LiquidCrystal_I2C",
   "IskakINO_WifiPortal",
   "Isolated EC Probe Interface",
