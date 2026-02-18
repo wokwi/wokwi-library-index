@@ -4917,6 +4917,7 @@
   "NTP",
   "NTPClient",
   "NTPClient_Generic",
+  "NTPSharp",
   "NTPtime",
   "NTimer",
   "NVSRAM",
