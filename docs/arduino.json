@@ -980,6 +980,7 @@
   "AsyncTask",
   "AsyncTaskLib",
   "AsyncTelegram2",
+  "AsyncTelnet",
   "AsyncTempSensor",
   "AsyncTimer",
   "AsyncTimerLib",
