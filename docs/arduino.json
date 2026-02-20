@@ -3691,6 +3691,7 @@
   "JTAG_Interface",
   "JVC-Stereo",
   "JWA BME280",
+  "JWMatrixButtons",
   "JWTUtils",
   "JWT_RS256",
   "JadeRobotics_Spiderbot",
