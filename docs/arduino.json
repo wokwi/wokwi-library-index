@@ -3995,6 +3995,7 @@
   "LightDimmer",
   "LightEffect",
   "LightMDNS",
+  "LightScheduler",
   "LightTaskScheduler",
   "LightningStepper",
   "LightweightIoT",
