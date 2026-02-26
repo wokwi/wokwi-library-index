@@ -8719,6 +8719,7 @@
   "roo_control",
   "roo_display",
   "roo_flags",
+  "roo_fonts_basic",
   "roo_icons",
   "roo_io",
   "roo_io_arduino",
