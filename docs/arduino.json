@@ -6036,6 +6036,7 @@
   "SAMDUE_TimerInterrupt",
   "SAMD_ISR_Servo",
   "SAMD_PWM",
+  "SAMD_SafeFlashStorage",
   "SAMD_Slow_PWM",
   "SAMD_TimerInterrupt",
   "SBC",
