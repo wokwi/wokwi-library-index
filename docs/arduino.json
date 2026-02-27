@@ -7382,6 +7382,7 @@
   "TelegramBotClient",
   "TelegramESP32",
   "TelegramMess",
+  "TelegramSerial",
   "Telegraph",
   "Teleinfo",
   "Telemetrix4Arduino",
