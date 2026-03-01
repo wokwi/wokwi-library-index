@@ -4760,6 +4760,7 @@
   "ModbusMaster_GigaR1",
   "ModbusPowerMeter",
   "ModbusRTU",
+  "ModbusRTU-pico",
   "ModbusRTUComm",
   "ModbusRTUMaster",
   "ModbusRTUSlave",
