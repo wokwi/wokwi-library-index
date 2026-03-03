@@ -207,6 +207,7 @@
   "AM1002-UART",
   "AM1008W-K I2C",
   "AM2302-Sensor",
+  "AM2302-Sensor-Pi-Pico",
   "AM2315",
   "AM2315C",
   "AM2320_asukiaaa",
