@@ -6144,6 +6144,7 @@
   "SL002_DHT11",
   "SLIC",
   "SLIPStream",
+  "SL_PumpDriver",
   "SL_simpletask",
   "SMA SunnyBoy Reader",
   "SMC",
