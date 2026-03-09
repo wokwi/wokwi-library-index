@@ -7476,6 +7476,7 @@
   "Thingsly_IoT_Platform",
   "Thingworx ESP32",
   "Thread",
+  "ThreadSafeFS",
   "ThreadSafePing",
   "ThreadedTimer",
   "ThreeD",
