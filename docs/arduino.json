@@ -2472,6 +2472,7 @@
   "ESP32WebRemoteControl",
   "ESP32WiFiEnterprise",
   "ESP32WiFiProvisioner",
+  "ESP32Wiimote",
   "ESP32_AI_Connect",
   "ESP32_BleSerial",
   "ESP32_Button",
