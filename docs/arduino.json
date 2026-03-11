@@ -2648,6 +2648,7 @@
   "EasyGNSS",
   "EasyHTTP",
   "EasyInterval",
+  "EasyLED",
   "EasyLed",
   "EasyLogger",
   "EasyMQTT",
