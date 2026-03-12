@@ -4885,6 +4885,7 @@
   "Muwerk scheduler library",
   "Muwerk ustd library",
   "Mux7SegsDisplay",
+  "MuxControl",
   "MvcWebServerLib",
   "MvsOTA_ESP32",
   "MyAlarm",
