@@ -7595,6 +7595,7 @@
   "TinyTrainable",
   "TinyUPnP",
   "TinyUSBSimplePacketComs",
+  "TinyUSB_MIDI_Device_Arduino",
   "TinyWireM",
   "TinyXML",
   "Tinyfox",
