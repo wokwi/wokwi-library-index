@@ -7726,6 +7726,8 @@
   "UTFT_SdRaw",
   "UUID",
   "UUIDv7",
+  "UUtzinger_RingBuffer",
+  "UUtzinger_logger",
   "UWB-MaUWB-AT",
   "Ubidots Arduino YUN",
   "Ubidots FONA Library",
