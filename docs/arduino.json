@@ -951,6 +951,7 @@
   "AssuraVisionSerial",
   "AstroCalcs",
   "AstroMech",
+  "Async SHT4x",
   "Async TCP",
   "AsyncAnalog",
   "AsyncBMP180Wrapper",
