@@ -1103,6 +1103,7 @@
   "BLE Serial - NUS",
   "BLE-Gamepad-Client",
   "BLE-MIDI",
+  "BLEOTA",
   "BLEPeripheral",
   "BLESensorGateway",
   "BLESerial",
