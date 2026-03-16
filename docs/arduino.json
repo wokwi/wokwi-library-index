@@ -4892,6 +4892,7 @@
   "Mux7SegsDisplay",
   "MuxControl",
   "MvcWebServerLib",
+  "MvsConnect",
   "MvsOTA_ESP32",
   "MyAlarm",
   "MyBlinker",
