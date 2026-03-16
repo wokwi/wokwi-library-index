@@ -2457,6 +2457,7 @@
   "ESP32Logger2",
   "ESP32MQTTClient",
   "ESP32MX1508",
+  "ESP32MacroPad",
   "ESP32MidiPlayer",
   "ESP32MotorControl",
   "ESP32MultiWiFiProvision",
