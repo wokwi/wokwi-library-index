@@ -331,6 +331,7 @@
   "AceTimeClock",
   "AceUtils",
   "AceWire",
+  "AchiraWareMotor_DRV8830",
   "AcksenButton",
   "AcksenIntEEPROM",
   "AcksenPump",
