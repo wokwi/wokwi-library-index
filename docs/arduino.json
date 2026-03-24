@@ -5510,6 +5510,7 @@
   "PicoMQTT",
   "PicoPLC",
   "PicoSoftwareSerial",
+  "PicoSound",
   "PicoStep",
   "PicoSyslog",
   "PicoWebsocket",
