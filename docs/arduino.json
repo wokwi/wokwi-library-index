@@ -2497,6 +2497,7 @@
   "ESP32_Button",
   "ESP32_C3_ISR_Servo",
   "ESP32_C3_TimerInterrupt",
+  "ESP32_CPWIFI",
   "ESP32_Display_Panel",
   "ESP32_ENC_Manager",
   "ESP32_Ethernet_Manager",
