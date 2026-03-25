@@ -8753,6 +8753,8 @@
   "nanoFORTH",
   "nb-twi-cmd",
   "nikki.esp32",
+  "nikki.esp8266",
+  "nikki.unoR4",
   "nlohmann-json",
   "nodepp",
   "nonblockingtimer",
