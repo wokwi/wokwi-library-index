@@ -7774,6 +7774,7 @@
   "USBMIDI",
   "USBPause",
   "USBPowerDelivery",
+  "USBSnifferPIO_RP2040",
   "USBStatus",
   "USIWire",
   "UTF8 Print AdaGfx",
