@@ -4902,6 +4902,7 @@
   "MultiSensorFilter",
   "MultiStepperLite",
   "MultiTaskLib",
+  "MultiTimerSAMD",
   "MultiTrans",
   "MultiWire",
   "Multi_BitBang",
