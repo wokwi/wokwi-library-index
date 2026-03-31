@@ -3665,6 +3665,7 @@
   "InitJson",
   "InitMQTT",
   "InkaLogicModbus",
+  "Inkplate LVGL Library",
   "Inkplate Motion Library",
   "InkplateLibrary",
   "InkyBoard",
