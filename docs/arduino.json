@@ -6724,6 +6724,7 @@
   "SimpleAD9833",
   "SimpleBME280",
   "SimpleBox",
+  "SimpleCANio",
   "SimpleCLI",
   "SimpleCollections",
   "SimpleComponents",
