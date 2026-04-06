@@ -5209,6 +5209,8 @@
   "OSS-EC_TI_LM50C_00000057",
   "OSS-EC_TI_TMP9A00_00000057",
   "OSynaptic-FX",
+  "OSynaptic-RX",
+  "OSynaptic-TX",
   "OTAEsp",
   "OTAUpdateManager",
   "OTAWrapper",
