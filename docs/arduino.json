@@ -2547,6 +2547,7 @@
   "ESP32_MCPWM",
   "ESP32_MQTTClient",
   "ESP32_MQTTv5",
+  "ESP32_Multitasking_Network_Suite",
   "ESP32_MySQL",
   "ESP32_New_ISR_Servo",
   "ESP32_New_TimerInterrupt",
