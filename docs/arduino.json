@@ -6626,6 +6626,7 @@
   "Sensirion UPT Core",
   "Sensirion UPT Display",
   "Sensirion UPT I2C Auto Detection",
+  "SensirionI2cSgp43",
   "Sensor",
   "Sensor Communication Library",
   "SensorCurrent",
