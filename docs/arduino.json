@@ -9168,6 +9168,7 @@
   "vovagorodok_ArduinoBleBattery",
   "vovagorodok_ArduinoBleChess",
   "vovagorodok_ArduinoBleOTA",
+  "vovagorodok_ArduinoBleSerial",
   "vovagorodok_ArduinoBuzzer",
   "vovagorodok_ArduinoPin",
   "vovagorodok_ArduinoStreamLogger",
