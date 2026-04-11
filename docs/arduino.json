@@ -1524,6 +1524,7 @@
   "CANMessage",
   "CAN_BUS_Shield",
   "CAN_MREx",
+  "CANduino",
   "CB-HCHO-V4",
   "CBUS",
   "CBUS2515",
