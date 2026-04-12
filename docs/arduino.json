@@ -1502,6 +1502,7 @@
   "ButtonGestures",
   "ButtonKing",
   "ButtonMatrix",
+  "ButtonPoll",
   "ButtonSuite",
   "ButtonToSwitch",
   "ButtonToSwitch_ESP32",
