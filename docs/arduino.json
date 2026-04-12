@@ -3508,6 +3508,7 @@
   "HardwareSerial_RS485",
   "Harvard_TinyMLx",
   "Hashtable",
+  "HeapSafeLog",
   "HeartBeat",
   "HeatpumpIR",
   "HeidelbergInterface",
