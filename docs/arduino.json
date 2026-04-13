@@ -7478,6 +7478,7 @@
   "TMC2130Stepper",
   "TMC2208Stepper",
   "TMC2209",
+  "TMC22xxDriver",
   "TMC429",
   "TMC5072",
   "TMC51X0",
