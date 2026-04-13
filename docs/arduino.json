@@ -6157,6 +6157,7 @@
   "RohitCore-Communication",
   "RohitCore-Logger",
   "RohitCore-Sensor",
+  "RohitCore-Storage",
   "RohitCore-Telemetry",
   "RohitCore-Timer",
   "RokitSmart",
