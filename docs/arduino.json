@@ -4317,6 +4317,7 @@
   "M5Unit-KMeterISO",
   "M5Unit-METER",
   "M5Unit-MQTT",
+  "M5Unit-NFC",
   "M5Unit-PbHub",
   "M5Unit-PoESP32",
   "M5Unit-RELAY",
