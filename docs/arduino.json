@@ -2853,6 +2853,7 @@
   "EspNow2Mqtt",
   "EspNowBus",
   "EspNowCam",
+  "EspNowDev",
   "EspNowJoystick",
   "EspNowNetworkHost",
   "EspNowNetworkHostDriver",
