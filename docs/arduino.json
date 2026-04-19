@@ -2972,6 +2972,7 @@
   "FTDebouncer",
   "FTOLED",
   "FTPClient_Generic",
+  "FTPSclientOPTA",
   "FTP_Server_Teensy41",
   "FTPduino",
   "FTRGBLED",
