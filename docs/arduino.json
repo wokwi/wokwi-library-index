@@ -6698,6 +6698,7 @@
   "SerialCom",
   "SerialCommand",
   "SerialCommand Advanced",
+  "SerialCommandCoordinator",
   "SerialCommandManager",
   "SerialCommands",
   "SerialConfigCommand",
