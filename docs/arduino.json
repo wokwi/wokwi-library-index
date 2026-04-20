@@ -2519,6 +2519,7 @@
   "ESP32MotorControl",
   "ESP32MultiWiFiProvision",
   "ESP32N8NButton",
+  "ESP32P4_ULP",
   "ESP32ProvisionToolkit",
   "ESP32PsramLock",
   "ESP32RotaryEncoder",
