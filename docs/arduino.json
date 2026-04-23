@@ -7039,6 +7039,8 @@
   "Soldered BMP280 Arduino Library",
   "Soldered BQ27441-G1 Arduino Library",
   "Soldered CAN Bus Breakout Arduino Library",
+  "Soldered Compass AK09918",
+  "Soldered DE2120",
   "Soldered DS3234 RTC",
   "Soldered Fingerprint Sensor",
   "Soldered Hall Effect Arduino Library",
