@@ -8570,6 +8570,7 @@
   "esp-iot-utils",
   "esp-lib-utils",
   "esp-mqtt-arduino",
+  "esp-ps5",
   "esp-rtosSerial",
   "esp32-BG95",
   "esp32-BLE112",
