@@ -2584,6 +2584,7 @@
   "ESP32_SC_W6100_Manager",
   "ESP32_SemBeacon",
   "ESP32_SerialRMT",
+  "ESP32_SharpIR",
   "ESP32_SoftWire",
   "ESP32_TWAI",
   "ESP32_Thermistor",
