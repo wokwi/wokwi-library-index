@@ -3196,6 +3196,7 @@
   "GBALib_ShiftRegister",
   "GBALib_UltrasonicSensor",
   "GBALib_Wave",
+  "GC9107_LTSM",
   "GC9A01A AVR",
   "GC9A01_LTSM",
   "GC9D01_LTSM",
