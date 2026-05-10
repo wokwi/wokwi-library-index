@@ -5190,6 +5190,7 @@
   "NeuButton",
   "NeuEEPROM",
   "NeuFrame",
+  "NeuKV",
   "NeuNVS",
   "NeuStorage",
   "NeumannCorrector",
