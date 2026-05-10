@@ -2691,6 +2691,7 @@
   "ESP_AT_Lib",
   "ESP_AT_WM_Lite",
   "ESP_AT_WiFiManager",
+  "ESP_ChaCha",
   "ESP_DoubleResetDetector",
   "ESP_EEPROM",
   "ESP_FC28",
