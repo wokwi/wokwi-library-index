@@ -7848,6 +7848,7 @@
   "TinyPortal",
   "TinyRC522",
   "TinyRTCLib",
+  "TinyRTOS",
   "TinyScheduler",
   "TinyScreen",
   "TinySerial",
