@@ -6941,6 +6941,7 @@
   "SimpleMotionV2-Arduino",
   "SimpleNetManager",
   "SimpleOLED",
+  "SimpleOTAClient",
   "SimplePacketComs",
   "SimplePortal",
   "SimpleProperties",
