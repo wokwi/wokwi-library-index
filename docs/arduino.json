@@ -2221,6 +2221,7 @@
   "DashioMKR1500",
   "DashioNano33BLE",
   "DashioSAMD_NINA",
+  "DashlyClient",
   "DataLinkSerial",
   "DataLogger",
   "DataSeriesPod",
