@@ -1800,6 +1800,7 @@
   "ConfigTool",
   "ConfigurableFirmata",
   "Connect Arduino-Supabase",
+  "ConnectKit",
   "ConnectThings_ESP8266",
   "ConnectionHelper",
   "ConsentiumNow",
