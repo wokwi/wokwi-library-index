@@ -6809,6 +6809,7 @@
   "SerialMessageEvents",
   "SerialNetworkBridge",
   "SerialRFID",
+  "SerialRGBLed",
   "SerialRecord",
   "SerialSDManager",
   "SerialServo",
