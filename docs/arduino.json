@@ -2617,6 +2617,7 @@
   "ESP32_W6100_Manager",
   "ESP32_WS2812B",
   "ESP32_WS2812_Lib",
+  "ESP32_WebGPIO",
   "ESP32_WiFi_Connect",
   "ESP32_easy_wifi_data",
   "ESP32_ppm",
