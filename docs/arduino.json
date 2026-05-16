@@ -6451,6 +6451,7 @@
   "SPIFFS_FilePrint",
   "SPIFFS_Shell",
   "SPIFlash_LowPowerLab",
+  "SPIKeyPad",
   "SPIMemory",
   "SPIShiftRegister",
   "SPL06-001",
