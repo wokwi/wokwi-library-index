@@ -7889,6 +7889,7 @@
   "TinyRC522",
   "TinyRTCLib",
   "TinyRTOS",
+  "TinyRingBuffer",
   "TinyScheduler",
   "TinyScreen",
   "TinySerial",
