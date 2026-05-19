@@ -5246,6 +5246,7 @@
   "Neza74HC595",
   "NezaButton",
   "NezaIR",
+  "NezaRTC",
   "NibbleArray",
   "NimBLE-Arduino",
   "NimBLE-DataPipe",
