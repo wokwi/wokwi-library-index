@@ -5540,6 +5540,7 @@
   "PIDController",
   "PIDEasy",
   "PIDEasy-Improved",
+  "PID_5_Sensors",
   "PID_DG",
   "PID_RT",
   "PID_Timed",
