@@ -7164,6 +7164,7 @@
   "Soldered LSM6DSO Arduino Library",
   "Soldered LSM9DS1TR Arduino Library",
   "Soldered LTR-507 Arduino Library",
+  "Soldered Library for Relays",
   "Soldered MCP23017 Arduino Library",
   "Soldered MCP4018 Arduino Library",
   "Soldered MCP47A1 DAC library",
