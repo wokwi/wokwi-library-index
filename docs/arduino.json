@@ -3893,6 +3893,8 @@
   "JW_DWIN_RS485",
   "JW_FRAM",
   "JW_MatrixButtons",
+  "JW_RTC",
+  "JW_SD",
   "JadeRobotics_Spiderbot",
   "JavaScript",
   "Javino",
