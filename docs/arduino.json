@@ -5140,6 +5140,7 @@
   "MycilaWebSerial",
   "MyoWare Arduino Library",
   "N64Controller",
+  "N64Controller-ESP32",
   "N64Pad",
   "NB_Generic",
   "NBitArray",
