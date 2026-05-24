@@ -1346,6 +1346,7 @@
   "Bind",
   "BioData",
   "BioLogic",
+  "BioLogic_Mini",
   "BioLogic_STM32",
   "BirdhouseSDK",
   "BistableRelay",
