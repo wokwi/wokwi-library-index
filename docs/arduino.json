@@ -3611,6 +3611,7 @@
   "HighPowerStepperDriver",
   "HijelHID_BLEKeyboard",
   "HijelHID_BLEMouse",
+  "Hijri_date",
   "Histogram",
   "Hlw8032",
   "Hmi4DinBox",
