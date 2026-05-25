@@ -7167,6 +7167,7 @@
   "Soldered BME280 and BME680 EasyC Library",
   "Soldered BMP280 Arduino Library",
   "Soldered BQ27441-G1 Arduino Library",
+  "Soldered Basic Stepper Driver Arduino Library",
   "Soldered Button LED Buzzer Board Arduino Library",
   "Soldered CAN Bus Breakout Arduino Library",
   "Soldered Compass AK09918",
