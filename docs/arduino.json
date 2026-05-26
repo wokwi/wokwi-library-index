@@ -3496,6 +3496,7 @@
   "HAMqttDevice",
   "HAMqttDiscoveryHandler",
   "HANUMAN_32",
+  "HANUMAN_32_mini",
   "HC-SR04",
   "HC0x_AT_Config",
   "HC4051",
