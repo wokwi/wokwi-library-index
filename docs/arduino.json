@@ -3633,6 +3633,7 @@
   "HoverboardAPI",
   "HttpCall",
   "HttpClient",
+  "HttpDigestAuth",
   "HttpRequests",
   "Hublink BEAM",
   "Hublink-Node",
