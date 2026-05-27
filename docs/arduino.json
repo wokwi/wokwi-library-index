@@ -2245,6 +2245,7 @@
   "DatavisionLCD",
   "DateTimeFunctions",
   "DcDccNanoController",
+  "DdsOscillator",
   "DeadReckoning-library",
   "Debounce",
   "DebounceEvent",
