@@ -1530,6 +1530,7 @@
   "ButtonMatrix",
   "ButtonPoll",
   "ButtonPoll_CW",
+  "ButtonSense",
   "ButtonSuite",
   "ButtonToSwitch",
   "ButtonToSwitch_ESP32",
