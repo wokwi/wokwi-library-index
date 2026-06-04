@@ -276,6 +276,7 @@
   "AP_DCC_Decoder_Core",
   "AP_DCC_Library",
   "ARAM_FS_Stepper",
+  "ARAM_Toggle_Actuator",
   "AS-289R2 Thermal Printer Shield",
   "AS1115",
   "AS3935",
