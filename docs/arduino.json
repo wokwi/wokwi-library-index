@@ -5307,6 +5307,8 @@
   "Nintendo Extension Ctrl",
   "NintendoControllersSTM32",
   "NintendoSwitchControlLibrary",
+  "NiusIMU",
+  "NiusZigbee",
   "NmraDcc",
   "NoBlockEEPROM",
   "NoDelay",
