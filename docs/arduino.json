@@ -7900,6 +7900,7 @@
   "TimLib",
   "Timber",
   "Time",
+  "Time64",
   "TimeAlarms",
   "TimeInterrupt",
   "TimeInterval",
