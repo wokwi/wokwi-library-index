@@ -1553,6 +1553,8 @@
   "BuzzerPIO_RP2040",
   "BuzzerXCR",
   "ByteConvert",
+  "ByteFrame",
+  "BytePack",
   "BytebeamArduino",
   "Byteduino",
   "CAGEduino",
