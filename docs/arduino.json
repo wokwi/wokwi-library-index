@@ -3114,6 +3114,7 @@
   "FanController",
   "FancyTerminal",
   "FansElectronics_DMD32",
+  "FansElectronics_DMD8266",
   "FansElectronics_License",
   "Fast4ier",
   "FastAccelStepper",
