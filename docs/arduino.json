@@ -277,6 +277,7 @@
   "APSNode",
   "AP_DCC_Decoder_Core",
   "AP_DCC_Library",
+  "AQ01",
   "ARAM_FS_Stepper",
   "ARAM_Toggle_Actuator",
   "AS-289R2 Thermal Printer Shield",
