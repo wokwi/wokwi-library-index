@@ -3543,6 +3543,7 @@
   "HCSR04",
   "HCSR04 ultrasonic MKL",
   "HCSR04 ultrasonic sensor",
+  "HCSR04_ESP_Hardware",
   "HCSRO4_attachInterrupt",
   "HC_SR04",
   "HD44780_LCD_PCF8574",
