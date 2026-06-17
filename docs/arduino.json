@@ -2322,6 +2322,7 @@
   "DevLab_BL",
   "DevLab_BMI323",
   "DevLab_ICM20948",
+  "DevLab_VEML7700",
   "Devatext",
   "DeviceConfigJSON",
   "DeviceController",
