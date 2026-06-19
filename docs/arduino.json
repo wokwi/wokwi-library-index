@@ -5599,6 +5599,7 @@
   "PCMFlowG711",
   "PCMFlowG722",
   "PCMFlowOpus",
+  "PCMFlowUDP",
   "PCR",
   "PCT2075",
   "PD-10LX-Library",
