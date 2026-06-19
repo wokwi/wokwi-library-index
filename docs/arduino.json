@@ -5594,6 +5594,7 @@
   "PCM",
   "PCM51xx DAC",
   "PCMFlow",
+  "PCMFlowDevice",
   "PCMFlowG711",
   "PCMFlowG722",
   "PCMFlowOpus",
