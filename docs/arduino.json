@@ -3968,6 +3968,7 @@
   "Joystick 5-Pin",
   "Joystick-KY023",
   "JoystickController",
+  "JoystickProtocol",
   "Joystick_ESP32S2",
   "JrkG2",
   "JsmnStream",
