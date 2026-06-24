@@ -1016,6 +1016,7 @@
   "Async TCP",
   "AsyncAnalog",
   "AsyncBMP180Wrapper",
+  "AsyncBitMatrix",
   "AsyncButton",
   "AsyncDNSServer_ESP32_ENC",
   "AsyncDNSServer_ESP32_Ethernet",
