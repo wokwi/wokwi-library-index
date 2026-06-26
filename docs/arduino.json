@@ -5304,6 +5304,7 @@
   "NeoPixelBus by Makuna",
   "NeoPixelConnect",
   "NeoSWSerial",
+  "NeoStreaming",
   "NeonPostgresOverHTTP",
   "NeopixelCommander",
   "Neosegment",
