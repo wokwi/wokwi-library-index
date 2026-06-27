@@ -1560,6 +1560,7 @@
   "BuzzerMelody",
   "BuzzerPIO_RP2040",
   "BuzzerXCR",
+  "ByteBuffer",
   "ByteConvert",
   "ByteFrame",
   "BytePack",
