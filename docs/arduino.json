@@ -4316,6 +4316,7 @@
   "LionBit-STEM-library",
   "LionLogger",
   "LionRtosTask",
+  "LionTask",
   "Liquid Handling Robotics",
   "LiquidCrystal",
   "LiquidCrystal I2C",
