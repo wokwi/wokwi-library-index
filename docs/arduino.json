@@ -2580,6 +2580,7 @@
   "ESP32AI Voice Command",
   "ESP32AnalogRead",
   "ESP32AutoTask",
+  "ESP32BLECombo",
   "ESP32CAR",
   "ESP32CertBundle",
   "ESP32Console",
