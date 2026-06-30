@@ -3216,6 +3216,7 @@
   "FixedString",
   "Fixed_Point_int",
   "Flanco",
+  "FlareDom",
   "Flash",
   "FlashLightLED",
   "FlashStorage",
