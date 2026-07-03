@@ -2364,6 +2364,7 @@
   "Digital Rain Animation",
   "DigitalButton",
   "DigitalIO",
+  "DigitalOutput",
   "DigitalSignalsArduino",
   "DimSwitch",
   "Dimmable Light for Arduino",
