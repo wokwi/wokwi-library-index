@@ -1060,6 +1060,7 @@
   "AsyncSerial",
   "AsyncServoLib",
   "AsyncSonar",
+  "AsyncState",
   "AsyncStepperLib",
   "AsyncStream",
   "AsyncTCP",
