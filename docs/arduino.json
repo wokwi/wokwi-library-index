@@ -1280,6 +1280,7 @@
   "BMduino_BW16",
   "BMx280",
   "BMx280MI",
+  "BMx280PIO_RP2040",
   "BNO055",
   "BNO055SimplePacketComs",
   "BOF-Bling_On_ofF",
