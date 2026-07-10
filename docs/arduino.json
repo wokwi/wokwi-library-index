@@ -972,6 +972,7 @@
   "Arduino_USBHIDHost",
   "Arduino_USBHostMbed5",
   "Arduino_UnifiedStorage",
+  "Arduino_UniqueHWId",
   "Arduino_Video",
   "ArduinosInSpace",
   "Ardwloop",
