@@ -331,6 +331,7 @@
   "ATtiny_TimerInterrupt",
   "AUnit",
   "AVR Standard C Time Library",
+  "AVR Task Scheduler",
   "AVR-IoT MCP9808",
   "AVR-IoT VEML3328",
   "AVR-IoT-Cellular",
