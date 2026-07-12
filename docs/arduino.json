@@ -8337,6 +8337,7 @@
   "V7RCRobot-ESP32",
   "V7RCServoDriver",
   "VALMUX16",
+  "VCAN2515",
   "VCNL3040 Proximity Sensor Library",
   "VCNL36687",
   "VCNL4010",
