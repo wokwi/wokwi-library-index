@@ -8561,6 +8561,7 @@
   "WioCellular",
   "WireData",
   "WireGuard-ESP32",
+  "WirePIO",
   "WireSusi",
   "WireUpdate",
   "WireUtility Library",
