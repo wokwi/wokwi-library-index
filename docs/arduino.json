@@ -5233,6 +5233,7 @@
   "MyButtons",
   "MyDHT22",
   "MyDelay",
+  "MyDisplayLogging",
   "MyKeywords",
   "MyLD2410",
   "MyLedIO",
