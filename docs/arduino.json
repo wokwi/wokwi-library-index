@@ -6540,6 +6540,7 @@
   "SBC",
   "SBK_AvrBuzzer",
   "SBK_BarDrive",
+  "SBK_Button",
   "SBK_HT16K33",
   "SBK_MAX72xx",
   "SBUS2",
