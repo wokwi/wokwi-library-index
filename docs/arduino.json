@@ -4815,6 +4815,7 @@
   "MPU6050",
   "MPU6050Aries",
   "MPU6050_IND",
+  "MPU6050_Nexa",
   "MPU6050_VibrationRMS",
   "MPU6050_light",
   "MPU6050_tockn",
