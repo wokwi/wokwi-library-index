@@ -4623,6 +4623,7 @@
   "MAX6675_Thermocouple",
   "MAX6816",
   "MAX6953",
+  "MAX7219",
   "MAX7219Segment",
   "MAX7219_CH32",
   "MAX7300",
