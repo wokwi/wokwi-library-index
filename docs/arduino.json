@@ -5146,6 +5146,7 @@
   "ModbusRTUSlave",
   "ModbusRTU_Slave",
   "ModbusRTU_Slave_RS485",
+  "ModbusResponder",
   "ModbusSlaveLogic",
   "ModbusTCPComm",
   "ModbusTCPSlave",
