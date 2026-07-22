@@ -1159,6 +1159,7 @@
   "AyresWiFiManager",
   "Azure RTOS ThreadX",
   "Azure SDK for C",
+  "AzureIoT",
   "AzureIoTHubMQTTClient",
   "BACnetMSTP",
   "BBE IoT Class Library",
