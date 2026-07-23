@@ -5219,6 +5219,7 @@
   "MultiMap",
   "MultiResetDetector_Generic",
   "MultiSensorFilter",
+  "MultiServo",
   "MultiStepperLite",
   "MultiTaskLib",
   "MultiTimerSAMD",
