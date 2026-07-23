@@ -7403,6 +7403,7 @@
   "Soldered OLED Display Arduino Library",
   "Soldered Obstacle Sensor Arduino Library",
   "Soldered OpenAI Library",
+  "Soldered PCA9685 PWM Servo Driver",
   "Soldered PCAL6416A IO expander library",
   "Soldered PCF85063A RTC Arduino Library",
   "Soldered PMS7003 Arduino Library",
