@@ -7230,6 +7230,7 @@
   "SimpleVector",
   "SimpleWiFiClient",
   "SimpleWiFiManager",
+  "SimpleWifiManager",
   "Simple_Esp32WiFiManager",
   "Simple_HC-SR04_Control",
   "Simple_HCSR04",
