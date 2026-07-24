@@ -9655,6 +9655,7 @@
   "uTimerBrokerLib",
   "uTimerLib",
   "uUnixDate",
+  "uWire",
   "ucPack",
   "ue_i2c_icp_10111_sen",
   "uiwidgets",
