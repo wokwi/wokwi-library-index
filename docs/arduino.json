@@ -2966,6 +2966,7 @@
   "EnviroDIY_DS3231",
   "Environment",
   "Ephemeris",
+  "EpochTime",
   "Epson_PNL_CE02",
   "Epson_SU_SPI",
   "Epson_SU_UART",
