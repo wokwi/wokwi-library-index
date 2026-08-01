@@ -2358,6 +2358,8 @@
   "DevLab_ICM20948",
   "DevLab_JoystickController",
   "DevLab_MAX30102",
+  "DevLab_MPU6050",
+  "DevLab_TCAN1051HVD",
   "DevLab_VEML3328",
   "DevLab_VEML7700",
   "Devatext",
