@@ -8999,6 +8999,7 @@
   "due_can",
   "dustSensor_kocoa",
   "dv_average_accumulator8",
+  "dv_dual_hold_state",
   "dv_every_interval",
   "dv_iir_filter8",
   "dv_led_blink",
