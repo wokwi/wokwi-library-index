@@ -1168,6 +1168,7 @@
   "Azure SDK for C",
   "AzureIoT",
   "AzureIoTHubMQTTClient",
+  "BACnet-Arduino",
   "BACnetMSTP",
   "BBE IoT Class Library",
   "BBQ10Keyboard",
