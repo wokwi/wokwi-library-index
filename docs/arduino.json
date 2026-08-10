@@ -1150,6 +1150,7 @@
   "AutomationTimers",
   "Automaton",
   "Automaton-Esp8266",
+  "AutonomniOTA",
   "AvantLumi",
   "AverageAngle",
   "AverageValue",
