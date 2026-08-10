@@ -9077,6 +9077,7 @@
   "esp-rtosSerial",
   "esp32-BG95",
   "esp32-BLE112",
+  "esp32-afsk",
   "esp32-ds18b20",
   "esp32-flashz",
   "esp32-pasori-rcs300",
