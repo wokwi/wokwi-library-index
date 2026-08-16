@@ -2641,6 +2641,7 @@
   "ESP32FwUploader",
   "ESP32IMDB",
   "ESP32IRPulseKit",
+  "ESP32IoTSDK",
   "ESP32KeyBridge",
   "ESP32Logger",
   "ESP32Logger2",
