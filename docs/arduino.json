@@ -4382,6 +4382,7 @@
   "LightMDNS",
   "LightScheduler",
   "LightTaskScheduler",
+  "LighthouseReckoning",
   "LightningStepper",
   "LightweightIoT",
   "LightweightNeuralNetwork",
