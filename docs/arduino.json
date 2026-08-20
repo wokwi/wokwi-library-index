@@ -2618,6 +2618,7 @@
   "ESP32-EasyWolfSSL",
   "ESP32-HTTP-Client",
   "ESP32-IoT Framework",
+  "ESP32-MCP",
   "ESP32-OTA",
   "ESP32-OTA-Client",
   "ESP32-OTA-Pull",
