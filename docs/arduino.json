@@ -4130,6 +4130,7 @@
   "KeyDetector",
   "KeyMatrix",
   "KeySequence",
+  "KeyValueDatabase",
   "Keyboard",
   "KeyboardAzertyFr",
   "Keyhole",
