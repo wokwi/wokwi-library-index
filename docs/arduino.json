@@ -3770,6 +3770,7 @@
   "Hmi4DinBox",
   "HoldButton",
   "HoltzLib",
+  "HomeAssistantDiscovery",
   "HomeAssistantEntities",
   "HomeAssistantMQTT",
   "HomeDing",
