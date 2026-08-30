@@ -2686,6 +2686,7 @@
   "ESP32TinyUSB",
   "ESP32WebRemoteControl",
   "ESP32WiFiEnterprise",
+  "ESP32WiFiPortal",
   "ESP32WiFiProvisioner",
   "ESP32Wiimote",
   "ESP32_AI_Connect",
