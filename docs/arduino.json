@@ -7001,6 +7001,7 @@
   "SUSI2",
   "SWAP",
   "SWI2C",
+  "SWP2P",
   "SWSPI",
   "SWSerialOut",
   "SX126x-Arduino",
