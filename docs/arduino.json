@@ -6587,6 +6587,7 @@
   "RingBuf",
   "RingBufCPP",
   "RingBuffer",
+  "RingBufferStream",
   "RingEEPROM",
   "RingFileLogger",
   "Ringo by CircuitMess Library",
