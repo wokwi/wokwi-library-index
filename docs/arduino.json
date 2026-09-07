@@ -3329,6 +3329,7 @@
   "Fluxgrid",
   "FlyskyIBUS",
   "FmtLib",
+  "FmtTiny",
   "FontCollection",
   "Force",
   "Forced-BME280",
