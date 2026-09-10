@@ -1654,6 +1654,7 @@
   "CH32X035_USBMouse",
   "CH32X035_USBSerial",
   "CH32_Deep_Sleep",
+  "CH462x",
   "CH55xSwitchControl",
   "CH9328-Keyboard",
   "CH9329_Keyboard",
