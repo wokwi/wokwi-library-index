@@ -9218,6 +9218,7 @@
   "esp32-ds18b20",
   "esp32-flashz",
   "esp32-pasori-rcs300",
+  "esp32-rfid-switch",
   "esp32-rmt-ir",
   "esp32-rmt-pwm-reader",
   "esp32-shelly-ble-rpc",
