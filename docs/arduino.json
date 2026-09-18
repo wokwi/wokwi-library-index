@@ -7584,6 +7584,7 @@
   "Soldered BMP180 Arduino Library",
   "Soldered BMP280 Arduino Library",
   "Soldered BMP388 Arduino Library",
+  "Soldered BMP585 Barometric Pressure Sensor",
   "Soldered BQ27441-G1 Arduino Library",
   "Soldered Basic Stepper Driver Arduino Library",
   "Soldered Button LED Buzzer Board Arduino Library",
