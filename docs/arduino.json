@@ -4904,6 +4904,7 @@
   "MJScore",
   "MKE I2C MP3",
   "MKE_I2C_Loadcell",
+  "MKE_I2C_RFID",
   "MKE_ONE",
   "MKHC595",
   "MKL_DHT sensor library",
