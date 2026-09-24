@@ -2911,6 +2911,7 @@
   "EasyGNSS",
   "EasyHTTP",
   "EasyI2c",
+  "EasyIO",
   "EasyIR",
   "EasyInterval",
   "EasyJoystick",
