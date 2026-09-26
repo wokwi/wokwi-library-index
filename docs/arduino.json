@@ -5905,6 +5905,7 @@
   "PID_t",
   "PID_v1_bc",
   "PID_v2",
+  "PILOT_KWS",
   "PIO8255",
   "PIR",
   "PIR8575",
