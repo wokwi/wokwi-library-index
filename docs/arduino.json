@@ -2651,6 +2651,7 @@
   "ESP32-BLE-Gamepad",
   "ESP32-BLE-MIDI",
   "ESP32-Chimera-Core",
+  "ESP32-Diagnostics",
   "ESP32-ENC28J60",
   "ESP32-EasyWolfSSL",
   "ESP32-HTTP-Client",
