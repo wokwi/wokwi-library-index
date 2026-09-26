@@ -2834,6 +2834,7 @@
   "ESPLogger",
   "ESPMail",
   "ESPManager",
+  "ESPNetworkSerial",
   "ESPNexUpload",
   "ESPNowAdhoc",
   "ESPNowAutoPairing",
