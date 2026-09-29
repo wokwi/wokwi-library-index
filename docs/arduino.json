@@ -4981,6 +4981,7 @@
   "MPU6050_light",
   "MPU6050_tockn",
   "MPU9250",
+  "MPU9250-DMP",
   "MPU9250_WE",
   "MPU9250_asukiaaa",
   "MPXA6115A",
