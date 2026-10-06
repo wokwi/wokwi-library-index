@@ -5905,6 +5905,7 @@
   "PCFKeypad",
   "PCM",
   "PCM51xx DAC",
+  "PCMD3180",
   "PCMFlow",
   "PCMFlowBluetooth",
   "PCMFlowDevice",
