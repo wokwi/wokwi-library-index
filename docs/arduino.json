@@ -5151,6 +5151,7 @@
   "MaxLedControl",
   "MaxMtrParser",
   "MaximWire",
+  "MaxwellTrack",
   "Mbed BLE HID",
   "Mbed BLE Mouse",
   "MbedNanoTLS",
