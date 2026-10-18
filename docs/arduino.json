@@ -2773,6 +2773,7 @@
   "ESP32S3_SUPERMINI_PINOUT",
   "ESP32SPISlave",
   "ESP32SerialCtl",
+  "ESP32ServicePortal",
   "ESP32Servo",
   "ESP32Servo360",
   "ESP32ServoController",
