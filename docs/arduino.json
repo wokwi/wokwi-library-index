@@ -6987,6 +6987,7 @@
   "SLIPStream",
   "SL_PumpDriver",
   "SL_simpletask",
+  "SM16380_DMA",
   "SMA SunnyBoy Reader",
   "SMC",
   "SMV_CAN_Bus",
