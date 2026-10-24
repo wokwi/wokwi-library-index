@@ -6491,6 +6491,7 @@
   "QDispatch",
   "QList",
   "QMC5883LCompass",
+  "QMC5883PMagnetometer",
   "QMI8658",
   "QMan",
   "QN8066",
