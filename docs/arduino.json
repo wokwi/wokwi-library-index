@@ -2163,6 +2163,7 @@
   "DFRobot_HX711",
   "DFRobot_HX711_I2C",
   "DFRobot_Heartrate",
+  "DFRobot_HuskylensV2",
   "DFRobot_I2C_Multiplexer",
   "DFRobot_ICG20660L",
   "DFRobot_ICP10111",
