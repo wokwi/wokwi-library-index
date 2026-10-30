@@ -2373,6 +2373,7 @@
   "DTC Lookup",
   "DTF_ESP32Update",
   "DTF_ESP8266Update",
+  "DTG_IoT",
   "DTS6012M",
   "DTS6012M_UART",
   "DTime",
