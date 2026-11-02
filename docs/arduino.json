@@ -753,6 +753,7 @@
   "AlPlc_PMC",
   "Alarm",
   "Alash DS1302 RTC",
+  "AlashBME280",
   "AlashIRControl",
   "AlashKeypadMatrix",
   "AlashLEDMatrix8x8",
