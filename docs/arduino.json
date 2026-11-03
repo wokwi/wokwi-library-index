@@ -2532,6 +2532,7 @@
   "DevLab DVIPIO Graphics",
   "DevLabDDP",
   "DevLab_AudioDriver",
+  "DevLab_AudioInput",
   "DevLab_AudioTools",
   "DevLab_BL",
   "DevLab_BMI323",
