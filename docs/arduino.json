@@ -5880,6 +5880,7 @@
   "NtpClientLib",
   "NuS-NimBLE-Serial",
   "NuSock",
+  "NuaSense",
   "NukiClientESP",
   "NullPacketComms",
   "NullSerial",
