@@ -6627,6 +6627,7 @@
   "QC3Control",
   "QCFA",
   "QDEC",
+  "QDY30A_RS485",
   "QDispatch",
   "QList",
   "QMC5883LCompass",
