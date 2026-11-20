@@ -7105,6 +7105,7 @@
   "SBK_HT16K33",
   "SBK_MAX72xx",
   "SBUS2",
+  "SBUS2-Telemetry-ESP32",
   "SC03_C2H5OH",
   "SC16IS7X0",
   "SCA100T",
