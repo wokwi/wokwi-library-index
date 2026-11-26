@@ -3619,6 +3619,7 @@
   "Freenove WS2812 Lib for ESP32",
   "Freenove WS2812B RGBLED Controller",
   "Freenove_7_Inch_TouchScreen_Driver",
+  "Freenove_CSI_Sensor_Driver",
   "Freenove_Es8311_Audio_Driver",
   "FreqCount",
   "FreqMeasure",
