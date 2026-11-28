@@ -6684,6 +6684,7 @@
   "QDEC",
   "QDY30A_RS485",
   "QDispatch",
+  "QDollarRecognizer",
   "QList",
   "QMC5883LCompass",
   "QMC5883PMagnetometer",
